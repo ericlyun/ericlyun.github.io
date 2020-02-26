@@ -1,3 +1,7 @@
 _site/
 Gemfile.lock
+a.out
+*.cmi
+*.cmo
+*.o
 
