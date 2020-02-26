@@ -177,7 +177,7 @@ kramdown:
 
 # Collections
 collections:
-  students:
+  people:
     output: true
     permalink: /:collection/:path/
   teaching:
@@ -214,10 +214,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _students
+  # _people
   - scope:
       path: ""
-      type: students
+      type: people
     values:
       layout: single
       author_profile: true
