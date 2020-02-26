@@ -12,14 +12,11 @@ main:
   - title: "People"
     url: /people/
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+  - title: "Service"
+    url: /service
+
+  - title: "Research"
+    url: /research
+
+  - title: "Software Release"
+    url: /software
