@@ -20,8 +20,6 @@ I am an Associate Professor (with tenure) in the Department of Computer Science 
 
 I currently serve as Associate Editor of the ACM Transactions on Embedded Computing Systems (TECS) and Associate Editor of IEEE Embedded Systems Letters. I was the program chair of 30th Annual IEEE International Conference on Application-specific Systems, Architecture and Processors (ASAP) 2019 and the subcommittee chair of Asia South Pacific Design Automation Conference (ASPDAC) 2014. I also serve in the program committees in the premier conferences including DAC, ICCAD, DATE, ASPDAC, FPGA, FCCM, HPCA, ASPLOS, ISCA, PPoPP, PACT, CGO, ICS, CC, CASES, LCTES, ASAP, and ICCD. Prior to joining Peking University, I received my Ph.D in Computer Science from National University of Singapore in 2010. Upon graduation, I worked as a Research Scientist in UIUC. 
 
-[High resolution photo](/images/hires.jpg)
-
 ## To Perspective Postdocs, Students, and Interns
 
 I am looking for highly motivated graduate students, postdocs, and interns to work on system research including algorithms, programming language, compiler, embedded systems, and electronic design automation. Students with strong hands-on system building skills and algorithm background are especially welcomed. 
