@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yun Liang"
+title                    : "Yun (Eric) Liang"
 title_separator          : "-"
-name                     : &name "Yun Liang"
-description              : &description "Associate Professor, Center for Energy-efficient Computing and Applications (CECA), School of EECS, Peking University"
-url                      : https://ericlyun.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Yun (Eric) Liang"
+description              : &description "Associate Professor/Research Professor"
+url                      : http://192.168.133.2:4000 #https://ericlyun.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ericlyun/ericlyun.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,12 +82,14 @@ analytics:
 author:
   name             : "Yun (Eric) Liang"
   avatar           : "profile.png"
-  bio              : "Yun (Eric) Liang is an associate professor (with tenure) in School of EECS, Peking University, China."
-  location         : "518N Science Building #5"
-  employer         : "Peking University, China"
+  bio              : "I am an Associate Professor (with tenure) in the Department of Computer Science and Technology at Peking University and a member of Center for Energy-efficient Computing and Applications (CECA)."
+  location         :
+  location_long    : ['Room 518', 'Science Building #5']
+  employer         : "Peking University"
   pubmed           :
-  googlescholar    : "https://scholar.google.com.sg/citations?user=Ltp8loUAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=Ltp8loUAAAAJ&hl=en"
   email            : "ericlyun@pku.edu.cn"
+  phone            : "+86 10 6276 0779"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
