@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yun (Eric) Liang, Peking University"
+title: "Yun (Eric) Liang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,45 +8,54 @@ redirect_from:
   - /about.html
 ---
 
-Change the pages with real content.
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+**Associate Professor/Research Professor**
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+*Computer Science Department*  
+*Center for Energy-efficient Computing and Applications (CECA)*  
+*Peking University*  
+*Room 518, Science Building No.5, Yiheyuan Rd No.5, Beijing, 100871*
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+I am an Associate Professor (with tenure) in the Department of Computer Science and Technology at Peking University and a member of Center for Energy-efficient Computing and Applications (CECA). My research interests include computer architecture, compiler, electronics design automation, embedded system design, and high-performance computing. My recent publications investigate new algorithms, programming models, compiler optimization and tool-chain, design tools and methodologies, and hardware for high-performance and energy-efficient computer systems. I have authored over ninety scientific publications in the leading international journals and conferences. My research has been recognized with two Best Paper Awards (FCCM 2011 and ICCAD 2017), six Best Paper Award Nominations (PPoPP 2019, DAC 2017, ASPDAC 2016, DAC 2012, FPT 2011, CODES+ISSS 2008), the Beijing Natural Science Fund for Distinguished Young Scholars (2019), and Beijing Academy of Artificial Intelligence (BAAI) Young Scientist Award. I received the Excellence Teaching Award from Peking University in 2017. My research has been funded by NSFC, BNSF, SenseTime, Alibaba, etc. I am currently the Director of PKU-SenseTime Joint Lab of Intelligent Computing.
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+I currently serve as Associate Editor of the ACM Transactions on Embedded Computing Systems (TECS) and Associate Editor of IEEE Embedded Systems Letters. I was the program chair of 30th Annual IEEE International Conference on Application-specific Systems, Architecture and Processors (ASAP) 2019 and the subcommittee chair of Asia South Pacific Design Automation Conference (ASPDAC) 2014. I also serve in the program committees in the premier conferences including DAC, ICCAD, DATE, ASPDAC, FPGA, FCCM, HPCA, ASPLOS, ISCA, PPoPP, PACT, CGO, ICS, CC, CASES, LCTES, ASAP, and ICCD. Prior to joining Peking University, I received my Ph.D in Computer Science from National University of Singapore in 2010. Upon graduation, I worked as a Research Scientist in UIUC. 
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+[High resolution photo](/images/hires.jpg)
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+## To Perspective Postdocs, Students, and Interns
 
-**Markdown generator**
+I am looking for highly motivated graduate students, postdocs, and interns to work on system research including algorithms, programming language, compiler, embedded systems, and electronic design automation. Students with strong hands-on system building skills and algorithm background are especially welcomed. 
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+## News
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+- 2020 Feb. Our paper on “**FCNNLib: An Efficient and Flexible Convolution Algorithm Library on FPGAs**” is accepted by ACM/IEEE Design Automation Conference (**DAC**) 2020! Congratulations to Qingcheng. 
+- 2020 Jan. Our paper on “**Enabling Efficient Fast Convolution Algorithms on GPUs via MegaKernels**" is accepted by IEEE Transactions on Computers (**TC**), 2020!. Congratulations to Liancheng.
+- 2020 Jan. Our paper on “**FlexTensor: An Automatic Schedule Exploration and Optimization Framework for Tensor Computation on Heterogeneous System**" is accepted by International Conference on Architectural Support for Programming Languages and Operating Systems (**ASPLOS**) 2020! Congratulations to Size.
+- 2020 Jan. **Xuechao joined Alibaba Damo Academy**. Congratulations.
+- 2020 Jan. **Xuechao has successfully defended his PhD thesis**. Congratulations to Dr. Wei!
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+## Selected Recent Publications (Full List)
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+- FlexTensor: An Automatic Schedule Exploration and Optimization Framework for Tensor Computation on Heterogeneous System (ASPLOS) 2020.
+- CuLDA: Solving Large-scale LDA Problems on GPUs (HPDC) 2019.
+- Overcoming Data Transfer Bottlenecks in DNN Accelerators via Layer-Conscious Memory Management (**DAC**) 2019.
+- Poly: Efficient Heterogeneous System and Application Management for Interactive Applications (**HPCA**) 2019.
+- A Coordinated Tiling and Batching Framework for Efficient GEMM on GPUs (**PPoPP**) 2019. <span style="color:red">**Best Paper Award Nomination**</span>.
+- C-LSTM: Enabling Efficient LSTM using Structured Compression Techniques on FPGAs (**FPGA**) 2018. 
+
+## Research Group
+
+- Shuo Wang (M.S from USC, PhD, started 2015)
+- Qingcheng Xiao (B.S from PKU, PhD, started 2016)
+- Liqiang Lu (B.S from PKU, PhD, started 2017)
+- Liancheng Jia (B.S from PKU, PhD, started 2018)
+- Size Zehng (B.S from PKU, PhD, started 2019)
+- Jiaming Xie (B.S from PKU, Master, started 2018)
+- Xiuping Cui 
+- Zhixin Li
+
+## Alumni 
+
+- Dr. Xuechao Wei (PhD, 2013-2019, with Prof. Jason Cong) now with Alibaba Damo Academy 
+- Dr. Xiuhong Li (PhD, 2014-2019) now with SenseTime Research Lab
+- Dr. Xiaolong Xie (PhD, 2013-2018) now with Alibaba under A-Star (阿里星)
