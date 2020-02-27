@@ -32,7 +32,7 @@ I am looking for highly motivated graduate students, postdocs, and interns to wo
 - 2020 Jan. **Xuechao joined Alibaba Damo Academy**. Congratulations.
 - 2020 Jan. **Xuechao has successfully defended his PhD thesis**. Congratulations to Dr. Wei!
 
-## Selected Recent Publications (Full List)
+## Selected Recent Publications ([Full List](/publications/))
 
 - FlexTensor: An Automatic Schedule Exploration and Optimization Framework for Tensor Computation on Heterogeneous System (ASPLOS) 2020.
 - CuLDA: Solving Large-scale LDA Problems on GPUs (HPDC) 2019.
@@ -41,19 +41,25 @@ I am looking for highly motivated graduate students, postdocs, and interns to wo
 - A Coordinated Tiling and Batching Framework for Efficient GEMM on GPUs (**PPoPP**) 2019. <span style="color:red">**Best Paper Award Nomination**</span>.
 - C-LSTM: Enabling Efficient LSTM using Structured Compression Techniques on FPGAs (**FPGA**) 2018. 
 
-## Research Group
+## Awards and Honors
 
-- Shuo Wang (M.S from USC, PhD, started 2015)
-- Qingcheng Xiao (B.S from PKU, PhD, started 2016)
-- Liqiang Lu (B.S from PKU, PhD, started 2017)
-- Liancheng Jia (B.S from PKU, PhD, started 2018)
-- Size Zehng (B.S from PKU, PhD, started 2019)
-- Jiaming Xie (B.S from PKU, Master, started 2018)
-- Xiuping Cui 
-- Zhixin Li
+- Beijing Natural Science Fund for Distinguished Young Scholars 2019
+- Beijing Academy of Artificial Intelligence (BAAI) Young Scientist Award 2019
+- Huang Tingfang/Xinhe Young Scholars Award in 2017
+- Peking University Excellence Teaching Award in 2016
+- **Best Paper Award Nomination**, ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming (PPoPP), 2019. (4 nominations out of 152 submissions). 
+- <span style="color:red">**Best Paper Award**</span> International Conference on Computer Aided Design (ICCAD), November, 2017. (2 out of 350 submissions). 
+- **Best Paper Award Nomination**, Design Automation Conference (DAC), June 2017. 
+- (14 nominations out of 676 submissions).
+- **Best Paper Award Nomination**, Asia and South Pacific Design Automation Conference (ASP-DAC), January, 2016. (11 nominations out of 350 submissions). 
+- **Best Paper Award Nomination**, Design Automation Conference (DAC), June 2012. 
+- (7 nominations out of 741 submissions).
+- **Best Paper Award Nomination**, International Conference on Field Programmable Technology (FPT), December 2011.
+- <span style="color:red">**Best Paper Award**</span> IEEE International Symposium on Field-Programmable Custom Computing Machines 2011 (FCCM), May 2011. (1 out of 119 submissions)
+- **Best Paper Award Nomination**, ACM International Conference on Hardware/Software Codesign and System Synthesis (CODES+ISSS), October 2008.
 
-## Alumni 
+## Teaching 
+- Compiler Techniques (Spring’16,’17,’18,‘19,’20)
+- C++ Programming and Problem Solving (Spring’13, ’14, ’15, ’16, ’17, ’18, ’19, ’20)
 
-- Dr. Xuechao Wei (PhD, 2013-2019, with Prof. Jason Cong) now with Alibaba Damo Academy 
-- Dr. Xiuhong Li (PhD, 2014-2019) now with SenseTime Research Lab
-- Dr. Xiaolong Xie (PhD, 2013-2018) now with Alibaba under A-Star (阿里星)
+
