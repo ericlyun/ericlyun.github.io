@@ -1,7 +1,5 @@
 _site/
 Gemfile.lock
-a.out
-*.cmi
-*.cmo
-*.o
-
+*.native
+.bundle/
+_build/
