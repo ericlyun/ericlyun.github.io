@@ -66,14 +66,14 @@ author_profile: true
 
 ### 2020
 
-| [C64] | Tao Yang, Yunkun Liao, Jianping Shi, **Yun Liang**, Naifeng Jing, Li Jiang. "A Winograd-based CNN Accelerator with a Fine-grained Regular Sparsity Pattern," to appear in the proceedings of the *International Conference on Field-Programmable Logic and Applications (FPL)* , August 2020. |
-| [C63] | Qingcheng Xiao, Liqiang Lu, Jiaming Xie, **Yun Liang**. "FCNNLib: An Efficient and Flexible Convolution Algorithm Library on FPGAs," to appear in the proceedings of *the Design Automation Conference (DAC)*, July 2020. |
-| [C62] | Size Zheng, **Yun Liang**, Shuo Wang, Renze Chen, Kaiwen Sheng. "FlexTensor: An Automatic Schedule Exploration and Optimization Framework for Tensor Computation on Heterogeneous System," to appear in the proceedings of *the 25th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*, March 2020.  |
+| [C65] | Tao Yang, Yunkun Liao, Jianping Shi, **Yun Liang**, Naifeng Jing, Li Jiang. "A Winograd-based CNN Accelerator with a Fine-grained Regular Sparsity Pattern," to appear in the proceedings of the *International Conference on Field-Programmable Logic and Applications (FPL)* , August 2020. |
+| [C64] | Qingcheng Xiao, Liqiang Lu, Jiaming Xie, **Yun Liang**. "FCNNLib: An Efficient and Flexible Convolution Algorithm Library on FPGAs," to appear in the proceedings of *the Design Automation Conference (DAC)*, July 2020. |
+| [C63] | Size Zheng, **Yun Liang**, Shuo Wang, Renze Chen, Kaiwen Sheng. "FlexTensor: An Automatic Schedule Exploration and Optimization Framework for Tensor Computation on Heterogeneous System," to appear in the proceedings of *the 25th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*, March 2020.  |
 
 ### 2019
 
-| [C61] | Qingcheng Xiao, **Yun Liang**. "Zac: Towards Automatic Optimization and Deployment of Quantized Deep Neural Networks on Embedded Devices," in the proceedings of *the International Conference on Computer Aided Design (ICCAD)*, November 2019. ***(invited paper)*** |
-
+| [C62] | Qingcheng Xiao, **Yun Liang**. "Zac: Towards Automatic Optimization and Deployment of Quantized Deep Neural Networks on Embedded Devices," in the proceedings of *the International Conference on Computer Aided Design (ICCAD)*, November 2019. ***(invited paper)*** |
+| [C61] | Xiaolong Xie, **Yun Liang**, Xiuhong Li, Wei Tan. " CuLDA: Solving Large-scale LDA Problems on GPUs," in the proceedings of *the 26th International Symposium on High Performance Parallel and Distributed Computing (HPDC)*, June 2019. |
 | [C60] | Xuechao Wei, **Yun Liang**, Jason Cong. "Overcoming Data Transfer Bottlenecks in DNN Accelerators via Layer-Conscious Memory Management," in the proceedings of *the Design Automation Conference (DAC)*, June 2019. |
 | [C59] | Runbin Shi, Junjie Liu, Shuo Wang, **Yun Liang**, Hayden So. "E-LSTM: Efficient Inference of Sparse LSTM on Embedded Heterogeneous System,"  in the proceedings of *the Design Automation Conference (DAC)*, June 2019. |
 | [C58] | Jiaxi Zhang, Wentai Zhang, Guojie Luo, Xuechao Wei, **Yun Liang**, Jason Cong, "Frequency Improvement of Systolic Array-Based CNNs on FPGAs," in the proceedings of *the 2019 IEEE International Symposium on Circuits and Systems (ISCAS 2019)*, Sapporo, Japan, May 26-29, 2019. |
@@ -182,6 +182,6 @@ author_profile: true
 ## Other Workshop Papers and Poster Papers
 
 | [W4] | Pengcheng Xu, **Yun Liang**. “Automatic Code Generation for Rocket Chip RoCC Accelerators, " *Fourth Workshop on Computer Architecture Research with RISC-V (CARRV)* 2020. |
-| [W3] | Xiaolong Xie, **Yun Liang**, Xiuhong Li, Wei Tan. " CuLDA: Solving Large-scale LDA Problems on GPUs," in the proceedings of *the 26th International Symposium on High Performance Parallel and Distributed Computing (HPDC)*, June 2019. (Poster). |
+| [W3] | Xiaolong Xie, **Yun Liang**, Xiuhong Li, Wei Tan. “CuLDA_CGS: solving large-scale LDA problems on GPUs, " in the proceedings of *the Symposium on Principles and Practice of Parallel Programming (PPoPP), 2019.* (Poster). |
 | [W2] | XuechaoWei, **Yun Liang**, XibaiLi, Tao Wang, Songwu Lu, Jason Cong.“Evaluation of Software Defined Radio on Heterogeneous Systems, " in the proceedings of *International Conference on Parallel Architectures and Compilation Techniques (PACT)*, 2015. (Poster). |
 | [W1] | **Yun Liang**, Abhik Roychoudhury, Tulika Mitra. "Timing analysis of body area network application," in the proceedings of *7th International Workshop on Worst Case Execution Time Analysis (WCET)*, 2007. |
