@@ -3,3 +3,6 @@ Gemfile.lock
 *.native
 .bundle/
 _build/
+
+vendor/
+*.swp
