@@ -16,9 +16,9 @@ redirect_from:
 *Peking University*  
 *Room 518, Science Building No.5, Yiheyuan Rd No.5, Beijing, 100871*
 
-I am an Associate Professor (with tenure) in the Department of Computer Science and Technology at Peking University and a member of Center for Energy-efficient Computing and Applications (CECA). My research interests include computer architecture, compiler, electronics design automation, embedded system design, and high-performance computing. My recent publications investigate new algorithms, programming models, compiler optimization and tool-chain, design tools and methodologies, and hardware for high-performance and energy-efficient computer systems. I have authored over ninety scientific publications in the leading international journals and conferences. My research has been recognized with two Best Paper Awards (FCCM 2011 and ICCAD 2017), six Best Paper Award Nominations (PPoPP 2019, DAC 2017, ASPDAC 2016, DAC 2012, FPT 2011, CODES+ISSS 2008), the Beijing Natural Science Fund for Distinguished Young Scholars (2019), and Beijing Academy of Artificial Intelligence (BAAI) Young Scientist Award. I received the Excellence Teaching Award from Peking University in 2017. My research has been funded by NSFC, BNSF, SenseTime, Alibaba, etc. I am currently the Director of PKU-SenseTime Joint Lab of Intelligent Computing.
+I am an Associate Professor (with tenure) in the School of EECS at Peking University and a member of Center for Energy-efficient Computing and Applications (CECA). My research interests include computer architecture, electronic design automation (EDA), compiler, and embedded system design. My recent publications investigate new algorithms, programming models, design automation tools and methodologies, and hardware for high-performance and energy-efficient computer systems. I have authored over 100 scientific publications in the leading international journals and conferences.  My research has been recognized with two Best Paper Awards (FCCM 2011 and ICCAD 2017), six Best Paper Award Nominations (PPoPP 2019, DAC 2017, ASPDAC 2016, DAC 2012, FPT 2011, CODES+ISSS 2008), the Beijing Natural Science Fund for Distinguished Young Scholars (2019), and Beijing Academy of Artificial Intelligence (BAAI) Young Scientist Award. I received the Excellence Teaching Award from Peking University in 2017. My research has been funded by NSFC, BNSF, SenseTime, Alibaba, etc. I am currently the Director of PKU-SenseTime Joint Lab of Intelligent Computing.
 
-I currently serve as Associate Editor of the ACM Transactions on Embedded Computing Systems (TECS) and Associate Editor of IEEE Embedded Systems Letters. I was the program chair of 30th Annual IEEE International Conference on Application-specific Systems, Architecture and Processors (ASAP) 2019 and the subcommittee chair of Asia South Pacific Design Automation Conference (ASPDAC) 2014. I also serve in the program committees in the premier conferences including DAC, ICCAD, DATE, ASPDAC, FPGA, FCCM, HPCA, MICRO, ASPLOS, ISCA, PPoPP, PACT, CGO, ICS, CC, CASES, LCTES, ASAP, and ICCD. Prior to joining Peking University, I received my Ph.D in Computer Science from National University of Singapore in 2010. Upon graduation, I worked as a Research Scientist in UIUC.
+I currently serve as Associate Editor of the ACM Transactions on Embedded Computing Systems (TECS), ACM Transactions on Reconfigurable Technology and Systems (TRETS), IEEE Embedded Systems Letters (ESL).  I was the program chair of 30th Annual IEEE International Conference on Application-specific Systems, Architecture and Processors (ASAP) 2019 and the subcommittee chair of Asia South Pacific Design Automation Conference (ASPDAC) 2014. I also serve in the program committees in the premier conferences including DAC, ICCAD, DATE, ASPDAC, FPGA, FCCM, HPCA, MICRO, ASPLOS, ISCA, PPoPP, PACT, CGO, ICS, CC, CASES, LCTES, ASAP, and ICCD. Prior to joining Peking University, I received my Ph.D in Computer Science from National University of Singapore in 2010. Upon graduation, I worked as a Research Scientist in UIUC.
 
 ## To Perspective Postdocs, Students, and Interns
 
@@ -26,17 +26,29 @@ I am looking for highly motivated graduate students, postdocs, and interns to wo
 
 ## News
 
-- 2020 June. **Shuo has successfully defended his PhD thesis.** Congratulations to Dr Wang!
-- 2020 May. Our paper on “**Automatic Systolic Array Generation using Reusable Blocks**” is accepted by IEEE MICRO Special Issue on Agile and Open-Source Hardware, July/August 2020.
-- 2020 March. Invited to serve on the program committee for the **53rd ACM/IEEE Int'l Symp. on Microarchitecture (MICRO'20)**.
-- 2020 Feb. Our paper on “**FCNNLib: An Efficient and Flexible Convolution Algorithm Library on FPGAs**” is accepted by ACM/IEEE Design Automation Conference (**DAC**) 2020! Congratulations to Qingcheng. 
-- 2020 Jan. Our paper on “**Enabling Efficient Fast Convolution Algorithms on GPUs via MegaKernels**" is accepted by IEEE Transactions on Computers (**TC**), 2020!. Congratulations to Liancheng.
-- 2020 Jan. Our paper on “**FlexTensor: An Automatic Schedule Exploration and Optimization Framework for Tensor Computation on Heterogeneous System**" is accepted by International Conference on Architectural Support for Programming Languages and Operating Systems (**ASPLOS**) 2020! Congratulations to Size.
-- 2020 Jan. **Xuechao joined Alibaba Damo Academy**. Congratulations.
-- 2020 Jan. **Xuechao has successfully defended his PhD thesis**. Congratulations to Dr. Wei!
+- **Mar 2021:** Two papers (TENET and HASCO) accepted to ISCA’21. Congratulations to Liqiang, Naiqing, and Qingcheng.
+- **Feb 2021:** Tensorlib accepted to DAC’21. Congratulations to Liancheng.
+- **Feb 2021:** Invited to serve on the program committee for the **54rd ACM/IEEE Int'l Symp. on Microarchitecture (MICRO'21)**.
+- **Jan 2021：** Xilinx Forum Talk on **Efficient FPGA Computing for Machine Learning**
+- **Nov 2020：** Talk on **Automatic Code Generation** for AI chips at Microsoft Research Asia (MSRA).
+- **Oct 2020:** Invited to serve on the program committee for the **Design Automation Conference (DAC’21)**.
+- **Sep 2020:** ECE Seminar on **Efficient Heterogeneous Computing for AI Applications** at Texas A&M University (TAMU).
+- **Aug 2020：** Invited to serve on the program committee for the **29th ACM/SIGDA International Symposium on Field-Programmable Gate Arrays (FPGA’21)**
+- **June 2020:**  Congratulations to Qingcheng Xiao for receiving DAC2020 Young Student Fellow Awards!
+- **2020 June:** **Shuo has successfully defended his PhD thesis.** Congratulations to Dr Wang!
+- **2020 May:** Our paper on “**Automatic Systolic Array Generation using Reusable Blocks**” is accepted by IEEE MICRO Special Issue on Agile and Open-Source Hardware, July/August 2020.
+- **2020 March:** Invited to serve on the program committee for the **53rd ACM/IEEE Int'l Symp. on Microarchitecture (MICRO'20)**.
+- **2020 Feb:** Our paper on “**FCNNLib: An Efficient and Flexible Convolution Algorithm Library on FPGAs**” is accepted by ACM/IEEE Design Automation Conference (**DAC**) 2020! Congratulations to Qingcheng. 
+- **2020 Jan:** Our paper on “**Enabling Efficient Fast Convolution Algorithms on GPUs via MegaKernels**" is accepted by IEEE Transactions on Computers (**TC**), 2020!. Congratulations to Liancheng.
+- **2020 Jan:** Our paper on “**FlexTensor: An Automatic Schedule Exploration and Optimization Framework for Tensor Computation on Heterogeneous System**" is accepted by International Conference on Architectural Support for Programming Languages and Operating Systems (**ASPLOS**) 2020! Congratulations to Size.
+- **2020 Jan:** **Xuechao joined Alibaba Damo Academy**. Congratulations.
+- **2020 Jan:** **Xuechao has successfully defended his PhD thesis**. Congratulations to Dr. Wei!
 
 ## Selected Recent Publications ([Full List](/publications/))
 
+- TENET: A Framework for Modeling Tensor Dataflow based on Relation-centric Notation (**ISCA**) 2021.
+- HASCO: Towards Agile Hardware and Software Co-design for Tensor Computation (**ISCA**) 2021.
+- TensorLib: A Spatial Accelerator Generation Framework for Tensor Algebra (**DAC**) 2021.
 - FCNNLib: An Efficient and Flexible Convolution Algorithm Library on FPGAs (**DAC**) 2020.
 - FlexTensor: An Automatic Schedule Exploration and Optimization Framework for Tensor Computation on Heterogeneous System (**ASPLOS**) 2020.
 - Overcoming Data Transfer Bottlenecks in DNN Accelerators via Layer-Conscious Memory Management (**DAC**) 2019.
