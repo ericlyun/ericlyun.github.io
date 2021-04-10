@@ -6,6 +6,7 @@ author_profile: true
 
 ## Editor Board 
 - Associate Editor, ACM Transactions in Embedded Computing Systems (TECS), 2017- 
+- Associate Editor, ACM Transactions on Reconfigurable Technology and Systems (TRETS), 2020-
 - Associate Editor, Embedded System Letters (ESL), 2019-
 - Guest Editor, Integration, the VLSI Journal 2018-
 - Guest Editor-in-Chief, Journal of Signal Processing Systems (JSPS), Special issue on Application-specific System and Design. 
@@ -20,23 +21,23 @@ author_profile: true
 - Subcommittee Chair.  System Level Synthesis and Optimization, the 19th Asia South Pacific Design Automation Conference (ASP-DAC) 2014.
 
 ## Conference Program Committee Member
-- IEEE/ACM International Symposium on Microarchitecture (MICRO), 2020.
+- IEEE/ACM International Symposium on Microarchitecture (MICRO), 2020, 2021
+- Design Automation Conference (DAC), 2020, 2021
+- International Symposium on Field-Programmable Gate Arrays (FPGA), 2019, 2020, 2021
+- International Symposium on High-Performance Computer Architecture (HPCA), 2018, 2020
 - International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2020 (ERC)
 - ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming (PPoPP), 2020 (ERC)
-- Design Automation Conference (DAC), 2020.
 - ACM SIGPLAN/SIGBED International Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES) 2020
-- International Symposium on High-Performance Computer Architecture (HPCA), 2018, 2020
-- International Symposium on Field-Programmable Gate Arrays (FPGA), 2019, 2020
 - International Symposium on Computer Architecture (ISCA), 2018 (ERC)
-- International Symposium on Field-Programmable Custom Computing Machines (FCCM), 2020
-- International Conference on Compiler Construction (CC), 2018, 2021.
-- International Conference on Supercomputing (ICS), 2018, 2019
+- International Symposium on Field-Programmable Custom Computing Machines (FCCM), 2020, 2021
+- International Conference on Compiler Construction (CC), 2018, 2021
+- International Conference on Supercomputing (ICS), 2018, 2019, 2021
 - International Conference on High Performance Computing, Data, and Analytics (HiPC) 2017
-- International Conference on Parallel Architectures and Compilation Techniques (PACT) 2015, 2016.
+- International Conference on Parallel Architectures and Compilation Techniques (PACT) 2015, 2016
 - International Conference on Computer Aided Design (ICCAD) 2016, 2017, 2018
 - International Symposium on Code Generation and Optimization (CGO) 2017
 - IEEE International Conference on Application-specific Systems, Architecture and Processors (ASAP), 2020
-- Asia South Pacific Design Automation Conference (ASP-DAC) 2012, 2013, 2014, 2016, 2017, 2018, 2020 
+- Asia South Pacific Design Automation Conference (ASP-DAC) 2012, 2013, 2014, 2016, 2017, 2018, 2020, 2021
 - Design Automation and Test in Europe (DATE) 2013, 2014, 2015, 2016, 2017
 - International Conference on Compilers Architecture and Synthesis for Embedded Systems (CASES) 2013, 2014, 2015, 2016
 - IEEE International Conference on Computer Design (ICCD) 2016
