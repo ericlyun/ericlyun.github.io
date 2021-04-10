@@ -6,10 +6,15 @@ author_profile: true
 
 ## Journal Publications  
 
+### 2021
+
+| [J28] | **Yun Liang**, Liqiang Lu, Yicheng Jin, Jiaming Xie, Ruirui Huang, Jiansong Zhang, Wei Lin. "An Efficient Hardware Design for Accelerating Sparse CNNs with NAS-based Models, " in the *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**)*, 2021. |
+
 ### 2020
 
-| [J26] | Linacheng Kia, Liqiang Lu, Xuechao Wei, **Yun Liang**. "Generating Systolic Array Accelerators with Reusable Blocks, " to appear *IEEE MICRO Special Issue on Agile and Open-Source Hardware*, 2020. |
-| [J25] | Liancheng Jia, **Yun Liang**, Xiuhong Li, Liqiang Lu, Shengen Yan. "Enabling Efficient Fast Convolution Algorithms on GPUs via MegaKernels, " to appear *IEEE Transactions on Computers (TC)*, 2020. |
+| [J27] | **Yun Liang**, Liqiang Lu, Jiaming Xie. "OMNI: A Framework for Integrating Hardware and Software Optimizations for Sparse CNNs, " in the *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**)*，2020.|
+| [J26] | Linacheng Jia, Liqiang Lu, Xuechao Wei, **Yun Liang**. "Generating Systolic Array Accelerators with Reusable Blocks, " *IEEE MICRO (Special Issue on Agile and Open-Source Hardware)*, Vol: 40, Issue: 4, July, 2020, pp. 85-92. |
+| [J25] | Liancheng Jia, **Yun Liang**, Xiuhong Li, Liqiang Lu, Shengen Yan. "Enabling Efficient Fast Convolution Algorithms on GPUs via MegaKernels, " *IEEE Transactions on Computers (**TC**)*, Vol:69, Issue: 7, July 2020, pp. 986-997. |
 | [J24] | Qingcheng Xiao, **Yun Liang**. Performance Modeling and Directives Optimization for High Level Synthesis on FPGA. "Fune: An FPGA Tuning Framework for CNN Acceleration, " *IEEE Design & Test (D&T)*, Vol 37, Issue 1, Feb.2020. |
 | [J23] | **Yun Liang**, Liqiang Lu, Qingcheng Xiao, Shengen Yan. "Evaluating Fast Algorithms for Convolutional Neural Networks on FPGAs, " *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)*, Volume: 39 , Issue: 4 , April 2020, pp. 857-870. |
 
@@ -64,8 +69,15 @@ author_profile: true
 
 ## Conference Papers
 
+### 2021
+
+| [C69] | Qingcheng Xiao, Size Zheng, Bingzhe Wu, Pengcheng Xu, Xuehai Qian, **Yun Liang**. "HASCO: Towards Agile Hardware and Software Co-design for Tensor Computation," to appear in the proceedings of the *International Symposium on Computer Architecture (**ISCA**)*, 2021. |
+| [C68] | Liqiang Lu, Naiqing Guan, Yuyue Wang, Liancheng Jia, Zizhang Luo, Jieming Yin, Jason Cong, **Yun Liang**.  "TENET: A Framework for Modeling Tensor Dataflow based on Relation-centric Notation ," to appear in the proceedings of the *International Symposium on Computer Architecture (**ISCA**)*, 2021. |
+| [C67] | Liancheng Jia, Zizhang Luo, Liqiang Lu, **Yun Liang**. "TensorLib: A Spatial Accelerator Generation Framework for Tensor Algebra," to appear in the proceedings of the *Design Automation Conference (**DAC**)*, 2021. |
+
 ### 2020
 
+| [C66] | Yi-Hsiang Lai, Hongbo Rong, Size Zheng, Weihao Zhang, Xiuping Cui, Yunshan Jia, Jie Wang, Brendan Sullivan, Zhiru Zhang, Yun Liang, Youhui Zhang, Jason Cong, Nithin George, Jose Alvareze, Christopher Hughes, Pradeep Dubey. "SuSy: A Programming Model for Productive Construction of High-Performance Systolic Arrays on FPGAs," in the proceedings of the *International Conference on Computer Aided Design (**ICCAD**)*, November 2020. |
 | [C65] | Tao Yang, Yunkun Liao, Jianping Shi, **Yun Liang**, Naifeng Jing, Li Jiang. "A Winograd-based CNN Accelerator with a Fine-grained Regular Sparsity Pattern," to appear in the proceedings of the *International Conference on Field-Programmable Logic and Applications (FPL)* , August 2020. |
 | [C64] | Qingcheng Xiao, Liqiang Lu, Jiaming Xie, **Yun Liang**. "FCNNLib: An Efficient and Flexible Convolution Algorithm Library on FPGAs," to appear in the proceedings of *the Design Automation Conference (DAC)*, July 2020. |
 | [C63] | Size Zheng, **Yun Liang**, Shuo Wang, Renze Chen, Kaiwen Sheng. "FlexTensor: An Automatic Schedule Exploration and Optimization Framework for Tensor Computation on Heterogeneous System," to appear in the proceedings of *the 25th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*, March 2020.  |
