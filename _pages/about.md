@@ -11,14 +11,16 @@ redirect_from:
 
 **Associate Professor/Research Professor**
 
+*School of EECS*  
 *Computer Science Department*  
 *Center for Energy-efficient Computing and Applications (CECA)*  
 *Peking University*  
 *Room 518, Science Building No.5, Yiheyuan Rd No.5, Beijing, 100871*
 
-I am an Associate Professor (with tenure) in the School of EECS at Peking University and a member of Center for Energy-efficient Computing and Applications (CECA). My research interests include computer architecture, electronic design automation (EDA), compiler, and embedded system design. My recent publications investigate new algorithms, programming models, design automation tools and methodologies, and hardware for high-performance and energy-efficient computer systems. I have authored over 100 scientific publications in the leading international journals and conferences.  My research has been recognized with two Best Paper Awards (FCCM 2011 and ICCAD 2017), six Best Paper Award Nominations (PPoPP 2019, DAC 2017, ASPDAC 2016, DAC 2012, FPT 2011, CODES+ISSS 2008), the Beijing Natural Science Fund for Distinguished Young Scholars (2019), and Beijing Academy of Artificial Intelligence (BAAI) Young Scientist Award. I received the Excellence Teaching Award from Peking University in 2017. My research has been funded by NSFC, BNSF, SenseTime, Alibaba, etc. I am currently the Director of PKU-SenseTime Joint Lab of Intelligent Computing.
+I am an Associate Professor (with tenure) in the School of EECS at Peking University and a member of Center for Energy-efficient Computing and Applications (CECA). My research interest is at the hardware-software interface with work spanning computer architecture, compiler, electronic design automation (EDA), and embedded system design. My recent publications investigate new algorithms, programming models, design automation tools and methodologies, and hardware for high-performance and energy-efficient computer systems. I have authored over 100 scientific publications in the leading international journals and conferences. My research has been recognized with two Best Paper Awards (FCCM 2011 and ICCAD 2017), six Best Paper Award Nominations (PPoPP 2019, DAC 2017, ASPDAC 2016, DAC 2012, FPT 2011, CODES+ISSS 2008), CCF-IEEE CS Young Computer Scientist Award (2020), Beijing Natural Science Fund for Distinguished Young Scholars (2019), and Beijing Academy of Artificial Intelligence (BAAI) Young Scientist Award. I received the Excellence Teaching Award from Peking University in 2017. My research has been funded by NSFC, BNSF, SenseTime, Alibaba, etc. I am currently the Director of PKU-SenseTime Joint Lab of Intelligent Computing.
 
-I currently serve as Associate Editor of the ACM Transactions on Embedded Computing Systems (TECS), ACM Transactions on Reconfigurable Technology and Systems (TRETS), IEEE Embedded Systems Letters (ESL).  I was the program chair of 30th Annual IEEE International Conference on Application-specific Systems, Architecture and Processors (ASAP) 2019 and the subcommittee chair of Asia South Pacific Design Automation Conference (ASPDAC) 2014. I also serve in the program committees in the premier conferences including DAC, ICCAD, DATE, ASPDAC, FPGA, FCCM, HPCA, MICRO, ASPLOS, ISCA, PPoPP, PACT, CGO, ICS, CC, CASES, LCTES, ASAP, and ICCD. Prior to joining Peking University, I received my Ph.D in Computer Science from National University of Singapore in 2010. Upon graduation, I worked as a Research Scientist in UIUC.
+I currently serve as Associate Editor of the ACM Transactions on Embedded Computing Systems (TECS), ACM Transactions on Reconfigurable Technology and Systems (TRETS), and IEEE Embedded Systems Letters (ESL). I was the program chair of 30th Annual IEEE International Conference on Application-specific Systems, Architecture and Processors (ASAP) 2019 and the subcommittee chair of Asia South Pacific Design Automation Conference (ASPDAC) 2014. I also serve in the program committees in the premier conferences including DAC, ICCAD, DATE, ASPDAC, FPGA, FCCM, HPCA, MICRO, ASPLOS, ISCA, PPoPP, PACT, CGO, ICS, CC, CASES, LCTES, ASAP, and ICCD. Prior to joining Peking University, I received my Ph.D in Computer Science from National University of Singapore in 2010. Upon graduation, I worked as a Research Scientist in UIUC. 
+
 
 ## To Perspective Postdocs, Students, and Interns
 
@@ -26,16 +28,16 @@ I am looking for highly motivated graduate students, postdocs, and interns to wo
 
 ## News ([Full List](/news/))
 
+- **July 2021:** Sanger accepted to MICRO’21. Congratulations to Liqiang, Yicheng, Zizhang, and Hangrui.
+- **June 2021:** Congratulations to Liqiang for receiving President and Huawei Scholarship.
+- **June 2021:** Qingcheng successfully defended his dissertation! Qingcheng is heading to Huawei under Genius Program – Congratulations!
 - **Mar 2021:** Two papers (TENET and HASCO) accepted to ISCA’21. Congratulations to Liqiang, Naiqing, and Qingcheng.
 - **Feb 2021:** Tensorlib accepted to DAC’21. Congratulations to Liancheng.
-- **Feb 2021:** Invited to serve on the program committee for the **54rd ACM/IEEE Int'l Symp. on Microarchitecture (MICRO'21)**.
-- **Jan 2021：** Xilinx Forum Talk on **Efficient FPGA Computing for Machine Learning**
-- **Nov 2020：** Talk on **Automatic Code Generation** for AI chips at Microsoft Research Asia (MSRA).
-- **Oct 2020:** Invited to serve on the program committee for the **Design Automation Conference (DAC’21)**.
-- **Sep 2020:** ECE Seminar on **Efficient Heterogeneous Computing for AI Applications** at Texas A&M University (TAMU).
-- **Aug 2020：** Invited to serve on the program committee for the **29th ACM/SIGDA International Symposium on Field-Programmable Gate Arrays (FPGA’21)**
-- **June 2020:**  Congratulations to Qingcheng Xiao for receiving DAC2020 Young Student Fellow Awards!
-- **June 2020:** **Shuo has successfully defended his PhD thesis.** Congratulations to Dr Wang!
+- **Feb 2021:** Invited to serve on the program committee for the 54rd ACM/IEEE Int'l Symp. on Microarchitecture (MICRO'21).
+- **Jan 2021:** Xilinx Forum Talk on Efficient FPGA Computing for Machine Learning
+- **Nov 2020:** Talk on Automatic Code Generation for AI chips at Microsoft Research Asia (MSRA).
+- **Oct 2020:** Invited to serve on the program committee for the Design Automation Conference (DAC’21).
+- **Sep 2020:** ECE Seminar on Efficient Heterogeneous Computing for AI Applications at Texas A&M University (TAMU).
 
 ## Selected Recent Publications ([Full List](/publications/))
 
@@ -51,6 +53,7 @@ I am looking for highly motivated graduate students, postdocs, and interns to wo
 
 ## Awards and Honors
 
+- CCF-IEEE CS Young Computer Scientist Award 2020
 - Beijing Natural Science Fund for Distinguished Young Scholars 2019
 - Beijing Academy of Artificial Intelligence (BAAI) Young Scientist Award 2019
 - Huang Tingfang/Xinhe Young Scholars Award in 2017
