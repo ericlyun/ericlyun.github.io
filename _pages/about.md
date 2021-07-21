@@ -24,7 +24,7 @@ I currently serve as Associate Editor of the ACM Transactions on Embedded Comput
 
 I am looking for highly motivated graduate students, postdocs, and interns to work on system research including algorithms, programming language, compiler, embedded systems, and electronic design automation. Students with strong hands-on system building skills and algorithm background are especially welcomed. 
 
-## News
+## News ([Full List](/news/))
 
 - **Mar 2021:** Two papers (TENET and HASCO) accepted to ISCA’21. Congratulations to Liqiang, Naiqing, and Qingcheng.
 - **Feb 2021:** Tensorlib accepted to DAC’21. Congratulations to Liancheng.
@@ -35,14 +35,7 @@ I am looking for highly motivated graduate students, postdocs, and interns to wo
 - **Sep 2020:** ECE Seminar on **Efficient Heterogeneous Computing for AI Applications** at Texas A&M University (TAMU).
 - **Aug 2020：** Invited to serve on the program committee for the **29th ACM/SIGDA International Symposium on Field-Programmable Gate Arrays (FPGA’21)**
 - **June 2020:**  Congratulations to Qingcheng Xiao for receiving DAC2020 Young Student Fellow Awards!
-- **2020 June:** **Shuo has successfully defended his PhD thesis.** Congratulations to Dr Wang!
-- **2020 May:** Our paper on “**Automatic Systolic Array Generation using Reusable Blocks**” is accepted by IEEE MICRO Special Issue on Agile and Open-Source Hardware, July/August 2020.
-- **2020 March:** Invited to serve on the program committee for the **53rd ACM/IEEE Int'l Symp. on Microarchitecture (MICRO'20)**.
-- **2020 Feb:** Our paper on “**FCNNLib: An Efficient and Flexible Convolution Algorithm Library on FPGAs**” is accepted by ACM/IEEE Design Automation Conference (**DAC**) 2020! Congratulations to Qingcheng. 
-- **2020 Jan:** Our paper on “**Enabling Efficient Fast Convolution Algorithms on GPUs via MegaKernels**" is accepted by IEEE Transactions on Computers (**TC**), 2020!. Congratulations to Liancheng.
-- **2020 Jan:** Our paper on “**FlexTensor: An Automatic Schedule Exploration and Optimization Framework for Tensor Computation on Heterogeneous System**" is accepted by International Conference on Architectural Support for Programming Languages and Operating Systems (**ASPLOS**) 2020! Congratulations to Size.
-- **2020 Jan:** **Xuechao joined Alibaba Damo Academy**. Congratulations.
-- **2020 Jan:** **Xuechao has successfully defended his PhD thesis**. Congratulations to Dr. Wei!
+- **June 2020:** **Shuo has successfully defended his PhD thesis.** Congratulations to Dr Wang!
 
 ## Selected Recent Publications ([Full List](/publications/))
 
