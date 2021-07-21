@@ -33,11 +33,11 @@ I am looking for highly motivated graduate students, postdocs, and interns to wo
 - **June 2021:** Qingcheng successfully defended his dissertation! Qingcheng is heading to Huawei under Genius Program – Congratulations!
 - **Mar 2021:** Two papers (TENET and HASCO) accepted to ISCA’21. Congratulations to Liqiang, Naiqing, and Qingcheng.
 - **Feb 2021:** Tensorlib accepted to DAC’21. Congratulations to Liancheng.
-- **Feb 2021:** Invited to serve on the program committee for the 54rd ACM/IEEE Int'l Symp. on Microarchitecture (MICRO'21).
-- **Jan 2021:** Xilinx Forum Talk on Efficient FPGA Computing for Machine Learning
-- **Nov 2020:** Talk on Automatic Code Generation for AI chips at Microsoft Research Asia (MSRA).
-- **Oct 2020:** Invited to serve on the program committee for the Design Automation Conference (DAC’21).
-- **Sep 2020:** ECE Seminar on Efficient Heterogeneous Computing for AI Applications at Texas A&M University (TAMU).
+- **Feb 2021:** Invited to serve on the program committee for the **54rd ACM/IEEE Int'l Symp. on Microarchitecture (MICRO'21)**.
+- **Jan 2021:** Xilinx Forum Talk on **Efficient FPGA Computing for Machine Learning**
+- **Nov 2020:** Talk on **Automatic Code Generation for AI chips** at Microsoft Research Asia (MSRA).
+- **Oct 2020:** Invited to serve on the program committee for the **Design Automation Conference (DAC’21)**.
+- **Sep 2020:** ECE Seminar on **Efficient Heterogeneous Computing for AI Applications** at Texas A&M University (TAMU).
 
 ## Selected Recent Publications ([Full List](/publications/))
 
