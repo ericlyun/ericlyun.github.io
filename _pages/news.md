@@ -8,8 +8,8 @@ author_profile: true
 
 ### 2021
 
-- **Oct 2021:** Our MICRO 2021 tutorial “AHS: An Agile Framework for Hardware Specialization and Software Mapping ” is scheduled on Oct 18 (https://www.microarch.org/micro54/program/workshops.php), please attend! This is the link to our tutorial https://pku-ahs.github.io/tutorial/.
-- **Sep 2021:** I serve the editor for ACM TECS Special issue on AI Acceleration on FPGAs. Please consider submitting your work. https://dl.acm.org/journal/tecs/special-issues
+- **Oct 2021:** Our MICRO 2021 tutorial “AHS: An Agile Framework for Hardware Specialization and Software Mapping ” is scheduled on Oct 18 [Link](https://www.microarch.org/micro54/program/workshops.php), please attend! This is the link to our tutorial [Link](https://pku-ahs.github.io/tutorial/).
+- **Sep 2021:** I serve the editor for ACM TECS Special issue on AI Acceleration on FPGAs. Please consider submitting your work. [Link](https://dl.acm.org/journal/tecs/special-issues)
 - **Sep 2021:** Invited to give a talk on “Agile Hardware Specialization” for Qualcomm AI Research Silicon Valley (Virtual).
 - **Sep 2021:** Sanger is awarded the “**Artifacts Evaluated — Functional**” and “**Results Reproduced**” Badges offered by the Artifact Evaluation Committee of MICRO 2021.
 - **Sep 2021:** Invited to serve on the best paper selection committee for ASPDAC 2022.
