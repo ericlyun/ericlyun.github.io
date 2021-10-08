@@ -8,6 +8,14 @@ author_profile: true
 
 ### 2021
 
+- **Oct 2021:** Our MICRO 2021 tutorial “AHS: An Agile Framework for Hardware Specialization and Software Mapping ” is scheduled on Oct 18 (https://www.microarch.org/micro54/program/workshops.php), please attend! This is the link to our tutorial https://pku-ahs.github.io/tutorial/.
+- **Sep 2021:** I serve the editor for ACM TECS Special issue on AI Acceleration on FPGAs. Please consider submitting your work. https://dl.acm.org/journal/tecs/special-issues
+- **Sep 2021:** Invited to give a talk on “Agile Hardware Specialization” for Qualcomm AI Research Silicon Valley (Virtual).
+- **Sep 2021:** Sanger is awarded the “**Artifacts Evaluated — Functional**” and “**Results Reproduced**” Badges offered by the Artifact Evaluation Committee of MICRO 2021.
+- **Sep 2021:** Invited to serve on the best paper selection committee for ASPDAC 2022.
+- **Aug 2021:** Jin and Youwei **won the 4th place** in EDAthon 2021.
+- **Aug 2021:** Invited to serve on the program committee for the **30th ACM/SIGDA International Symposium on Field-Programmable Gate Arrays (FPGA’22)**. Please consider submitting your work.
+- **July 2021:** Our tutorial application “AHS: An Agile Framework for Hardware Specialization and Software Mapping” accepted to MICRO’21. 
 - **July 2021:** Sanger accepted to MICRO’21. Congratulations to Liqiang, Yicheng, Zizhang, and Hangrui.
 - **June 2021:** Congratulations to Liqiang for receiving President and Huawei Scholarship.
 - **June 2021:** Qingcheng successfully defended his dissertation! Qingcheng is heading to Huawei under Genius Program – Congratulations!

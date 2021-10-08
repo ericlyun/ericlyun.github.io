@@ -12,7 +12,6 @@ redirect_from:
 **Associate Professor/Research Professor**
 
 *School of EECS*  
-*Computer Science Department*  
 *Center for Energy-efficient Computing and Applications (CECA)*  
 *Peking University*  
 *Room 518, Science Building No.5, Yiheyuan Rd No.5, Beijing, 100871*
@@ -28,16 +27,16 @@ I am looking for highly motivated graduate students, postdocs, and interns to wo
 
 ## News ([Full List](/news/))
 
+- **Oct 2021:** Our MICRO 2021 tutorial “AHS: An Agile Framework for Hardware Specialization and Software Mapping ” is scheduled on Oct 18 (https://www.microarch.org/micro54/program/workshops.php), please attend! This is the link to our tutorial https://pku-ahs.github.io/tutorial/.
+- **Sep 2021:** I serve the editor for ACM TECS Special issue on AI Acceleration on FPGAs. Please consider submitting your work. https://dl.acm.org/journal/tecs/special-issues
+- **Sep 2021:** Invited to give a talk on “Agile Hardware Specialization” for Qualcomm AI Research Silicon Valley (Virtual).
+- **Sep 2021:** Sanger is awarded the “**Artifacts Evaluated — Functional**” and “**Results Reproduced**” Badges offered by the Artifact Evaluation Committee of MICRO 2021.
+- **Sep 2021:** Invited to serve on the best paper selection committee for ASPDAC 2022.
+- **Aug 2021:** Jin and Youwei **won the 4th place** in EDAthon 2021.
+- **Aug 2021:** Invited to serve on the program committee for the **30th ACM/SIGDA International Symposium on Field-Programmable Gate Arrays (FPGA’22)**. Please consider submitting your work.
+- **July 2021:** Our tutorial application “AHS: An Agile Framework for Hardware Specialization and Software Mapping” accepted to MICRO’21. 
 - **July 2021:** Sanger accepted to MICRO’21. Congratulations to Liqiang, Yicheng, Zizhang, and Hangrui.
 - **June 2021:** Congratulations to Liqiang for receiving President and Huawei Scholarship.
-- **June 2021:** Qingcheng successfully defended his dissertation! Qingcheng is heading to Huawei under Genius Program – Congratulations!
-- **Mar 2021:** Two papers (TENET and HASCO) accepted to ISCA’21. Congratulations to Liqiang, Naiqing, and Qingcheng.
-- **Feb 2021:** Tensorlib accepted to DAC’21. Congratulations to Liancheng.
-- **Feb 2021:** Invited to serve on the program committee for the **54rd ACM/IEEE Int'l Symp. on Microarchitecture (MICRO'21)**.
-- **Jan 2021:** Xilinx Forum Talk on **Efficient FPGA Computing for Machine Learning**
-- **Nov 2020:** Talk on **Automatic Code Generation for AI chips** at Microsoft Research Asia (MSRA).
-- **Oct 2020:** Invited to serve on the program committee for the **Design Automation Conference (DAC’21)**.
-- **Sep 2020:** ECE Seminar on **Efficient Heterogeneous Computing for AI Applications** at Texas A&M University (TAMU).
 
 ## Selected Recent Publications ([Full List](/publications/))
 

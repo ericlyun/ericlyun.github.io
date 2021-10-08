@@ -8,12 +8,15 @@ author_profile: true
 
 ### 2021
 
-| [J28] | **Yun Liang**, Liqiang Lu, Yicheng Jin, Jiaming Xie, Ruirui Huang, Jiansong Zhang, Wei Lin. "An Efficient Hardware Design for Accelerating Sparse CNNs with NAS-based Models, " in the *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**)*, 2021. |
+| [J31] | **Yun Liang**, Qingcheng Xiao, Liqiang Lu, Jiaming Xie. "FCNNLib: A Flexible Convolution Algorithm Library for Deep Learning on FPGAs, " to appear in the *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* (**TCAD**), 2021.
+| [J30] | Tao Yang, Zhezhi He, Tengchuan Kou, Qi Han, Haibao Yu, Fangxin Liu, **Yun Liang**, Li Jiang. "BISWSRBS: A Winograd-based CNN Accelerator with a Fine-grained Regular Sparsity Pattern and Mixed Precision Quantization, " to appear in the *ACM Transactions on Reconfigurable Technology and Systems* (**TRETS**), 2021.
+| [J29] | **Yun Liang**, Liqiang Lu, Yicheng Jin, Jiaming Xie, Ruirui Huang, Jiansong Zhang, Wei Lin. "An Efficient Hardware Design for Accelerating Sparse CNNs with NAS-based Models, " to appear in the *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* (**TCAD**), 2021.
 
 ### 2020
 
-| [J27] | **Yun Liang**, Liqiang Lu, Jiaming Xie. "OMNI: A Framework for Integrating Hardware and Software Optimizations for Sparse CNNs, " in the *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**)*，2020.|
-| [J26] | Linacheng Jia, Liqiang Lu, Xuechao Wei, **Yun Liang**. "Generating Systolic Array Accelerators with Reusable Blocks, " *IEEE MICRO (Special Issue on Agile and Open-Source Hardware)*, Vol: 40, Issue: 4, July, 2020, pp. 85-92. |
+| [J28] | **Yun Liang**, Liqiang Lu, Jiaming Xie. "OMNI: A Framework for Integrating Hardware and Software Optimizations for Sparse CNNs," *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* (**TCAD**),Vol:40, Issue:8,Aug 2021,pp. 1648-1661.|
+| [J27] | Jingchen Zhu, Guangyu Sun, Xian Zhang, Chao Zhang, Weiqi Zhang, **Yun Liang**, Tao Wang, Yiran Chen, Jia Di. "Fork Path: Batching ORAM Requests to Remove Redundant Memory Accesses," *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* (**TCAD**), Vol: 39, Issue: 10, Oct 2020, pp.2279-2292.|
+| [J26] | Linacheng Jia, Liqiang Lu, Xuechao Wei, **Yun Liang**. "Generating Systolic Array Accelerators with Reusable Blocks, " **IEEE MICRO** *(Special Issue on Agile and Open-Source Hardware)*, Vol: 40, Issue: 4, July, 2020, pp. 85-92. |
 | [J25] | Liancheng Jia, **Yun Liang**, Xiuhong Li, Liqiang Lu, Shengen Yan. "Enabling Efficient Fast Convolution Algorithms on GPUs via MegaKernels, " *IEEE Transactions on Computers (**TC**)*, Vol:69, Issue: 7, July 2020, pp. 986-997. |
 | [J24] | Qingcheng Xiao, **Yun Liang**. Performance Modeling and Directives Optimization for High Level Synthesis on FPGA. "Fune: An FPGA Tuning Framework for CNN Acceleration, " *IEEE Design & Test (D&T)*, Vol 37, Issue 1, Feb.2020. |
 | [J23] | **Yun Liang**, Liqiang Lu, Qingcheng Xiao, Shengen Yan. "Evaluating Fast Algorithms for Convolutional Neural Networks on FPGAs, " *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)*, Volume: 39 , Issue: 4 , April 2020, pp. 857-870. |
@@ -71,9 +74,12 @@ author_profile: true
 
 ### 2021
 
-| [C69] | Qingcheng Xiao, Size Zheng, Bingzhe Wu, Pengcheng Xu, Xuehai Qian, **Yun Liang**. "HASCO: Towards Agile Hardware and Software Co-design for Tensor Computation," to appear in the proceedings of the *International Symposium on Computer Architecture (**ISCA**)*, 2021. |
-| [C68] | Liqiang Lu, Naiqing Guan, Yuyue Wang, Liancheng Jia, Zizhang Luo, Jieming Yin, Jason Cong, **Yun Liang**.  "TENET: A Framework for Modeling Tensor Dataflow based on Relation-centric Notation ," to appear in the proceedings of the *International Symposium on Computer Architecture (**ISCA**)*, 2021. |
-| [C67] | Liancheng Jia, Zizhang Luo, Liqiang Lu, **Yun Liang**. "TensorLib: A Spatial Accelerator Generation Framework for Tensor Algebra," to appear in the proceedings of the *Design Automation Conference (**DAC**)*, 2021. |
+| [C72] | Liancheng Jia, Zizhang Luo, Liqiang Lu, **Yun Liang**. "TensorLib: A Spatial Accelerator Generation Framework for Tensor Algebra," to appear in the proceedings of the *Design Automation Conference (**DAC**)*, 2021. |
+| [C71] | Liqiang Lu, Yicheng Jin, Hangrui Bi, Zizhang Luo, Peng Li, Tao Wang, **Yun Liang**. "Sanger: A Co-Design Framework for Enabling Sparse Attention using Reconfigurable Architecture," to appear in the proceedings of the *54th international Symposium on Microarchitecture* (**MICRO**), 2021. |
+| [C70] | Yingjie Chen, Diqi Chen, Yizhou Wang, Tao Wang, **Yun Liang**. " CaFGraph: Context-aware Facial Multi-graph Representation for Facial Action Unit Recognition," to appear in the proceedings of *ACM International Conference on Multimedia* (**ACM MM**), 2021. |
+| [C69] | Yingjie Chen, Han Wu, Tao Wang, Yizhou Wang, **Yun Liang**. "Cross-modal Representation Learning For Lightweight and Accurate Facial Action Unit Detection," to appear in the proceedings of *IEEE\RSJ International Conference on Intelligent Robots and Systems* (**IROS**), September, 2021. |
+| [C68] | Qingcheng Xiao, Size Zheng, Bingzhe Wu, Pengcheng Xu, Xuehai Qian, **Yun Liang**. "HASCO: Towards Agile Hardware and Software Co-design for Tensor Computation," to appear in the proceedings of the *International Symposium on Computer Architecture (**ISCA**)*, 2021. |
+| [C67] | Liqiang Lu, Naiqing Guan, Yuyue Wang, Liancheng Jia, Zizhang Luo, Jieming Yin, Jason Cong, **Yun Liang**.  "TENET: A Framework for Modeling Tensor Dataflow based on Relation-centric Notation ," to appear in the proceedings of the *International Symposium on Computer Architecture (**ISCA**)*, 2021. |
 
 ### 2020
 
