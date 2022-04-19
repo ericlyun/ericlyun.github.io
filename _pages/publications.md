@@ -8,6 +8,8 @@ author_profile: true
 
 ### 2021
 
+| [J33] | Size Zheng, Renze Chen, Yicheng Jin, Aijiang Wei, Bingyang Wu, Xiuhong Li, Shengen Yan, **Yun Liang**. "NeoFlow: A Flexible Framework for Enabling Efficient Compilation for High Performance DNN Training, " to appear in the IEEE Transactions on Parallel and Distributed Systems (**TPDS**), 2021.
+| [J32] | Liqiang Lu, **Yun Liang**. "Morphling: A Reconfigurable Architecture for Tensor Computation, " to appear in the IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), 2021.
 | [J31] | **Yun Liang**, Qingcheng Xiao, Liqiang Lu, Jiaming Xie. "FCNNLib: A Flexible Convolution Algorithm Library for Deep Learning on FPGAs, " to appear in the *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* (**TCAD**), 2021.
 | [J30] | Tao Yang, Zhezhi He, Tengchuan Kou, Qi Han, Haibao Yu, Fangxin Liu, **Yun Liang**, Li Jiang. "BISWSRBS: A Winograd-based CNN Accelerator with a Fine-grained Regular Sparsity Pattern and Mixed Precision Quantization, " to appear in the *ACM Transactions on Reconfigurable Technology and Systems* (**TRETS**), 2021.
 | [J29] | **Yun Liang**, Liqiang Lu, Yicheng Jin, Jiaming Xie, Ruirui Huang, Jiansong Zhang, Wei Lin. "An Efficient Hardware Design for Accelerating Sparse CNNs with NAS-based Models, " to appear in the *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* (**TCAD**), 2021.
@@ -72,9 +74,17 @@ author_profile: true
 
 ## Conference Papers
 
+### 2022
+| [C77]	| Size Zheng, Renze Chen, Anjiang Wei, Yicheng Jin,  Qin Han, Liqiang Lu, Bingyang Wu, Xiuhong Li, Shengen Yan, **Yun Liang**. "AMOS: Enabling Automatic Mapping for Tensor Computations on Spatial Accelerators with Hardware Abstraction," in the proceedings of the International Symposium on Computer Architecture (**ISCA**), June 2022.
+| [C76]	| Liancheng  Jia, Yuyue Wang, Jingwen Leng, **Yun Liang**. "EMS：Efficient Memory Subsystem Synthesis for Spatial Accelerators," in the proceedings of the Design Automation Conference (**DAC**), 2022.
+| [C75] | Yingjie Chen, Diqi Chen, Tao Wang, Yizhou Wang, **Yun Liang**. "Causal Intervention for Subject-deconfounded Facial Action Unit Recognition," in the proceedings of the Association for the Advancement of Artificial Intelligence (**AAAI**)  , 2022.
+| [C74]	| Qingcheng Xiao, **Yun Liang**. "Towards Agile DNN Accelerator Design Using Incremental Synthesis on FPGAs," in the proceedings of ACM/SIGDA International Symposium on Field-Programmable Gate Arrays (**FPGA**), 2022.
+
+
 ### 2021
 
-| [C72] | Liancheng Jia, Zizhang Luo, Liqiang Lu, **Yun Liang**. "TensorLib: A Spatial Accelerator Generation Framework for Tensor Algebra," to appear in the proceedings of the *Design Automation Conference (**DAC**)*, 2021. |
+| [C73] | Liancheng Jia, Zizhang Luo, Liqiang Lu, **Yun Liang**. "TensorLib: A Spatial Accelerator Generation Framework for Tensor Algebra," to appear in the proceedings of the *Design Automation Conference (**DAC**)*, 2021. |
+| [C72] | Yangjie Zhou, Mengtian Yang, Cong Guo, Jingwen Leng, **Yun Liang**, Quan Chen, Minyi Guo , Yuhao Zhu. "Characterizing and Demystifying the Implicit Convolution Algorithm on Commercial Matrix-Multiplication Accelerators  ,"  in the proceedings of the IEEE International Symposium on Workload Characterization (**IISWC**), 2021.
 | [C71] | Liqiang Lu, Yicheng Jin, Hangrui Bi, Zizhang Luo, Peng Li, Tao Wang, **Yun Liang**. "Sanger: A Co-Design Framework for Enabling Sparse Attention using Reconfigurable Architecture," to appear in the proceedings of the *54th international Symposium on Microarchitecture* (**MICRO**), 2021. |
 | [C70] | Yingjie Chen, Diqi Chen, Yizhou Wang, Tao Wang, **Yun Liang**. " CaFGraph: Context-aware Facial Multi-graph Representation for Facial Action Unit Recognition," to appear in the proceedings of *ACM International Conference on Multimedia* (**ACM MM**), 2021. |
 | [C69] | Yingjie Chen, Han Wu, Tao Wang, Yizhou Wang, **Yun Liang**. "Cross-modal Representation Learning For Lightweight and Accurate Facial Action Unit Detection," to appear in the proceedings of *IEEE\RSJ International Conference on Intelligent Robots and Systems* (**IROS**), September, 2021. |

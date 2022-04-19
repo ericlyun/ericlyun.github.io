@@ -27,19 +27,20 @@ I am looking for highly motivated graduate students, postdocs, and interns to wo
 
 ## News ([Full List](/news/))
 
+- **April 2022:**  Invited to serve as the program co-chair (with Hiroki Nakahara at Tokyo Institute of Technology) for International Conference on Field Programmable Technology (FPT) 2022. https://fpt22.hkust.edu.hk/.
+- **March 2022:** One paper (AMOS) is accepted to ISCA’22. Congratulations to Size and other co-authors.
+- **Feb 2022:** Invited to give a keynote talk at 31st International Workshop on Logic & Synthesis (IWLS’22) https://www.iwls.org/iwls2022/. 
+- **Feb 2022:** One paper (EMS) is accepted to DAC’22. Congratulations to Liancheng.
+- **Jan 2022:** Prof Liang is elected as one of the CCF distinguished speakers.
+- **Nov 2021:** One paper is accepted to FPGA’22. Congratulations to Qingcheng. 
 - **Oct 2021:** Our MICRO 2021 tutorial “AHS: An Agile Framework for Hardware Specialization and Software Mapping ” is scheduled on Oct 18 (https://www.microarch.org/micro54/program/workshops.php), please attend! This is the link to our tutorial https://pku-ahs.github.io/tutorial/.
 - **Sep 2021:** I serve the editor for ACM TECS Special issue on AI Acceleration on FPGAs. Please consider submitting your work. https://dl.acm.org/journal/tecs/special-issues
 - **Sep 2021:** Invited to give a talk on “Agile Hardware Specialization” for Qualcomm AI Research Silicon Valley (Virtual).
 - **Sep 2021:** Sanger is awarded the “**Artifacts Evaluated — Functional**” and “**Results Reproduced**” Badges offered by the Artifact Evaluation Committee of MICRO 2021.
-- **Sep 2021:** Invited to serve on the best paper selection committee for ASPDAC 2022.
-- **Aug 2021:** Jin and Youwei **won the 4th place** in EDAthon 2021.
-- **Aug 2021:** Invited to serve on the program committee for the **30th ACM/SIGDA International Symposium on Field-Programmable Gate Arrays (FPGA’22)**. Please consider submitting your work.
-- **July 2021:** Our tutorial application “AHS: An Agile Framework for Hardware Specialization and Software Mapping” accepted to MICRO’21. 
-- **July 2021:** Sanger accepted to MICRO’21. Congratulations to Liqiang, Yicheng, Zizhang, and Hangrui.
-- **June 2021:** Congratulations to Liqiang for receiving President and Huawei Scholarship.
 
 ## Selected Recent Publications ([Full List](/publications/))
 
+- Sanger: A Co-Design Framework for Enabling Sparse Attention using Reconfigurable Architecture (**MICRO**) 2022.
 - TENET: A Framework for Modeling Tensor Dataflow based on Relation-centric Notation (**ISCA**) 2021.
 - HASCO: Towards Agile Hardware and Software Co-design for Tensor Computation (**ISCA**) 2021.
 - TensorLib: A Spatial Accelerator Generation Framework for Tensor Algebra (**DAC**) 2021.
@@ -52,6 +53,7 @@ I am looking for highly motivated graduate students, postdocs, and interns to wo
 
 ## Awards and Honors
 
+- CCF Distinguished Speaker 2022 
 - CCF-IEEE CS Young Computer Scientist Award 2020
 - Beijing Natural Science Fund for Distinguished Young Scholars 2019
 - Beijing Academy of Artificial Intelligence (BAAI) Young Scientist Award 2019
@@ -69,7 +71,8 @@ I am looking for highly motivated graduate students, postdocs, and interns to wo
 - **Best Paper Award Nomination**, ACM International Conference on Hardware/Software Codesign and System Synthesis (CODES+ISSS), October 2008.
 
 ## Teaching 
-- Compiler Techniques (Spring’16,’17,’18,‘19,’20)
-- C++ Programming and Problem Solving (Spring’13, ’14, ’15, ’16, ’17, ’18, ’19, ’20)
+- High-level Chip Design (Spring’22)
+- Compiler Techniques (Spring’16, ’17, ’18, ‘19, ’20, ’21, ’22)
+- C++ Programming and Problem Solving (Spring’13, ’14, ’15, ’16, ’17, ’18, ’19, ’20, ’21)
 
 

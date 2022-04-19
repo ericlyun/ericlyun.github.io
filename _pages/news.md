@@ -6,8 +6,17 @@ author_profile: true
 
 ## ALL News
 
+### 2022
+
+- **April 2022:**  Invited to serve as the program co-chair (with Hiroki Nakahara at Tokyo Institute of Technology) for International Conference on Field Programmable Technology (FPT) 2022. https://fpt22.hkust.edu.hk/.
+- **March 2022:** One paper (AMOS) is accepted to ISCA’22. Congratulations to Size and other co-authors.
+- **Feb 2022:** Invited to give a keynote talk at 31st International Workshop on Logic & Synthesis (IWLS’22) https://www.iwls.org/iwls2022/. 
+- **Feb 2022:** One paper (EMS) is accepted to DAC’22. Congratulations to Liancheng.
+- **Jan 2022:** Prof Liang is elected as one of the CCF distinguished speakers.
+
 ### 2021
 
+- **Nov 2021:** One paper is accepted to FPGA’22. Congratulations to Qingcheng. 
 - **Oct 2021:** Our MICRO 2021 tutorial “AHS: An Agile Framework for Hardware Specialization and Software Mapping ” is scheduled on Oct 18 [Link](https://www.microarch.org/micro54/program/workshops.php), please attend! This is the link to our tutorial [Link](https://pku-ahs.github.io/tutorial/).
 - **Sep 2021:** I serve the editor for ACM TECS Special issue on AI Acceleration on FPGAs. Please consider submitting your work. [Link](https://dl.acm.org/journal/tecs/special-issues)
 - **Sep 2021:** Invited to give a talk on “Agile Hardware Specialization” for Qualcomm AI Research Silicon Valley (Virtual).
