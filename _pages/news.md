@@ -8,6 +8,7 @@ author_profile: true
 
 ### 2022
 
+- **May 2022:** Invited to give a talk on **“Agile Hardware Specialization for Spatial Architecture” at China Semiconductor Technology International Conference (CSTIC)** on June 17. 
 - **April 2022:**  Invited to serve as the program co-chair (with Hiroki Nakahara at Tokyo Institute of Technology) for International Conference on Field Programmable Technology (FPT) 2022. https://fpt22.hkust.edu.hk/.
 - **March 2022:** One paper (AMOS) is accepted to ISCA’22. Congratulations to Size and other co-authors.
 - **Feb 2022:** Invited to give a keynote talk at 31st International Workshop on Logic & Synthesis (IWLS’22) https://www.iwls.org/iwls2022/. 
