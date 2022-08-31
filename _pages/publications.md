@@ -8,11 +8,11 @@ author_profile: true
 
 ### 2021
 
-| [J33] | Size Zheng, Renze Chen, Yicheng Jin, Aijiang Wei, Bingyang Wu, Xiuhong Li, Shengen Yan, **Yun Liang**. "NeoFlow: A Flexible Framework for Enabling Efficient Compilation for High Performance DNN Training, " to appear in the IEEE Transactions on Parallel and Distributed Systems (**TPDS**), 2021. |
-| [J32] | Liqiang Lu, **Yun Liang**. "Morphling: A Reconfigurable Architecture for Tensor Computation, " to appear in the IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), 2021. |
-| [J31] | **Yun Liang**, Qingcheng Xiao, Liqiang Lu, Jiaming Xie. "FCNNLib: A Flexible Convolution Algorithm Library for Deep Learning on FPGAs, " to appear in the *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* (**TCAD**), 2021. |
-| [J30] | Tao Yang, Zhezhi He, Tengchuan Kou, Qi Han, Haibao Yu, Fangxin Liu, **Yun Liang**, Li Jiang. "BISWSRBS: A Winograd-based CNN Accelerator with a Fine-grained Regular Sparsity Pattern and Mixed Precision Quantization, " to appear in the *ACM Transactions on Reconfigurable Technology and Systems* (**TRETS**), 2021. |
-| [J29] | **Yun Liang**, Liqiang Lu, Yicheng Jin, Jiaming Xie, Ruirui Huang, Jiansong Zhang, Wei Lin. "An Efficient Hardware Design for Accelerating Sparse CNNs with NAS-based Models, " to appear in the *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* (**TCAD**), 2021. |
+| [J33] | Size Zheng, Renze Chen, Yicheng Jin, Aijiang Wei, Bingyang Wu, Xiuhong Li, Shengen Yan, **Yun Liang**. "NeoFlow: A Flexible Framework for Enabling Efficient Compilation for High Performance DNN Training, " in the IEEE Transactions on Parallel and Distributed Systems (**TPDS**), 2021. |
+| [J32] | Liqiang Lu, **Yun Liang**. "Morphling: A Reconfigurable Architecture for Tensor Computation, " in the IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), 2021. |
+| [J31] | **Yun Liang**, Qingcheng Xiao, Liqiang Lu, Jiaming Xie. "FCNNLib: A Flexible Convolution Algorithm Library for Deep Learning on FPGAs, " in the *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* (**TCAD**), 2021. |
+| [J30] | Tao Yang, Zhezhi He, Tengchuan Kou, Qi Han, Haibao Yu, Fangxin Liu, **Yun Liang**, Li Jiang. "BISWSRBS: A Winograd-based CNN Accelerator with a Fine-grained Regular Sparsity Pattern and Mixed Precision Quantization, " in the *ACM Transactions on Reconfigurable Technology and Systems* (**TRETS**), 2021. |
+| [J29] | **Yun Liang**, Liqiang Lu, Yicheng Jin, Jiaming Xie, Ruirui Huang, Jiansong Zhang, Wei Lin. "An Efficient Hardware Design for Accelerating Sparse CNNs with NAS-based Models, " in the *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* (**TCAD**), 2021. |
 
 ### 2020
 
@@ -84,20 +84,20 @@ author_profile: true
 
 ### 2021
 
-| [C73] | Liancheng Jia, Zizhang Luo, Liqiang Lu, **Yun Liang**. "TensorLib: A Spatial Accelerator Generation Framework for Tensor Algebra," to appear in the proceedings of the *Design Automation Conference (**DAC**)*, 2021. |
+| [C73] | Liancheng Jia, Zizhang Luo, Liqiang Lu, **Yun Liang**. "TensorLib: A Spatial Accelerator Generation Framework for Tensor Algebra," in the proceedings of the *Design Automation Conference (**DAC**)*, 2021. |
 | [C72] | Yangjie Zhou, Mengtian Yang, Cong Guo, Jingwen Leng, **Yun Liang**, Quan Chen, Minyi Guo , Yuhao Zhu. "Characterizing and Demystifying the Implicit Convolution Algorithm on Commercial Matrix-Multiplication Accelerators  ,"  in the proceedings of the IEEE International Symposium on Workload Characterization (**IISWC**), 2021. |
-| [C71] | Liqiang Lu, Yicheng Jin, Hangrui Bi, Zizhang Luo, Peng Li, Tao Wang, **Yun Liang**. "Sanger: A Co-Design Framework for Enabling Sparse Attention using Reconfigurable Architecture," to appear in the proceedings of the *54th international Symposium on Microarchitecture* (**MICRO**), 2021. |
-| [C70] | Yingjie Chen, Diqi Chen, Yizhou Wang, Tao Wang, **Yun Liang**. " CaFGraph: Context-aware Facial Multi-graph Representation for Facial Action Unit Recognition," to appear in the proceedings of *ACM International Conference on Multimedia* (**ACM MM**), 2021. |
-| [C69] | Yingjie Chen, Han Wu, Tao Wang, Yizhou Wang, **Yun Liang**. "Cross-modal Representation Learning For Lightweight and Accurate Facial Action Unit Detection," to appear in the proceedings of *IEEE\RSJ International Conference on Intelligent Robots and Systems* (**IROS**), September, 2021. |
-| [C68] | Qingcheng Xiao, Size Zheng, Bingzhe Wu, Pengcheng Xu, Xuehai Qian, **Yun Liang**. "HASCO: Towards Agile Hardware and Software Co-design for Tensor Computation," to appear in the proceedings of the *International Symposium on Computer Architecture (**ISCA**)*, 2021. |
-| [C67] | Liqiang Lu, Naiqing Guan, Yuyue Wang, Liancheng Jia, Zizhang Luo, Jieming Yin, Jason Cong, **Yun Liang**.  "TENET: A Framework for Modeling Tensor Dataflow based on Relation-centric Notation ," to appear in the proceedings of the *International Symposium on Computer Architecture (**ISCA**)*, 2021. |
+| [C71] | Liqiang Lu, Yicheng Jin, Hangrui Bi, Zizhang Luo, Peng Li, Tao Wang, **Yun Liang**. "Sanger: A Co-Design Framework for Enabling Sparse Attention using Reconfigurable Architecture," in the proceedings of the *54th international Symposium on Microarchitecture* (**MICRO**), 2021. |
+| [C70] | Yingjie Chen, Diqi Chen, Yizhou Wang, Tao Wang, **Yun Liang**. " CaFGraph: Context-aware Facial Multi-graph Representation for Facial Action Unit Recognition," in the proceedings of *ACM International Conference on Multimedia* (**ACM MM**), 2021. |
+| [C69] | Yingjie Chen, Han Wu, Tao Wang, Yizhou Wang, **Yun Liang**. "Cross-modal Representation Learning For Lightweight and Accurate Facial Action Unit Detection," in the proceedings of *IEEE\RSJ International Conference on Intelligent Robots and Systems* (**IROS**), September, 2021. |
+| [C68] | Qingcheng Xiao, Size Zheng, Bingzhe Wu, Pengcheng Xu, Xuehai Qian, **Yun Liang**. "HASCO: Towards Agile Hardware and Software Co-design for Tensor Computation," in the proceedings of the *International Symposium on Computer Architecture (**ISCA**)*, 2021. |
+| [C67] | Liqiang Lu, Naiqing Guan, Yuyue Wang, Liancheng Jia, Zizhang Luo, Jieming Yin, Jason Cong, **Yun Liang**.  "TENET: A Framework for Modeling Tensor Dataflow based on Relation-centric Notation ," in the proceedings of the *International Symposium on Computer Architecture (**ISCA**)*, 2021. |
 
 ### 2020
 
 | [C66] | Yi-Hsiang Lai, Hongbo Rong, Size Zheng, Weihao Zhang, Xiuping Cui, Yunshan Jia, Jie Wang, Brendan Sullivan, Zhiru Zhang, Yun Liang, Youhui Zhang, Jason Cong, Nithin George, Jose Alvareze, Christopher Hughes, Pradeep Dubey. "SuSy: A Programming Model for Productive Construction of High-Performance Systolic Arrays on FPGAs," in the proceedings of the *International Conference on Computer Aided Design (**ICCAD**)*, November 2020. |
-| [C65] | Tao Yang, Yunkun Liao, Jianping Shi, **Yun Liang**, Naifeng Jing, Li Jiang. "A Winograd-based CNN Accelerator with a Fine-grained Regular Sparsity Pattern," to appear in the proceedings of the *International Conference on Field-Programmable Logic and Applications (FPL)* , August 2020. |
-| [C64] | Qingcheng Xiao, Liqiang Lu, Jiaming Xie, **Yun Liang**. "FCNNLib: An Efficient and Flexible Convolution Algorithm Library on FPGAs," to appear in the proceedings of *the Design Automation Conference (DAC)*, July 2020. |
-| [C63] | Size Zheng, **Yun Liang**, Shuo Wang, Renze Chen, Kaiwen Sheng. "FlexTensor: An Automatic Schedule Exploration and Optimization Framework for Tensor Computation on Heterogeneous System," to appear in the proceedings of *the 25th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*, March 2020. |
+| [C65] | Tao Yang, Yunkun Liao, Jianping Shi, **Yun Liang**, Naifeng Jing, Li Jiang. "A Winograd-based CNN Accelerator with a Fine-grained Regular Sparsity Pattern," in the proceedings of the *International Conference on Field-Programmable Logic and Applications (FPL)* , August 2020. |
+| [C64] | Qingcheng Xiao, Liqiang Lu, Jiaming Xie, **Yun Liang**. "FCNNLib: An Efficient and Flexible Convolution Algorithm Library on FPGAs," in the proceedings of *the Design Automation Conference (DAC)*, July 2020. |
+| [C63] | Size Zheng, **Yun Liang**, Shuo Wang, Renze Chen, Kaiwen Sheng. "FlexTensor: An Automatic Schedule Exploration and Optimization Framework for Tensor Computation on Heterogeneous System," in the proceedings of *the 25th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*, March 2020. |
 
 ### 2019
 
@@ -108,9 +108,9 @@ author_profile: true
 | [C58] | Jiaxi Zhang, Wentai Zhang, Guojie Luo, Xuechao Wei, **Yun Liang**, Jason Cong, "Frequency Improvement of Systolic Array-Based CNNs on FPGAs," in the proceedings of *the 2019 IEEE International Symposium on Circuits and Systems (ISCAS 2019)*, Sapporo, Japan, May 26-29, 2019. |
 | [C57] | Liqiang Lu, Jiaming Xie, Ruirui Huang, Jiansong Zhang, Wei Linn **Yun Liang**. “An Efficient Hardware Accelerator for Sparse Convolutional Neural Networks on FPGAs”  in the proceedings of *the IEEE International Symposium on Field-Programmable Custom Computing Machines (FCCM)*, May, 2019. |
 | [C56] | Caiwen Ding, Shuo Wang, Ning Liu, Kaidi Xu, Yanzhi Wang, **Yun Liang**. "REQ-YOLO: A Resource-Aware, Efficient Quantization Framework for Object Detection on FPGAs," in the proceedings of *ACM/SIGDA International Symposium on Field-Programmable Gate Arrays (FPGA)*, Februrary, 2019. |
-| [C55] | Xiuhong Li, **Yun Liang**, Shengen Yan, Liancheng Jia, Yinghan li. " A Coordinated Tiling and Batching Framework for Efficient GEMM on GPUs," to appear in the proceedings of *Principles and Practice of Parallel Programming (PPoPP)*, February 2019. <span style="color:red">**Best Paper Award Nomination.**</span> |
+| [C55] | Xiuhong Li, **Yun Liang**, Shengen Yan, Liancheng Jia, Yinghan li. " A Coordinated Tiling and Batching Framework for Efficient GEMM on GPUs," in the proceedings of *Principles and Practice of Parallel Programming (PPoPP)*, February 2019. <span style="color:red">**Best Paper Award Nomination.**</span> |
 
-| [C54] | Shuo Wang, **Yun Liang**, Wei Zhang. "Poly: Efficient Heterogeneous System and Application Management for Interactive Applications," to appear in the proceedings of *21st IEEE International Symposium on High Performance Computer Architecture (HPCA)*, February 2019. |
+| [C54] | Shuo Wang, **Yun Liang**, Wei Zhang. "Poly: Efficient Heterogeneous System and Application Management for Interactive Applications," in the proceedings of *21st IEEE International Symposium on High Performance Computer Architecture (HPCA)*, February 2019. |
 
 ### 2018
 

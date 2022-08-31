@@ -9,7 +9,7 @@ author_profile: true
 ### 2022
 
 - **July 2022:** Liqiang Lu successfully defended his doctoral thesis titled "Architecture Design and Dataflow Analysis for Tensor Applications". His thesis is awarded the excellent thesis of Peking University in 2022. **Liqiang will join Zhejiang University as a tenure-track assistant professor/Hundred Talented Program** – Congratulations!
-- **July 2022:** Paper won the **best paper award** of the Third International Workshop on Efficient Artificial Intelligence (EAI) for Edge Computing (in conjunction with ICDCS 2022).
+- **July 2022:** Paper won the <span style="color:red">**best paper award**</span> of the Third International Workshop on Efficient Artificial Intelligence (EAI) for Edge Computing (in conjunction with ICDCS 2022).
 - **July 2022:** One paper (Hector) is accepted to **ICCAD’22**. Congratulations to Ruifan, Youwei, and Jin.
 - **July 2022:** Invited to serve on the program committee for the **Conference on Systems and Machine Learning (MLSys’23)**
 - **July 2022:** Invited to serve on the program committee for the **ACM/SIGDA International Symposium on Field-Programmable Gate Arrays (FPGA'23)**.
