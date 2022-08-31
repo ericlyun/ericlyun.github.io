@@ -27,16 +27,16 @@ I am looking for highly motivated graduate students, postdocs, and interns to wo
 
 ## News ([Full List](/news/))
 
+- **July 2022:** Liqiang Lu successfully defended his doctoral thesis titled "Architecture Design and Dataflow Analysis for Tensor Applications". His thesis is awarded the excellent thesis of Peking University in 2022. **Liqiang will join Zhejiang University as a tenure-track assistant professor/Hundred Talented Program** – Congratulations!
+- **July 2022:** Paper won the **best paper award** of the Third International Workshop on Efficient Artificial Intelligence (EAI) for Edge Computing (in conjunction with ICDCS 2022).
+- **July 2022:** One paper (Hector) is accepted to **ICCAD’22**. Congratulations to Ruifan, Youwei, and Jin.
+- **July 2022:** Invited to serve on the program committee for the **Conference on Systems and Machine Learning (MLSys’23)**
+- **July 2022:** Invited to serve on the program committee for the **ACM/SIGDA International Symposium on Field-Programmable Gate Arrays (FPGA'23)**.
 - **May 2022:** Invited to give a talk on **“Agile Hardware Specialization for Spatial Architecture” at China Semiconductor Technology International Conference (CSTIC)** on June 17. 
 - **April 2022:**  Invited to serve as the program co-chair (with Hiroki Nakahara at Tokyo Institute of Technology) for International Conference on Field Programmable Technology (FPT) 2022. https://fpt22.hkust.edu.hk/.
 - **March 2022:** One paper (AMOS) is accepted to ISCA’22. Congratulations to Size and other co-authors.
 - **Feb 2022:** Invited to give a keynote talk at 31st International Workshop on Logic & Synthesis (IWLS’22) https://www.iwls.org/iwls2022/. 
 - **Feb 2022:** One paper (EMS) is accepted to DAC’22. Congratulations to Liancheng.
-- **Jan 2022:** Prof Liang is elected as one of the CCF distinguished speakers.
-- **Nov 2021:** One paper is accepted to FPGA’22. Congratulations to Qingcheng. 
-- **Oct 2021:** Our MICRO 2021 tutorial “AHS: An Agile Framework for Hardware Specialization and Software Mapping ” is scheduled on Oct 18 (https://www.microarch.org/micro54/program/workshops.php), please attend! This is the link to our tutorial https://pku-ahs.github.io/tutorial/.
-- **Sep 2021:** I serve the editor for ACM TECS Special issue on AI Acceleration on FPGAs. Please consider submitting your work. https://dl.acm.org/journal/tecs/special-issues
-- **Sep 2021:** Invited to give a talk on “Agile Hardware Specialization” for Qualcomm AI Research Silicon Valley (Virtual).
 
 ## Selected Recent Publications ([Full List](/publications/))
 

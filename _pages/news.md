@@ -8,6 +8,11 @@ author_profile: true
 
 ### 2022
 
+- **July 2022:** Liqiang Lu successfully defended his doctoral thesis titled "Architecture Design and Dataflow Analysis for Tensor Applications". His thesis is awarded the excellent thesis of Peking University in 2022. **Liqiang will join Zhejiang University as a tenure-track assistant professor/Hundred Talented Program** – Congratulations!
+- **July 2022:** Paper won the **best paper award** of the Third International Workshop on Efficient Artificial Intelligence (EAI) for Edge Computing (in conjunction with ICDCS 2022).
+- **July 2022:** One paper (Hector) is accepted to **ICCAD’22**. Congratulations to Ruifan, Youwei, and Jin.
+- **July 2022:** Invited to serve on the program committee for the **Conference on Systems and Machine Learning (MLSys’23)**
+- **July 2022:** Invited to serve on the program committee for the **ACM/SIGDA International Symposium on Field-Programmable Gate Arrays (FPGA'23)**.
 - **May 2022:** Invited to give a talk on **“Agile Hardware Specialization for Spatial Architecture” at China Semiconductor Technology International Conference (CSTIC)** on June 17. 
 - **April 2022:**  Invited to serve as the program co-chair (with Hiroki Nakahara at Tokyo Institute of Technology) for International Conference on Field Programmable Technology (FPT) 2022. https://fpt22.hkust.edu.hk/.
 - **March 2022:** One paper (AMOS) is accepted to ISCA’22. Congratulations to Size and other co-authors.

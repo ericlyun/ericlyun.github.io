@@ -27,7 +27,8 @@ author_profile: true
 ## Conference Program Committee Member
 - IEEE/ACM International Symposium on Microarchitecture (MICRO), 2020, 2021, 2022 (ERC)
 - Design Automation Conference (DAC), 2020,2021,2022
-- International Symposium on Field-Programmable Gate Arrays (FPGA), 2019, 2020, 2021, 2022
+- International Symposium on Field-Programmable Gate Arrays (FPGA), 2019, 2020, 2021, 2022, 2023
+- The Conference on Systems and Machine Learning (MLSys), 2023
 - International Symposium on High-Performance Computer Architecture (HPCA), 2018, 2020
 - International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2020 (ERC)
 - ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming (PPoPP), 2020 (ERC)
