@@ -40,16 +40,14 @@ I am looking for highly motivated graduate students, postdocs, and interns to wo
 
 ## Selected Recent Publications ([Full List](/publications/))
 
+- AMOS: Enabling Automatic Mapping for Tensor Computations on Spatial Accelerators with Hardware Abstraction (**ISCA**) 2022.
+- EMS: Efficient Memory Subsystem Synthesis for Spatial Accelerators (**DAC**) 2022.
 - Sanger: A Co-Design Framework for Enabling Sparse Attention using Reconfigurable Architecture (**MICRO**) 2022.
 - TENET: A Framework for Modeling Tensor Dataflow based on Relation-centric Notation (**ISCA**) 2021.
 - HASCO: Towards Agile Hardware and Software Co-design for Tensor Computation (**ISCA**) 2021.
 - TensorLib: A Spatial Accelerator Generation Framework for Tensor Algebra (**DAC**) 2021.
 - FCNNLib: An Efficient and Flexible Convolution Algorithm Library on FPGAs (**DAC**) 2020.
 - FlexTensor: An Automatic Schedule Exploration and Optimization Framework for Tensor Computation on Heterogeneous System (**ASPLOS**) 2020.
-- Overcoming Data Transfer Bottlenecks in DNN Accelerators via Layer-Conscious Memory Management (**DAC**) 2019.
-- Poly: Efficient Heterogeneous System and Application Management for Interactive Applications (**HPCA**) 2019.
-- A Coordinated Tiling and Batching Framework for Efficient GEMM on GPUs (**PPoPP**) 2019. <span style="color:red">**Best Paper Award Nomination**</span>.
-- C-LSTM: Enabling Efficient LSTM using Structured Compression Techniques on FPGAs (**FPGA**) 2018. 
 
 ## Awards and Honors
 
@@ -71,7 +69,8 @@ I am looking for highly motivated graduate students, postdocs, and interns to wo
 - **Best Paper Award Nomination**, ACM International Conference on Hardware/Software Codesign and System Synthesis (CODES+ISSS), October 2008.
 
 ## Teaching 
-- High-level Chip Design (Spring’22)
+- Introduction to Design Automation and Computing System (Autumn’22)
+- High-level Chip Design (Spring’22, Autumn’22)
 - Compiler Techniques (Spring’16, ’17, ’18, ‘19, ’20, ’21, ’22)
 - C++ Programming and Problem Solving (Spring’13, ’14, ’15, ’16, ’17, ’18, ’19, ’20, ’21)
 
