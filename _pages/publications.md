@@ -81,7 +81,7 @@ author_profile: true
 
 ### 2022
 
-| [C80] | Ruifan Xu, Youwei Xiao, Jin Luo, **Yun Liang**. "HECTOR: A MULTI-LEVEL INTERMEDIATE REPRESENTATION FOR HARDWARE SYNTHESIS METHODOLGIES", TO APPEAR IN THE PROCEEDING OF THE INTERNATIONAL CONFERENCE ON COMPUTER AIDED DESIGN (**ICCAD**), NOV. 2022. |
+| [C80] | Ruifan Xu, Youwei Xiao, Jin Luo, **Yun Liang**. "HECTOR: A Multi-level Intermediate Representation for Hardware Synthesis Methodologies", to appear in the proceeding of the International Conference on Computer Aided Design (**ICCAD**), Nov. 2022. |
 | [C79] | Yingjie Chen, Huasong Zhong, Chong Chen, Chen Shen, Jianqiang Huang, Tao Wang, **Yun Liang**, Qianru Sun, "On Mitigating Hard Clusters for Face Clustering", to appear in the proceeding of the 17th European Conference on Computer Vision (**ECCV**), Oct. 2022. |
 | [C78] | Yingjie Chen, Chong Chen, Xiao Luo, Jianqiang Huang, Xian-Sheng Hua, Tao Wang, **Yun Liang**, "Pursuing Knowledge Consistency: Supervised Hierarchical Contrastive Learning for Facial Action Unit Recognition", to appear in the proceedigns of the 30th ACM International Conference on Multimedia (**ACM MM**), October, 2022. |
 | [C77]	| Size Zheng, Renze Chen, Anjiang Wei, Yicheng Jin,  Qin Han, Liqiang Lu, Bingyang Wu, Xiuhong Li, Shengen Yan, **Yun Liang**. "AMOS: Enabling Automatic Mapping for Tensor Computations on Spatial Accelerators with Hardware Abstraction," in the proceedings of the International Symposium on Computer Architecture (**ISCA**), June 2022. |
