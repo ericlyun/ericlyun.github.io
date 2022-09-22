@@ -4,7 +4,7 @@ permalink: /domino/
 author_profile: true
 ---
 
-![picture](../images/domino.png)
+<img src="../images/domino.png" width="500"/>
 
 With the booming development of areas like scientific computing, AI, and robotics in recent years, the importance of tensor computations has become more and more prominent. In order to accelerate tensor computations, many acceleration mechanisms of traditional hardware have been highly emphasized (e.g. vector unit and multi-core), and many hardware or hardware units specifically designed for tensor computations are developed (e.g. NPU, PIM-hardware and GPU Tensor Core). However, in the face of numerous hardware devices and their acceleration mechanisms, developing the software stack on top of these hardware becomes a challenge. Manually writing optimized code for different tensor operators on different hardware is time-consuming, while automatically compiling and optimizing various operators on various hardware needs deep and comprehensive architectural analysis and insights, which is what current works are lack of. As a result, it is very difficult to design high performance and portable implementation on different hardware architectures. 
 
@@ -25,12 +25,12 @@ Virtualization is a prevalent technique used in compiler domain. It can provide 
 
 
 Publications
-1.  **AMOS: Enabling Automatic Mapping for Tensor Computations on   Spatial Accelerators with Hardware Abstraction. (ISCA’22)**
-2.  NeoFlow: A Flexible Framework for Enabling Efficient Compilation for High Performance DNN Training (TPDS’22)
-3.  HASCO: Towards Agile Hardware and Software Co-design for Tensor Computation. (ISCA’21)
-4.  FlexTensor: An Automatic Schedule Exploration and Optimization Framework for Tensor Computation on Heterogeneous System. (ASPLOS’20)
+1.  [**AMOS: Enabling Automatic Mapping for Tensor Computations on   Spatial Accelerators with Hardware Abstraction. (ISCA’22)**](https://dl.acm.org/doi/10.1145/3470496.3527440)
+2.  [NeoFlow: A Flexible Framework for Enabling Efficient Compilation for High Performance DNN Training (TPDS’22)](https://ieeexplore.ieee.org/document/9664259/)
+3.  [HASCO: Towards Agile Hardware and Software Co-design for Tensor Computation. (ISCA’21)](https://arxiv.org/abs/2105.01585)
+4.  [FlexTensor: An Automatic Schedule Exploration and Optimization Framework for Tensor Computation on Heterogeneous System. (ASPLOS’20)](https://dl.acm.org/doi/10.1145/3373376.3378508)
 
 Open-source Projects:
-1.  AMOS
-2.  HASCO
-3.  FlexTensor
+1.  [AMOS](https://github.com/pku-liang/AMOS)
+2.  [HASCO](https://github.com/pku-liang/HASCO)
+3.  [FexTensor](https://github.com/pku-liang/FlexTensor)
