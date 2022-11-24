@@ -16,7 +16,7 @@ redirect_from:
 *Peking University*  
 *Room 518, Science Building No.5, Yiheyuan Rd No.5, Beijing, 100871*
 
-I am an Associate Professor (with tenure) in the School of Integrated Circuit at Peking University and a member of Center for Energy-efficient Computing and Applications (CECA). My research interest is at the hardware-software interface with work spanning electronic design automation (EDA), hardware and software co-design, and computer architecture. My recent publications investigate new algorithms, programming models, design automation tools and methodologies, and hardware for high-performance and energy-efficient computer systems. I have authored over 100 scientific publications in the leading international journals and conferences. My research has been recognized with two Best Paper Awards (FCCM 2011 and ICCAD 2017), six Best Paper Award Nominations (PPoPP 2019, DAC 2017, ASPDAC 2016, DAC 2012, FPT 2011, CODES+ISSS 2008), CCF-IEEE CS Young Computer Scientist Award (2020), Beijing Natural Science Fund for Distinguished Young Scholars (2019), and Beijing Academy of Artificial Intelligence (BAAI) Young Scientist Award. I received the Excellence Teaching Award from Peking University in 2017. My research has been funded by NSFC, BNSF, SenseTime, Alibaba, etc. I am currently the Director of PKU-SenseTime Joint Lab of Intelligent Computing.
+I am an Associate Professor (with tenure) in School of Integrated Circuit at Peking University and a member of Center for Energy-efficient Computing and Applications (CECA). My research interest is at the hardware-software interface with work spanning electronic design automation (EDA), hardware and software co-design, and computer architecture. My recent publications investigate new algorithms, programming models, design automation tools and methodologies, and hardware for high-performance and energy-efficient computer systems. I have authored over 100 scientific publications in the leading international journals and conferences. My research has been recognized with two Best Paper Awards (FCCM 2011 and ICCAD 2017), six Best Paper Award Nominations (PPoPP 2019, DAC 2017, ASPDAC 2016, DAC 2012, FPT 2011, CODES+ISSS 2008), CCF-IEEE CS Young Computer Scientist Award (2020), Beijing Natural Science Fund for Distinguished Young Scholars (2019), and Beijing Academy of Artificial Intelligence (BAAI) Young Scientist Award. I received the Excellence Teaching Award from Peking University in 2017. My research has been funded by NSFC, BNSF, SenseTime, Alibaba, etc. I am currently the Director of PKU-SenseTime Joint Lab of Intelligent Computing.
 
 I currently serve as Associate Editor of the ACM Transactions on Embedded Computing Systems (TECS), ACM Transactions on Reconfigurable Technology and Systems (TRETS), and IEEE Embedded Systems Letters (ESL). I was the program chair of 30th Annual IEEE International Conference on Application-specific Systems, Architecture and Processors (ASAP) 2019 and the subcommittee chair of Asia South Pacific Design Automation Conference (ASPDAC) 2014. I also serve in the program committees in the premier conferences including DAC, ICCAD, DATE, ASPDAC, FPGA, FCCM, HPCA, MICRO, ASPLOS, ISCA, PPoPP, PACT, CGO, ICS, CC, CASES, LCTES, ASAP, and ICCD. Prior to joining Peking University, I received my Ph.D in Computer Science from National University of Singapore in 2010. Upon graduation, I worked as a Research Scientist in UIUC. 
 
@@ -27,6 +27,9 @@ I am looking for highly motivated graduate students, postdocs, and interns to wo
 
 ## News ([Full List](/news/))
 
+- **Oct 2022**: Invited to give a talk on “**AHS: An Agile Framework for Hardware Specialization and Software Mapping**” at ACCAD (Workshop on Accelerator Computer Aided Design) 2022, a workshop co-located with ICCAD 2022. Workshop details https://sites.google.com/view/accad2022/invited-speakers. 
+- **Oct 2022**: One paper is accepted to **HPCA’23**. Congratulations to Size and Siyuan.
+- **Sep 2022**: Our tutorial entitled “entitled **"Agile Hardware and Software Co-Design”** is accepted by ASPDAC 2023. I will give the tutorial together with Prof. Wei Zhang from HKUST and Prof. Cheng Zhuo from ZJU.
 - **July 2022:** Liqiang Lu successfully defended his doctoral thesis titled "Architecture Design and Dataflow Analysis for Tensor Applications". His thesis is awarded the excellent thesis of Peking University in 2022. **Liqiang will join Zhejiang University as a tenure-track assistant professor/Hundred Talented Program** – Congratulations!
 - **July 2022:** Paper won the **best paper award** of the Third International Workshop on Efficient Artificial Intelligence (EAI) for Edge Computing (in conjunction with ICDCS 2022).
 - **July 2022:** One paper (Hector) is accepted to **ICCAD’22**. Congratulations to Ruifan, Youwei, and Jin.
@@ -51,6 +54,7 @@ I am looking for highly motivated graduate students, postdocs, and interns to wo
 
 ## Awards and Honors
 
+- CCF Distinguished Member
 - CCF Distinguished Speaker 2022 
 - CCF-IEEE CS Young Computer Scientist Award 2020
 - Beijing Natural Science Fund for Distinguished Young Scholars 2019
