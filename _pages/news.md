@@ -8,6 +8,9 @@ author_profile: true
 
 ### 2022
 
+- **Oct 2022**: Invited to give a talk on “**AHS: An Agile Framework for Hardware Specialization and Software Mapping**” at ACCAD (Workshop on Accelerator Computer Aided Design) 2022, a workshop co-located with ICCAD 2022. Workshop details https://sites.google.com/view/accad2022/invited-speakers. 
+- **Oct 2022**: One paper is accepted to **HPCA’23**. Congratulations to Size and Siyuan.
+- **Sep 2022**: Our tutorial entitled “entitled **"Agile Hardware and Software Co-Design”** is accepted by ASPDAC 2023. I will give the tutorial together with Prof. Wei Zhang from HKUST and Prof. Cheng Zhuo from ZJU.
 - **July 2022:** Liqiang Lu successfully defended his doctoral thesis titled "Architecture Design and Dataflow Analysis for Tensor Applications". His thesis is awarded the excellent thesis of Peking University in 2022. **Liqiang will join Zhejiang University as a tenure-track assistant professor/Hundred Talented Program** – Congratulations!
 - **July 2022:** Paper won the <span style="color:red">**best paper award**</span> of the Third International Workshop on Efficient Artificial Intelligence (EAI) for Edge Computing (in conjunction with ICDCS 2022).
 - **July 2022:** One paper (Hector) is accepted to **ICCAD’22**. Congratulations to Ruifan, Youwei, and Jin.
