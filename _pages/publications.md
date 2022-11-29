@@ -7,11 +7,10 @@ author_profile: true
 ## Journal Publications  
 
 ### 2022
-| [J35] | Liancheng Jia, Zizhang Luo, Liqiang Lu, **Yun Liang**. "Automatic Generation of Spatial Accelerator for Tensor Algebra, " to appear in the IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), 2022
-| [J34] | Tao Wei, Yonghong Tian, Yaowei Wang, **Yun Liang**, Changwen Chen, "Optimized separable convolution: Yet another efficient convolution operator, " in AI Open, October, 2022.
-| [J33] | Size Zheng, Renze Chen, Yicheng Jin, Aijiang Wei, Bingyang Wu, Xiuhong Li, Shengen Yan, Yun Liang. "NeoFlow: A Flexible Framework for Enabling Efficient Compilation for High Performance DNN Training, " in the IEEE Transactions on Parallel and Distributed Systems (**TPDS**), Vol:33,Issue: 11, November 2022.
-| [J32] | Liqiang Lu, **Yun Liang**. "Morphling: A Reconfigurable Architecture for Tensor Computation, " in the IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), Vol:41, Issue:11, November 2022.
- (**TCAD**). |
+| [J35] | Liancheng Jia, Zizhang Luo, Liqiang Lu, **Yun Liang**. "Automatic Generation of Spatial Accelerator for Tensor Algebra, " to appear in the IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), 2022. |
+| [J34] | Tao Wei, Yonghong Tian, Yaowei Wang, **Yun Liang**, Changwen Chen, "Optimized separable convolution: Yet another efficient convolution operator, " in AI Open, October, 2022. |
+| [J33] | Size Zheng, Renze Chen, Yicheng Jin, Aijiang Wei, Bingyang Wu, Xiuhong Li, Shengen Yan, Yun Liang. "NeoFlow: A Flexible Framework for Enabling Efficient Compilation for High Performance DNN Training, " in the IEEE Transactions on Parallel and Distributed Systems (**TPDS**), Vol:33,Issue: 11, November 2022. |
+| [J32] | Liqiang Lu, **Yun Liang**. "Morphling: A Reconfigurable Architecture for Tensor Computation, " in the IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), Vol:41, Issue:11, November 2022. (**TCAD**). |
 | [J31] | **Yun Liang**, Qingcheng Xiao, Liqiang Lu, Jiaming Xie. "FCNNLib: A Flexible Convolution Algorithm Library for Deep Learning on FPGAs, "in the IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), Vol: 41, Issue: 8, August 2022. |
 | [J30] | **Yun Liang**, Liqiang Lu, Yicheng Jin, Jiaming Xie, Ruirui Huang, Jiansong Zhang, Wei Lin. "An Efficient Hardware Design for Accelerating Sparse CNNs with NAS-based Models, " in the IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), Vol: 41, Issue: 3, March 2022. |
 
@@ -83,10 +82,10 @@ author_profile: true
 
 ### 2022
 
-| [C81] | Size Zheng, Siyuan Chen, Peidi Song, Renze Chen, Xiuhong Li, Shengen Yan, Dahua Lin, Jingwen Leng, **Yun Liang**. "Chimera: An Analytical Optimizing Framework for Effective Compute-intensive Operators Fusion", to appear in the proceedings of the IEEE International Symposium on High Performance Computer Architecture (**HPCA**),2023.
-| [C80] | Ruifan Xu, Youwei Xiao, Jin Luo, **Yun Liang**. "Hector: A Multi-level Intermediate Representation for Hardware Synthesis Methodolgies", in the proceeding of the International Conference on Computer Aided Design (**ICCAD**), Nov. 2022. 
-| [C79] | Yingjie Chen, Huasong Zhong, Chong Chen, Chen Shen, Jianqiang Huang, Tao Wang, **Yun Liang**, Qianru Sun, "On Mitigating Hard Clusters for Face Clustering", in the proceeding of the 17th European Conference on Computer Vision (**ECCV**), Oct. 2022.
-| [C78] | Yingjie Chen, Chong Chen, Xiao Luo, Jianqiang Huang, Xian-Sheng Hua, Tao Wang, **Yun Liang**, "Pursuing Knowledge Consistency: Supervised Hierarchical Contrastive Learning for Facial Action Unit Recognition", in the proceedings of the 30th ACM International Conference on Multimedia (**ACM MM**), October, 2022.
+| [C81] | Size Zheng, Siyuan Chen, Peidi Song, Renze Chen, Xiuhong Li, Shengen Yan, Dahua Lin, Jingwen Leng, **Yun Liang**. "Chimera: An Analytical Optimizing Framework for Effective Compute-intensive Operators Fusion", to appear in the proceedings of the IEEE International Symposium on High Performance Computer Architecture (**HPCA**),2023. |
+| [C80] | Ruifan Xu, Youwei Xiao, Jin Luo, **Yun Liang**. "Hector: A Multi-level Intermediate Representation for Hardware Synthesis Methodolgies", in the proceeding of the International Conference on Computer Aided Design (**ICCAD**), Nov. 2022. |
+| [C79] | Yingjie Chen, Huasong Zhong, Chong Chen, Chen Shen, Jianqiang Huang, Tao Wang, **Yun Liang**, Qianru Sun, "On Mitigating Hard Clusters for Face Clustering", in the proceeding of the 17th European Conference on Computer Vision (**ECCV**), Oct. 2022. |
+| [C78] | Yingjie Chen, Chong Chen, Xiao Luo, Jianqiang Huang, Xian-Sheng Hua, Tao Wang, **Yun Liang**, "Pursuing Knowledge Consistency: Supervised Hierarchical Contrastive Learning for Facial Action Unit Recognition", in the proceedings of the 30th ACM International Conference on Multimedia (**ACM MM**), October, 2022. |
 | [C77]	| Size Zheng, Renze Chen, Anjiang Wei, Yicheng Jin,  Qin Han, Liqiang Lu, Bingyang Wu, Xiuhong Li, Shengen Yan, **Yun Liang**. "AMOS: Enabling Automatic Mapping for Tensor Computations on Spatial Accelerators with Hardware Abstraction," in the proceedings of the International Symposium on Computer Architecture (**ISCA**), June 2022. |
 | [C76]	| Liancheng  Jia, Yuyue Wang, Jingwen Leng, **Yun Liang**. "EMS：Efficient Memory Subsystem Synthesis for Spatial Accelerators," in the proceedings of the Design Automation Conference (**DAC**), 2022. |
 | [C75] | Yingjie Chen, Diqi Chen, Tao Wang, Yizhou Wang, **Yun Liang**. "Causal Intervention for Subject-deconfounded Facial Action Unit Recognition," in the proceedings of the Association for the Advancement of Artificial Intelligence (**AAAI**)  , 2022. |
