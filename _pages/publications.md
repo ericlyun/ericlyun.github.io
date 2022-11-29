@@ -7,14 +7,13 @@ author_profile: true
 ## Journal Publications  
 
 ### 2022
+
 | [J35] | Liancheng Jia, Zizhang Luo, Liqiang Lu, **Yun Liang**. "Automatic Generation of Spatial Accelerator for Tensor Algebra, " to appear in the IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), 2022. |
 | [J34] | Tao Wei, Yonghong Tian, Yaowei Wang, **Yun Liang**, Changwen Chen, "Optimized separable convolution: Yet another efficient convolution operator, " in AI Open, October, 2022. |
 | [J33] | Size Zheng, Renze Chen, Yicheng Jin, Aijiang Wei, Bingyang Wu, Xiuhong Li, Shengen Yan, Yun Liang. "NeoFlow: A Flexible Framework for Enabling Efficient Compilation for High Performance DNN Training, " in the IEEE Transactions on Parallel and Distributed Systems (**TPDS**), Vol:33,Issue: 11, November 2022. |
 | [J32] | Liqiang Lu, **Yun Liang**. "Morphling: A Reconfigurable Architecture for Tensor Computation, " in the IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), Vol:41, Issue:11, November 2022. (**TCAD**). |
 | [J31] | **Yun Liang**, Qingcheng Xiao, Liqiang Lu, Jiaming Xie. "FCNNLib: A Flexible Convolution Algorithm Library for Deep Learning on FPGAs, "in the IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), Vol: 41, Issue: 8, August 2022. |
 | [J30] | **Yun Liang**, Liqiang Lu, Yicheng Jin, Jiaming Xie, Ruirui Huang, Jiansong Zhang, Wei Lin. "An Efficient Hardware Design for Accelerating Sparse CNNs with NAS-based Models, " in the IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), Vol: 41, Issue: 3, March 2022. |
-
-
 
 ### 2021
 
