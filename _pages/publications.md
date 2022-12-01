@@ -79,9 +79,12 @@ author_profile: true
 
 ## Conference Papers
 
-### 2022
+### 2023
 
 | [C81] | Size Zheng, Siyuan Chen, Peidi Song, Renze Chen, Xiuhong Li, Shengen Yan, Dahua Lin, Jingwen Leng, **Yun Liang**. "Chimera: An Analytical Optimizing Framework for Effective Compute-intensive Operators Fusion", to appear in the proceedings of the IEEE International Symposium on High Performance Computer Architecture (**HPCA**),2023. |
+
+### 2022
+
 | [C80] | Ruifan Xu, Youwei Xiao, Jin Luo, **Yun Liang**. "Hector: A Multi-level Intermediate Representation for Hardware Synthesis Methodolgies", in the proceeding of the International Conference on Computer Aided Design (**ICCAD**), Nov. 2022. |
 | [C79] | Yingjie Chen, Huasong Zhong, Chong Chen, Chen Shen, Jianqiang Huang, Tao Wang, **Yun Liang**, Qianru Sun, "On Mitigating Hard Clusters for Face Clustering", in the proceeding of the 17th European Conference on Computer Vision (**ECCV**), Oct. 2022. |
 | [C78] | Yingjie Chen, Chong Chen, Xiao Luo, Jianqiang Huang, Xian-Sheng Hua, Tao Wang, **Yun Liang**, "Pursuing Knowledge Consistency: Supervised Hierarchical Contrastive Learning for Facial Action Unit Recognition", in the proceedings of the 30th ACM International Conference on Multimedia (**ACM MM**), October, 2022. |
@@ -218,8 +221,9 @@ author_profile: true
 
 
 ## Other Workshop Papers and Poster Papers
-| [W7] | Ruifan Xu, Youwei Xiao, Jin Luo, Yun Liang. “A MLIR-Based Hardware Synthesis Framework”, Workshop on Open-Source EDA Technology (WOSET 2022) in conjunction with ICCAD2022
-| [W6] | Liancheng Jia, Zizhang Luo, Liqiang Lu, Yun Liang. TensorLib: A Spatial Accelerator Generation Framework for Tensor Algebra. Workshop on Open-Source EDA Technology (WOSET 2022), in conjunction with ICCAD2022, Poster.
+
+| [W7] | Ruifan Xu, Youwei Xiao, Jin Luo, Yun Liang. “A MLIR-Based Hardware Synthesis Framework”, Workshop on Open-Source EDA Technology (WOSET 2022) in conjunction with ICCAD2022. |
+| [W6] | Liancheng Jia, Zizhang Luo, Liqiang Lu, Yun Liang. TensorLib: A Spatial Accelerator Generation Framework for Tensor Algebra. Workshop on Open-Source EDA Technology (WOSET 2022), in conjunction with ICCAD2022, Poster. |
 | [W5] | Haokun Li, Jing Liu, Liancheng Jia, **Yun Liang**, Yaowei Wang, Tingming, Tan. “Downscaling and Overflow-aware Model Compression For Efficient Vision Processors”, the third International Workshop on Efficient Artificial Intelligence For Edge Computing(**EAI**) in conjunction with ICDCS 2022. <span style="color:red">**Best Paper Award.**</span> |
 | [W4] | Pengcheng Xu, **Yun Liang**. “Automatic Code Generation for Rocket Chip RoCC Accelerators, " *Fourth Workshop on Computer Architecture Research with RISC-V (CARRV)* 2020. |
 | [W3] | Xiaolong Xie, **Yun Liang**, Xiuhong Li, Wei Tan. “CuLDA_CGS: solving large-scale LDA problems on GPUs, " in the proceedings of *the Symposium on Principles and Practice of Parallel Programming (PPoPP), 2019.* (Poster). |
