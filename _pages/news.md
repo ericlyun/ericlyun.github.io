@@ -6,8 +6,12 @@ author_profile: true
 
 ## ALL News
 
+### 2023
+- **Jan 2023**: Prof Liang organized the “**Agile Hardware and Software Co-Design**” Tutorial at ASPDAC 2023 [link](https://www.aspdac.com/aspdac2023/tutorial/#t7) and gave the talk on “**Agile Hardware Specialization and Software Mapping**”.
+
 ### 2022
 
+- **Dec 2022**: Invited to give two talks at CNCC (China National Computer Congress). One is on “**Multi-level Intermediate Representation for Agile Hardware Synthesis**” and the other is on “**Automatic Code Generation for Heterogeneous Hardware**”. 
 - **Oct 2022**: Invited to give a talk on “**AHS: An Agile Framework for Hardware Specialization and Software Mapping**” at ACCAD (Workshop on Accelerator Computer Aided Design) 2022, a workshop co-located with ICCAD 2022. Workshop details https://sites.google.com/view/accad2022/invited-speakers. 
 - **Oct 2022**: One paper is accepted to **HPCA’23**. Congratulations to Size and Siyuan.
 - **Sep 2022**: Our tutorial entitled “entitled **"Agile Hardware and Software Co-Design”** is accepted by ASPDAC 2023. I will give the tutorial together with Prof. Wei Zhang from HKUST and Prof. Cheng Zhuo from ZJU.
