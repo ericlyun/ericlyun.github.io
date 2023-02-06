@@ -16,9 +16,9 @@ redirect_from:
 *Peking University*  
 *Room 518, Science Building No.5, Yiheyuan Rd No.5, Beijing, 100871*
 
-I am an Associate Professor (with tenure) in School of Integrated Circuit at Peking University and a member of Center for Energy-efficient Computing and Applications (CECA). My research interest is at the hardware-software interface with work spanning electronic design automation (EDA), hardware and software co-design, and computer architecture. My recent publications investigate new algorithms, programming models, design automation tools and methodologies, and hardware for high-performance and energy-efficient computer systems. I have authored over 100 scientific publications in the leading international journals and conferences. My research has been recognized with two Best Paper Awards (FCCM 2011 and ICCAD 2017), six Best Paper Award Nominations (PPoPP 2019, DAC 2017, ASPDAC 2016, DAC 2012, FPT 2011, CODES+ISSS 2008), CCF-IEEE CS Young Computer Scientist Award (2020), Beijing Natural Science Fund for Distinguished Young Scholars (2019), and Beijing Academy of Artificial Intelligence (BAAI) Young Scientist Award. I received the Excellence Teaching Award from Peking University in 2017. My research has been funded by NSFC, BNSF, SenseTime, Alibaba, etc. I am currently the Director of PKU-SenseTime Joint Lab of Intelligent Computing.
+I am an Endowed Boya Young Fellow Associate Professor （with tenure）in the School of Integrated Circuit and School of EECS at Peking University and a member of Center for Energy-efficient Computing and Applications (CECA). My research interest is at the hardware-software interface with work spanning electronic design automation (EDA), hardware and software co-design, and computer architecture. My recent publications investigate new algorithms, programming models, design automation tools and methodologies, and hardware for high-performance and energy-efficient computer systems. I have authored over 100 scientific publications in the leading international journals and conferences. My research has been recognized with three Best Paper Awards, six Best Paper Award Nominations, CCF-IEEE CS Young Computer Scientist Award, Beijing Natural Science Fund for Distinguished Young Scholars, Beijing Academy of Artificial Intelligence (BAAI) Young Scientist Award, and National Youth Top-notch Talent Fund. I received the Excellence Teaching Award from Peking University in 2017. My research has been funded by NSFC, BNSF, etc. I am currently the Director of PKU-SenseTime Joint Lab of Intelligent Computing.
 
-I currently serve as Associate Editor of the ACM Transactions on Embedded Computing Systems (TECS), ACM Transactions on Reconfigurable Technology and Systems (TRETS), and IEEE Embedded Systems Letters (ESL). I was the program chair of 30th Annual IEEE International Conference on Application-specific Systems, Architecture and Processors (ASAP) 2019 and the subcommittee chair of Asia South Pacific Design Automation Conference (ASPDAC) 2014. I also serve in the program committees in the premier conferences including DAC, ICCAD, DATE, ASPDAC, FPGA, FCCM, HPCA, MICRO, ASPLOS, ISCA, PPoPP, PACT, CGO, ICS, CC, CASES, LCTES, ASAP, and ICCD. Prior to joining Peking University, I received my Ph.D in Computer Science from National University of Singapore in 2010. Upon graduation, I worked as a Research Scientist in UIUC. 
+I currently serve as Associate Editor of the ACM Transactions on Embedded Computing Systems (TECS) and ACM Transactions on Reconfigurable Technology and Systems (TRETS). I was the program chair of 30th Annual IEEE International Conference on Application-specific Systems, Architecture and Processors (ASAP) 2019 and the International Conference on Field Programmable Technology (FPT) 2022. I also serve in the program committees in the premier conferences including DAC, ICCAD, FPGA, FCCM, HPCA, MICRO, DATE, ASPDAC, ASPLOS, ISCA, PPoPP, PACT, CGO, ICS, CC, CASES, LCTES, ASAP, and ICCD. Prior to joining Peking University, I received my Ph.D in Computer Science from National University of Singapore in 2010. Upon graduation, I worked as a Research Scientist in UIUC.
 
 
 ## To Perspective Postdocs, Students, and Interns
@@ -27,6 +27,8 @@ I am looking for highly motivated graduate students, postdocs, and interns to wo
 
 ## News ([Full List](/news/))
 
+- **Jan 2023**: Prof Liang organized the “**Agile Hardware and Software Co-Design**” Tutorial at ASPDAC 2023 [link](https://www.aspdac.com/aspdac2023/tutorial/#t7) and gave the talk on “**Agile Hardware Specialization and Software Mapping**”.
+- **Dec 2022**: Invited to give two talks at CNCC (China National Computer Congress). One is on “**Multi-level Intermediate Representation for Agile Hardware Synthesis**” and the other is on “**Automatic Code Generation for Heterogeneous Hardware**”. 
 - **Oct 2022**: Invited to give a talk on “**AHS: An Agile Framework for Hardware Specialization and Software Mapping**” at ACCAD (Workshop on Accelerator Computer Aided Design) 2022, a workshop co-located with ICCAD 2022. Workshop details https://sites.google.com/view/accad2022/invited-speakers. 
 - **Oct 2022**: One paper is accepted to **HPCA’23**. Congratulations to Size and Siyuan.
 - **Sep 2022**: Our tutorial entitled “entitled **"Agile Hardware and Software Co-Design”** is accepted by ASPDAC 2023. I will give the tutorial together with Prof. Wei Zhang from HKUST and Prof. Cheng Zhuo from ZJU.
@@ -40,6 +42,7 @@ I am looking for highly motivated graduate students, postdocs, and interns to wo
 
 ## Selected Recent Publications ([Full List](/publications/))
 
+- Hector: A Multi-level Intermediate Representation for Hardware Synthesis Methodologies (**ICCAD**) 2022.
 - AMOS: Enabling Automatic Mapping for Tensor Computations on Spatial Accelerators with Hardware Abstraction (**ISCA**) 2022.
 - EMS: Efficient Memory Subsystem Synthesis for Spatial Accelerators (**DAC**) 2022.
 - Sanger: A Co-Design Framework for Enabling Sparse Attention using Reconfigurable Architecture (**MICRO**) 2022.
@@ -52,8 +55,10 @@ I am looking for highly motivated graduate students, postdocs, and interns to wo
 ## Awards and Honors
 
 - CCF Distinguished Member
+- **Best Paper Award**. The third International Workshop on Efficient Artificial Intelligence For Edge Computing (**EAI**) in conjunction with ICDCS 2022
 - CCF Distinguished Speaker 2022 
 - CCF-IEEE CS Young Computer Scientist Award 2020
+- National Youth Top-notch Talent Fund 2020
 - Beijing Natural Science Fund for Distinguished Young Scholars 2019
 - Beijing Academy of Artificial Intelligence (BAAI) Young Scientist Award 2019
 - Huang Tingfang/Xinhe Young Scholars Award in 2017
@@ -70,6 +75,7 @@ I am looking for highly motivated graduate students, postdocs, and interns to wo
 - **Best Paper Award Nomination**, ACM International Conference on Hardware/Software Codesign and System Synthesis (CODES+ISSS), October 2008.
 
 ## Teaching 
+- Modeling, Analysis, and Optimization for Computing System (Spring’23)
 - Introduction to Design Automation and Computing System (Autumn’22)
 - High-level Chip Design (Spring’22, Autumn’22)
 - Compiler Techniques (Spring’16, ’17, ’18, ‘19, ’20, ’21, ’22)
