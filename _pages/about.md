@@ -55,7 +55,7 @@ I am looking for highly motivated graduate students, postdocs, and interns to wo
 ## Awards and Honors
 
 - CCF Distinguished Member
-- **Best Paper Award**. The third International Workshop on Efficient Artificial Intelligence For Edge Computing (**EAI**) in conjunction with ICDCS 2022
+- <span style="color:red">**Best Paper Award**</span>. The third International Workshop on Efficient Artificial Intelligence For Edge Computing (**EAI**) in conjunction with ICDCS 2022
 - CCF Distinguished Speaker 2022 
 - CCF-IEEE CS Young Computer Scientist Award 2020
 - National Youth Top-notch Talent Fund 2020
