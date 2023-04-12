@@ -226,16 +226,18 @@ author_profile: true
 
 ## Other Workshop Papers and Poster Papers
 
-| [W7] | Ruifan Xu, Youwei Xiao, Jin Luo, Yun Liang. “A MLIR-Based Hardware Synthesis Framework”, Workshop on Open-Source EDA Technology (WOSET 2022) in conjunction with ICCAD2022. |
-| [W6] | Liancheng Jia, Zizhang Luo, Liqiang Lu, Yun Liang. TensorLib: A Spatial Accelerator Generation Framework for Tensor Algebra. Workshop on Open-Source EDA Technology (WOSET 2022), in conjunction with ICCAD2022, Poster. |
-| [W5] | Haokun Li, Jing Liu, Liancheng Jia, **Yun Liang**, Yaowei Wang, Tingming, Tan. “Downscaling and Overflow-aware Model Compression For Efficient Vision Processors”, the third International Workshop on Efficient Artificial Intelligence For Edge Computing(**EAI**) in conjunction with ICDCS 2022. <span style="color:red">**Best Paper Award.**</span> |
-| [W4] | Pengcheng Xu, **Yun Liang**. “Automatic Code Generation for Rocket Chip RoCC Accelerators, " *Fourth Workshop on Computer Architecture Research with RISC-V (CARRV)* 2020. |
+| [W8] | Ruifan Xu, Youwei Xiao, Jin Luo, **Yun Liang**. “Hector: Multi-level Paradigm in Hardware Synthesis”, *Workshop on Languages, Tools, and Techniques for Accelerator Design (LATTE 2023) in conjunction with ASPLOS 2023.* |
+| [W7] | Ruifan Xu, Youwei Xiao, Jin Luo, **Yun Liang**. “A MLIR-Based Hardware Synthesis Framework”, *Workshop on Open-Source EDA Technology (WOSET 2022) in conjunction with ICCAD2022.* |
+| [W6] | Liancheng Jia, Zizhang Luo, Liqiang Lu, **Yun Liang**. TensorLib: A Spatial Accelerator Generation Framework for Tensor Algebra. *Workshop on Open-Source EDA Technology (WOSET 2022), in conjunction with ICCAD2022, Poster.* |
+| [W5] | Haokun Li, Jing Liu, Liancheng Jia, **Yun Liang**, Yaowei Wang, Tingming, Tan. “Downscaling and Overflow-aware Model Compression For Efficient Vision Processors”, *the third International Workshop on Efficient Artificial Intelligence For Edge Computing(**EAI**) in conjunction with ICDCS 2022.* <span style="color:red">**Best Paper Award.**</span> |
+| [W4] | Pengcheng Xu, **Yun Liang**. “Automatic Code Generation for Rocket Chip RoCC Accelerators, " *Fourth Workshop on Computer Architecture Research with RISC-V (CARRV) 2020.* |
 | [W3] | Xiaolong Xie, **Yun Liang**, Xiuhong Li, Wei Tan. “CuLDA_CGS: solving large-scale LDA problems on GPUs, " in the proceedings of *the Symposium on Principles and Practice of Parallel Programming (PPoPP), 2019.* (Poster). |
 | [W2] | XuechaoWei, **Yun Liang**, XibaiLi, Tao Wang, Songwu Lu, Jason Cong.“Evaluation of Software Defined Radio on Heterogeneous Systems, " in the proceedings of *International Conference on Parallel Architectures and Compilation Techniques (PACT)*, 2015. (Poster). |
 | [W1] | **Yun Liang**, Abhik Roychoudhury, Tulika Mitra. "Timing analysis of body area network application," in the proceedings of *7th International Workshop on Worst Case Execution Time Analysis (WCET)*, 2007. |
 
 ## Paper in Chinese
 
+| [P4] | 包云岗，常轶松，韩银和，黄立波，李华伟，梁云，罗国杰，尚笠，唐丹，王颖.解壁伟，喻文健，张科，孙凝晖, "处理器芯片敏捷设计方法:问题与挑战," 计算机研究与发展，58（6），1131-1145，2021. |
 | [P3] | 徐瑞帆，肖有为，罗进，梁云,  高层次综合综述。微纳电子与智能制造, 2021. |
 | [P2] | 卢丽强, 郑思泽, 肖倾城, 陈德铭, 梁云, 面向卷积神经网络的FPGA 设计. 中国科学: 信息科学 49, 277 (2019). |
 | [P1] | 王硕, 章嘉玺, 罗国杰, 梁云,  开源硬件与开源EDA工具：芯片未来设计的加速器.  前沿科学 4（2018）. |
