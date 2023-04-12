@@ -27,6 +27,8 @@ I am looking for highly motivated graduate students, postdocs, and interns to wo
 
 ## News ([Full List](/news/))
 
+-	**March 2023**: One paper is accepted to FCCM. Congratulations to Xiaochen.
+-	**Feb 2023**: Two papers are accepted to DAC. Congratulations to Size and Zizhang. 
 - **Jan 2023**: Prof Liang organized the “**Agile Hardware and Software Co-Design**” Tutorial at ASPDAC 2023 [link](https://www.aspdac.com/aspdac2023/tutorial/#t7) and gave the talk on “**Agile Hardware Specialization and Software Mapping**”.
 - **Dec 2022**: Invited to give two talks at CNCC (China National Computer Congress). One is on “**Multi-level Intermediate Representation for Agile Hardware Synthesis**” and the other is on “**Automatic Code Generation for Heterogeneous Hardware**”. 
 - **Oct 2022**: Invited to give a talk on “**AHS: An Agile Framework for Hardware Specialization and Software Mapping**” at ACCAD (Workshop on Accelerator Computer Aided Design) 2022, a workshop co-located with ICCAD 2022. Workshop details https://sites.google.com/view/accad2022/invited-speakers. 
@@ -35,13 +37,11 @@ I am looking for highly motivated graduate students, postdocs, and interns to wo
 - **July 2022:** Liqiang Lu successfully defended his doctoral thesis titled "Architecture Design and Dataflow Analysis for Tensor Applications". His thesis is awarded the excellent thesis of Peking University in 2022. **Liqiang will join Zhejiang University as a tenure-track assistant professor/Hundred Talented Program** – Congratulations!
 - **July 2022:** Paper won the **best paper award** of the Third International Workshop on Efficient Artificial Intelligence (EAI) for Edge Computing (in conjunction with ICDCS 2022).
 - **July 2022:** One paper (Hector) is accepted to **ICCAD’22**. Congratulations to Ruifan, Youwei, and Jin.
-- **July 2022:** Invited to serve on the program committee for the **Conference on Systems and Machine Learning (MLSys’23)**
-- **July 2022:** Invited to serve on the program committee for the **ACM/SIGDA International Symposium on Field-Programmable Gate Arrays (FPGA'23)**.
-- **May 2022:** Invited to give a talk on **“Agile Hardware Specialization for Spatial Architecture” at China Semiconductor Technology International Conference (CSTIC)** on June 17. 
-- **April 2022:**  Invited to serve as the program co-chair (with Hiroki Nakahara at Tokyo Institute of Technology) for International Conference on Field Programmable Technology (FPT) 2022. https://fpt22.hkust.edu.hk/.
+
 
 ## Selected Recent Publications ([Full List](/publications/))
 
+- Chimera: An Analytical Optimizing Framework for Effective Compute-intensive Operators Fusion (**HPCA**),2023.
 - Hector: A Multi-level Intermediate Representation for Hardware Synthesis Methodologies (**ICCAD**) 2022.
 - AMOS: Enabling Automatic Mapping for Tensor Computations on Spatial Accelerators with Hardware Abstraction (**ISCA**) 2022.
 - EMS: Efficient Memory Subsystem Synthesis for Spatial Accelerators (**DAC**) 2022.
