@@ -81,10 +81,11 @@ author_profile: true
 
 ### 2023
 
+| [C86] | Yanchi Dong, Tianyu Jia, Kaixuan Du, Yiqi Jing, Qijun Wang, Pixian Zhan, Yadong Zhang, Fengyun Yan, Yufei Ma, **Yun Liang**, Le Ye, Ru Huang. "A Model-Specific End-to-End Design Methodology for Resource-Constrained TinyML Hardware", to appear in the proceedings of the Design Automation Conference (**DAC**), July 2023. |
 | [C85] | Zizhang Luo, Liqiang Lu, Size Zheng, Jieming Yin, Jason Cong, Jianwei Yin, **Yun Liang**. "Rubick: A Synthesis Framework for Spatial Architectures via Dataflow Decomposition", to appear in the proceedings of the Design Automation Conference (**DAC**), July 2023. |
 | [C84] | Size Zheng, Siyuan Chen, **Yun Liang**. "Memory and Computation Coordinated Mapping of DNNs onto Complex Heterogeneous SoC ", to appear in the proceedings of the Design Automation Conference (**DAC**), July 2023. |
 | [C83] | Xiaochen Hao, Mingzhe Zhang, Ce Sun, Zhuofu Tao, Hongbo Rong, Yu Zhang, Lei He, Eric Petit, Wenguang Chen, **Yun Liang**. "Lasa: Abstraction and Specialization for Productive and Performant Linear Algebra on FPGAs" to appear in the proceedings of the 31st IEEE International Symposium On Field-Programmable Custom Computing Machines (**FCCM**), May 2023. |
-| [C82] |	Size Zheng, Siyuan Chen, Peidi Song, Renze Chen, Xiuhong Li, Shengen Yan, Dahua Lin, Jingwen Leng, **Yun Liang**. "Chimera: An Analytical Optimizing Framework for Effective Compute-intensive Operators Fusion", to appear in the proceedings of the IEEE International Symposium on High Performance Computer Architecture (**HPCA**), March, 2023. |
+| [C82] |	Size Zheng, Siyuan Chen, Peidi Song, Renze Chen, Xiuhong Li, Shengen Yan, Dahua Lin, Jingwen Leng, **Yun Liang**. "Chimera: An Analytical Optimizing Framework for Effective Compute-intensive Operators Fusion", in the proceedings of the IEEE International Symposium on High Performance Computer Architecture (**HPCA**), March, 2023. |
 
 ### 2022
 
