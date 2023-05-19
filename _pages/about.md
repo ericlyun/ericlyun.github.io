@@ -54,15 +54,7 @@ I am looking for highly motivated graduate students, postdocs, and interns to wo
 
 ## Awards and Honors
 
-- CCF Distinguished Member
 - <span style="color:red">**Best Paper Award**</span>. The third International Workshop on Efficient Artificial Intelligence For Edge Computing (**EAI**) in conjunction with ICDCS 2022
-- CCF Distinguished Speaker 2022 
-- CCF-IEEE CS Young Computer Scientist Award 2020
-- National Youth Top-notch Talent Fund 2020
-- Beijing Natural Science Fund for Distinguished Young Scholars 2019
-- Beijing Academy of Artificial Intelligence (BAAI) Young Scientist Award 2019
-- Huang Tingfang/Xinhe Young Scholars Award in 2017
-- Peking University Excellence Teaching Award in 2016
 - **Best Paper Award Nomination**, ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming (PPoPP), 2019. (4 nominations out of 152 submissions). 
 - <span style="color:red">**Best Paper Award**</span> International Conference on Computer Aided Design (ICCAD), November, 2017. (2 out of 350 submissions). 
 - **Best Paper Award Nomination**, Design Automation Conference (DAC), June 2017. 
