@@ -7,9 +7,9 @@ author_profile: true
 ## ALL News
 
 ### 2023
--	**July 2023.** Two papers are accepted to MICRO’23. Congratulations to Size, Siyuan, and Kexing. 
+-	**July 2023.** Two papers are accepted to **MICRO’23**. Congratulations to Size, Siyuan, and Kexing. 
 -	**July 2023.** Dr Liqiang Lu’s PhD thesis is awarded the best thesis in CCF architecture subcommittee. Congratulations to Dr Lu. 
--	**July 2023.** Two papers are accepted to ICCAD’23. Congratulations to Xiuping and Xiaochen. 
+-	**July 2023.** Two papers are accepted to **ICCAD’23**. Congratulations to Xiuping and Xiaochen. 
 -	**June 2023:** Siyuan’s bachelor thesis is awarded the top-10 thesis in School of EECS. Congratulations to Siyuan. 
 -	**May 2023:** One paper is accepted to FPL. Congratulations to Zizhang.
 -	**March 2023**: One paper is accepted to FCCM. Congratulations to Xiaochen.
