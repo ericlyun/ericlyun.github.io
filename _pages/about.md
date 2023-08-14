@@ -27,17 +27,16 @@ I am looking for highly motivated graduate students, postdocs, and interns to wo
 
 ## News ([Full List](/news/))
 
+-	**July 2023.** Two papers are accepted to MICRO’23. Congratulations to Size, Siyuan, and Kexing. 
+-	**July 2023.** Dr Liqiang Lu’s PhD thesis is awarded the best thesis in CCF architecture subcommittee. Congratulations to Dr Lu. 
+-	**July 2023.** Two papers are accepted to ICCAD’23. Congratulations to Xiuping and Xiaochen. 
+-	**June 2023:** Siyuan’s bachelor thesis is awarded the top-10 thesis in School of EECS. Congratulations to Siyuan. 
+-	**May 2023:** One paper is accepted to FPL. Congratulations to Zizhang.
 -	**March 2023**: One paper is accepted to FCCM. Congratulations to Xiaochen.
 -	**Feb 2023**: Two papers are accepted to DAC. Congratulations to Size and Zizhang. 
-- **Jan 2023**: Prof Liang organized the “**Agile Hardware and Software Co-Design**” Tutorial at ASPDAC 2023 [link](https://www.aspdac.com/aspdac2023/tutorial/#t7) and gave the talk on “**Agile Hardware Specialization and Software Mapping**”.
-- **Dec 2022**: Invited to give two talks at CNCC (China National Computer Congress). One is on “**Multi-level Intermediate Representation for Agile Hardware Synthesis**” and the other is on “**Automatic Code Generation for Heterogeneous Hardware**”. 
+- **Jan 2023**: Prof Liang organized the “**Agile Hardware and Software Co-Design**” Tutorial at ASPDAC 2023 [link](https://www.aspdac.com/aspdac2023/tutorial/#t7) and gave the talk on “**Agile Hardware Specialization and Software Mapping**”.- **Dec 2022**: Invited to give two talks at CNCC (China National Computer Congress). One is on “**Multi-level Intermediate Representation for Agile Hardware Synthesis**” and the other is on “**Automatic Code Generation for Heterogeneous Hardware**”. 
 - **Oct 2022**: Invited to give a talk on “**AHS: An Agile Framework for Hardware Specialization and Software Mapping**” at ACCAD (Workshop on Accelerator Computer Aided Design) 2022, a workshop co-located with ICCAD 2022. Workshop details https://sites.google.com/view/accad2022/invited-speakers. 
 - **Oct 2022**: One paper is accepted to **HPCA’23**. Congratulations to Size and Siyuan.
-- **Sep 2022**: Our tutorial entitled “entitled **"Agile Hardware and Software Co-Design”** is accepted by ASPDAC 2023. I will give the tutorial together with Prof. Wei Zhang from HKUST and Prof. Cheng Zhuo from ZJU.
-- **July 2022:** Liqiang Lu successfully defended his doctoral thesis titled "Architecture Design and Dataflow Analysis for Tensor Applications". His thesis is awarded the excellent thesis of Peking University in 2022. **Liqiang will join Zhejiang University as a tenure-track assistant professor/Hundred Talented Program** – Congratulations!
-- **July 2022:** Paper won the **best paper award** of the Third International Workshop on Efficient Artificial Intelligence (EAI) for Edge Computing (in conjunction with ICDCS 2022).
-- **July 2022:** One paper (Hector) is accepted to **ICCAD’22**. Congratulations to Ruifan, Youwei, and Jin.
-
 
 ## Selected Recent Publications ([Full List](/publications/))
 
