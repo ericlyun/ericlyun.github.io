@@ -11,8 +11,7 @@ redirect_from:
 
 **Associate Professor/Research Professor**
 
-*School of EECS*  
-*Center for Energy-efficient Computing and Applications (CECA)*  
+*School of Integrated Circuit and School of EECS*  
 *Peking University*  
 *Room 518, Science Building No.5, Yiheyuan Rd No.5, Beijing, 100871*
 
