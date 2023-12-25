@@ -26,23 +26,24 @@ I am looking for highly motivated graduate students, postdocs, and interns to wo
 
 ## News ([Full List](/news/))
 
--	**July 2023.** Two papers are accepted to MICRO’23. Congratulations to Size, Siyuan, and Kexing. 
+- **Dec 2023:** Two papers are accepted to FPGA’23. Congratulations to Youwei, Zizhang, and Xiaochen. 
+- **Aug 2023:** Awarded the National Science Fund for Distinguished Young Scholars from National Natural Science Foundation of China.
+- **July 2023:** Liancheng Jia successfully defended his doctoral thesis. Liancheng will join Huawei as an engineer. Congratulations!
+-	**July 2023.** Two papers are accepted to **MICRO’23**. Congratulations to Size, Siyuan, and Kexing. 
 -	**July 2023.** Dr Liqiang Lu’s PhD thesis is awarded the best thesis in CCF architecture subcommittee. Congratulations to Dr Lu. 
--	**July 2023.** Two papers are accepted to ICCAD’23. Congratulations to Xiuping and Xiaochen. 
+-	**July 2023.** Two papers are accepted to **ICCAD’23**. Congratulations to Xiuping and Xiaochen. 
 -	**June 2023:** Siyuan’s bachelor thesis is awarded the top-10 thesis in School of EECS. Congratulations to Siyuan. 
 -	**May 2023:** One paper is accepted to FPL. Congratulations to Zizhang.
 -	**March 2023**: One paper is accepted to FCCM. Congratulations to Xiaochen.
 -	**Feb 2023**: Two papers are accepted to DAC. Congratulations to Size and Zizhang. 
-- **Jan 2023**: Prof Liang organized the “**Agile Hardware and Software Co-Design**” Tutorial at ASPDAC 2023 [link](https://www.aspdac.com/aspdac2023/tutorial/#t7) and gave the talk on “**Agile Hardware Specialization and Software Mapping**”.- **Dec 2022**: Invited to give two talks at CNCC (China National Computer Congress). One is on “**Multi-level Intermediate Representation for Agile Hardware Synthesis**” and the other is on “**Automatic Code Generation for Heterogeneous Hardware**”. 
-- **Oct 2022**: Invited to give a talk on “**AHS: An Agile Framework for Hardware Specialization and Software Mapping**” at ACCAD (Workshop on Accelerator Computer Aided Design) 2022, a workshop co-located with ICCAD 2022. Workshop details https://sites.google.com/view/accad2022/invited-speakers. 
-- **Oct 2022**: One paper is accepted to **HPCA’23**. Congratulations to Size and Siyuan.
 
 ## Selected Recent Publications ([Full List](/publications/))
 
+-	Khronos: Fusing Memory Access for Improved Hardware RTL Simulation (**MICRO**), 2023.
+-	TileFlow: A Framework for Modeling Fusion Dataflow via Tree-based Analysis (**MICRO**) 2023.
 - Chimera: An Analytical Optimizing Framework for Effective Compute-intensive Operators Fusion (**HPCA**),2023.
 - Hector: A Multi-level Intermediate Representation for Hardware Synthesis Methodologies (**ICCAD**) 2022.
 - AMOS: Enabling Automatic Mapping for Tensor Computations on Spatial Accelerators with Hardware Abstraction (**ISCA**) 2022.
-- EMS: Efficient Memory Subsystem Synthesis for Spatial Accelerators (**DAC**) 2022.
 - Sanger: A Co-Design Framework for Enabling Sparse Attention using Reconfigurable Architecture (**MICRO**) 2022.
 - TENET: A Framework for Modeling Tensor Dataflow based on Relation-centric Notation (**ISCA**) 2021.
 - HASCO: Towards Agile Hardware and Software Co-design for Tensor Computation (**ISCA**) 2021.
