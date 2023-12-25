@@ -241,6 +241,7 @@ author_profile: true
 
 ## Other Workshop Papers and Poster Papers
 
+| [W9] | Ruifan Xu, Jin Luo, **Yun Liang**. “Hermes: Enhancing Extensibility in High-Level Synthesis through  Multi-Level IRs”, in the proceedings of *ACM/SIGDA International Symposium on Field-Programmable Gate Arrays (**FPGA**)*, March, 2024. (Poster) |
 | [W8] | Ruifan Xu, Youwei Xiao, Jin Luo, **Yun Liang**. “Hector: Multi-level Paradigm in Hardware Synthesis”, *Workshop on Languages, Tools, and Techniques for Accelerator Design (LATTE 2023) in conjunction with ASPLOS 2023.* |
 | [W7] | Ruifan Xu, Youwei Xiao, Jin Luo, **Yun Liang**. “A MLIR-Based Hardware Synthesis Framework”, *Workshop on Open-Source EDA Technology (WOSET 2022) in conjunction with ICCAD2022.* |
 | [W6] | Liancheng Jia, Zizhang Luo, Liqiang Lu, **Yun Liang**. TensorLib: A Spatial Accelerator Generation Framework for Tensor Algebra. *Workshop on Open-Source EDA Technology (WOSET 2022), in conjunction with ICCAD2022, Poster.* |
