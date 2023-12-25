@@ -7,6 +7,9 @@ author_profile: true
 ## ALL News
 
 ### 2023
+- **Dec 2023:** Two papers are accepted to FPGA’23. Congratulations to Youwei, Zizhang, and Xiaochen. 
+- **Aug 2023:** Awarded the National Science Fund for Distinguished Young Scholars from National Natural Science Foundation of China.
+- **July 2023:** Liancheng Jia successfully defended his doctoral thesis. Liancheng will join Huawei as an engineer. Congratulations!
 -	**July 2023.** Two papers are accepted to **MICRO’23**. Congratulations to Size, Siyuan, and Kexing. 
 -	**July 2023.** Dr Liqiang Lu’s PhD thesis is awarded the best thesis in CCF architecture subcommittee. Congratulations to Dr Lu. 
 -	**July 2023.** Two papers are accepted to **ICCAD’23**. Congratulations to Xiuping and Xiaochen. 
