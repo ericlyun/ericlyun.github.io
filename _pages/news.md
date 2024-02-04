@@ -6,6 +6,10 @@ author_profile: true
 
 ## ALL News
 
+### 2024
+-	**Feb 2024:** Prof Liang is promoted to full professor (Endowed Boya Distinguished Professor). I appreciated the support over the years from my students, collaborators, and sponsors.
+-	**Jan 2024:** Prof Liang is elevated to ACM Distinguished Scientist/Member.
+
 ### 2023
 - **Dec 2023:** Two papers are accepted to FPGA’23. Congratulations to Youwei, Zizhang, and Xiaochen. 
 - **Aug 2023:** Awarded the National Science Fund for Distinguished Young Scholars from National Natural Science Foundation of China.
