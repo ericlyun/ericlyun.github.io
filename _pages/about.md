@@ -9,9 +9,8 @@ redirect_from:
 ---
 
 
-**Professor of Integrated Circuit and EECS**
-
-*Boya Distinguished Professor of Peking University*
+*Professor of Integrated Circuit and EECS*  
+*Boya Distinguished Professor of Peking University*  
 *ACM Distinguished Scientist/Member*
 
 I am an Endowed Boya Distinguished Professor in the School of Integrated Circuit and School of EECS at Peking University. My research interest is at the hardware-software interface with work spanning electronic design automation (EDA), hardware and software co-design, and computer architecture. My recent publications investigate new algorithms, programming models, design automation tools and methodologies, and hardware for high-performance and energy-efficient computer systems. I have authored over 100 scientific publications in the leading international journals and conferences. My research has been recognized with three Best Paper Awards, six Best Paper Award Nominations, National Science Fund for Distinguished Young Scholars, CCF-IEEE CS Young Computer Scientist Award, Beijing Natural Science Fund for Distinguished Young Scholars, Beijing Academy of Artificial Intelligence (BAAI) Young Scientist Award, and National Youth Top-notch Talent Fund. I received the Excellence Teaching Award from Peking University in 2017. My research has been funded by NSFC, BNSF, etc. 
