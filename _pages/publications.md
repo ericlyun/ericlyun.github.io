@@ -8,6 +8,7 @@ author_profile: true
 
 ### 2023
 
+| [J36] |	Liqiang Lu, Zizhang Luo, Size Zheng, Jieming Yin, Jason Cong, **Yun Liang**, Jianwei Yin. "Rubick: A Unified Infrastructure for Analyzing, Exploring, and Implementing Spatial Architectures via Dataflow Decomposition, " in the IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), Vol: 43, Issue: 4, April 2023, pp.1177-1190. |
 | [J35] | Liancheng Jia, Zizhang Luo, Liqiang Lu, **Yun Liang**. "Automatic Generation of Spatial Accelerator for Tensor Algebra, " in the IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), Vol: 42: Issue: 8, June 2023, pp.1898-1911. |
 
 ### 2022
@@ -84,15 +85,22 @@ author_profile: true
 
 ### 2024
 
-| [C97] |	Youwei Xiao, Zizhang Luo, Kexing Zhou, **Yun Liang**.  "Cement: Streamlining FPGA Hardware Design with Cycle-Deterministic eHDL and Synthesis", to appear in the proceedings of ACM/SIGDA International Symposium on Field-Programmable Gate Arrays (**FPGA**), March, 2024. |
-| [C96] |	Xiaochen Hao, Hongbo Rong, Mingzhe Zhang, Ce Sun, Hong Jiang, **Yun Liang**. "POPA: Expressing High and Portable Performance across Spatial and Vector Architectures for Tensor Computations", to appear in the proceedings of ACM/SIGDA International Symposium on Field-Programmable Gate Arrays (**FPGA**), March, 2024. |
-| [C95] |	Yijie Chen, Jiarui Zhang, Tao Wang, **Yun Liang**. "Trend-Aware Supervision: On Learning Invariance for Semi-Supervised Facial Action Unit Intensity Estimation", to appear in the proceedings of the 38th Annual AAAI Conference on Artificial Intelligence (**AAAI**), February, 2024. |
+| [C105] |	Renze Chen, Zijian Ding, Size Zheng, Meng Li, **Yun Liang**. "MoteNN: Memory Optimization via Fine-grained Scheduling for Deep Neural Networks on Tiny Devices", in the proceedings of Design Automation Conference (**DAC**) June, 2024. |
+| [C104] |	Jinming Ma, Xiuhong Li, Zihan Wang, Xingcheng Zhang1, Shengen Yan, Yuting Chen, Yueqian Zhang, Minxi Jin, Lijuan Jiang, **Yun Liang**, Chao Yang, Dahua Lin. "A Holistic Functionalization Approach to Optimizing Imperative Tensor Programs in Deep Learning", in the proceedings of Design Automation Conference (**DAC**) June, 2024. |
+| [C103] |	Size Zheng, Renze Chen, Meng Li,  Zihao Ye, Luis Cece, **Yun Liang**. "vMCU: Coordinated Memory Management and Kernel Optimization for DNN Inference on MCUs", in the proceedings of the Seventh Annual Conference on Machine Learning and Systems (**MLSys**) May, 2024. |
+| [C102] |	Cong Li, Zhe Zhou, Size Zheng, Jiaxi Zhang, **Yun Liang**, Guangyu Sun. "Accelerating Speculative Inference on PIM-Enabled System via Architecture-Dataflow Co-Exploration", in the proceedings of ACM International Conference on Architectural Support for Programming Languages and Operating Systems (**ASPLOS**), April, 2024. |
+| [C101] |	Siwei Tan, Liqiang Lu, Hanyu Zhang, Jia  Yu, Congliang Lang, Yongheng Shang, Xinkui Zhao,  Mingshuai Chen, **Yun Liang**, Jianwei Yin. "QuFEM: Fast and Accurate Quantum Readout Calibration Using the Finite Element Method", in the proceedings of ACM International Conference on Architectural Support for Programming Languages and Operating Systems (**ASPLOS**), April, 2024. |
+| [C100] |	Cong Li, Zhe Zhou, Size Zheng, Jiaxi Zhang, **Yun Liang**, Guangyu Sun. "SpecPIM: Accelerating Speculative Inference on PIM-Enabled System via Architecture-Dataflow  Co-Exploration", in the proceedings of ACM International Conference on Architectural Support for Programming Languages and Operating Systems (**ASPLOS**), April, 2024. |
+| [C99] |	Yue Guan, Yuxian Qiu, Jingwen Leng, Fan Yang, Shuo Yu, Yunxin Liu, Yu Feng, Yuhao Zhu, Lidong Zhou, **Yun Liang**, Chen Zhang, Chao Li, Minyi Guo. "Amanda: Unified Instrumentation Framework for Deep Neural Networks",  in the proceedings of ACM International Conference on Architectural Support for Programming Languages and Operating Systems (**ASPLOS**), April, 2024. |
+| [C98] |	Renze Chen, Zijian Ding, Size Zheng, Chengrui Zhang, Jingwen Leng, Xuanzhe Liu, **Yun Liang**. "MAGIS: Memory Optimization via Coordinated Graph Transformation  and Scheduling for Deep Neural Network", in the proceedings of ACM International Conference on Architectural Support for Programming Languages and Operating Systems (**ASPLOS**), April, 2024. |
+| [C97]	| Youwei Xiao, Zizhang Luo, Kexing Zhou, **Yun Liang**.  "Cement: Streamlining FPGA Hardware Design with Cycle-Deterministic eHDL and Synthesis", in the proceedings of ACM/SIGDA International Symposium on Field-Programmable Gate Arrays (**FPGA**), March, 2024. |
+| [C96] |	Xiaochen Hao, Hongbo Rong, Mingzhe Zhang, Ce Sun, Hong Jiang, **Yun Liang**. "POPA: Expressing High and Portable Performance across Spatial and Vector Architectures for Tensor Computations", in the proceedings of ACM/SIGDA International Symposium on Field-Programmable Gate Arrays (**FPGA**), March, 2024. |
+| [C95] |	Yijie Chen, Jiarui Zhang, Tao Wang, **Yun Liang**. "Trend-Aware Supervision: On Learning Invariance for Semi-Supervised Facial Action Unit Intensity Estimation", in the proceedings of the 38th Annual AAAI Conference on Artificial Intelligence (**AAAI**), February, 2024. |
 
 ### 2023
 
 | [C94] |	Size Zheng, Siyuan Chen, Siyuan Gao, Liancheng Jia, Guangyu Sun, Runsheng Wang, and **Yun Liang**.  "TileFlow: A Framework for Modeling Fusion Dataflow via Tree-based Analysis", in the proceedings of the 56th International Symposium on Microarchitecture (**MICRO**), 2023. |
-| [C93] |	Kexing Zhou, **Yun Liang**, Yibo Lin, Runsheng Wang, and Ru Huang. "Khronos: Fusing Memory Access for Improved Hardware RTL Simulation", in the proceedings of the 56th International Symposium on Microarchitecture (**MICRO**), 2023.
-| [C92] |	Yifan Chen, Zaiwen Wen, **Yun Liang**, and Yibo Lin." Stronger Mixed-Size Placement Backbone Considering Second-Order Information", in the proceeding of the International Conference on Computer Aided Design (**ICCAD**), Oct. 2023. |
+| [C93] |	Kexing Zhou, **Yun Liang**, Yibo Lin, Runsheng Wang, and Ru Huang. "Khronos: Fusing Memory Access for Improved Hardware RTL Simulation", in the proceedings of the 56th International Symposium on Microarchitecture (**MICRO**), 2023. || [C92] |	Yifan Chen, Zaiwen Wen, **Yun Liang**, and Yibo Lin." Stronger Mixed-Size Placement Backbone Considering Second-Order Information", in the proceeding of the International Conference on Computer Aided Design (**ICCAD**), Oct. 2023. |
 | [C91] |	Shuzhang Zhong, Meng Li, **Yun Liang**, Runsheng Wang and Ru Huang.  "Memory-aware Scheduling for Complex Wired Networks with Iterative Graph Optimization", in the proceeding of the International Conference on Computer Aided Design (**ICCAD**), Oct. 2023. |
 | [C90] |	Xiuping Cui, Size Zheng, Tianyu Jia, Le Ye and **Yun Liang**. "ARES: A Mapping Framework of DNNs towards Diverse PIMs with General Abstractions", in the proceeding of the International Conference on Computer Aided Design (**ICCAD**), Oct. 2023. |
 | [C89] |	Xiaochen Hao, Zijian Ding, Jieming Yin, Yuan Wang and **Yun Liang**. "Title: Monad: Towards Cost-effective Specialization for Chiplet-based Spatial Accelerators", in the proceeding of the International Conference on Computer Aided Design (**ICCAD**), Oct. 2023. |
@@ -256,6 +264,7 @@ author_profile: true
 
 ## Paper in Chinese
 
+| [P5] |	梁云，卓成，李永福，"EDA 左移融合设计范式的发展现状、趋势与挑战," 中国科学：信息科学，2024年第54卷，第1期:121-129. |
 | [P4] | 包云岗，常轶松，韩银和，黄立波，李华伟，梁云，罗国杰，尚笠，唐丹，王颖.解壁伟，喻文健，张科，孙凝晖, "处理器芯片敏捷设计方法:问题与挑战," 计算机研究与发展，58（6），1131-1145，2021. |
 | [P3] | 徐瑞帆，肖有为，罗进，梁云,  高层次综合综述。微纳电子与智能制造, 2021. |
 | [P2] | 卢丽强, 郑思泽, 肖倾城, 陈德铭, 梁云, 面向卷积神经网络的FPGA 设计. 中国科学: 信息科学 49, 277 (2019). |
