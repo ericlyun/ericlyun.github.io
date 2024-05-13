@@ -24,6 +24,9 @@ I am looking for highly motivated graduate students, postdocs, and interns to wo
 
 ## News ([Full List](/news/))
 
+- **March 2024:** One paper is accepted to MLSys’24.
+-	**March 2024:** Two papers are accepted to DAC’24. 
+-	**March 2024:** Five papers are accepted to ASPLOS’24. 
 -	**Feb 2024:** Prof Liang is promoted to full professor (Endowed Boya Distinguished Professor). I appreciated the support over the years from my students, collaborators, and sponsors.
 -	**Jan 2024:** Prof Liang is elevated to ACM Distinguished Scientist/Member.
 - **Dec 2023:** Two papers are accepted to FPGA’23. Congratulations to Youwei, Zizhang, and Xiaochen. 
@@ -31,9 +34,6 @@ I am looking for highly motivated graduate students, postdocs, and interns to wo
 - **July 2023:** Liancheng Jia successfully defended his doctoral thesis. Liancheng will join Huawei as an engineer. Congratulations!
 -	**July 2023.** Two papers are accepted to **MICRO’23**. Congratulations to Size, Siyuan, and Kexing. 
 -	**July 2023.** Dr Liqiang Lu’s PhD thesis is awarded the best thesis in CCF architecture subcommittee. Congratulations to Dr Lu. 
--	**July 2023.** Two papers are accepted to **ICCAD’23**. Congratulations to Xiuping and Xiaochen. 
--	**June 2023:** Siyuan’s bachelor thesis is awarded the top-10 thesis in School of EECS. Congratulations to Siyuan. 
--	**May 2023:** One paper is accepted to FPL. Congratulations to Zizhang.
 
 ## Selected Recent Publications ([Full List](/publications/))
 
