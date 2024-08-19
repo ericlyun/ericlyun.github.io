@@ -7,6 +7,9 @@ author_profile: true
 ## ALL News
 
 ### 2024
+-	**July 2024:** 1 paper is accepted to MICRO’24.
+-	**June 2024:** Five papers are accepted to ICCAD’24. 
+-	**June 2024:** Size wins the excellent Ph.D thesis award of Peking University and the outstanding graduate award of Beijing. Kexing wins the top 10 bachelor thesis award of School of EECS. Congratulations!
 - **March 2024:** One paper is accepted to MLSys’24.
 -	**March 2024:** Two papers are accepted to DAC’24. 
 -	**March 2024:** Five papers are accepted to ASPLOS’24. 
