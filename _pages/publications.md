@@ -8,6 +8,8 @@ author_profile: true
 
 ### 2023
 
+| [J38] | Yi Zhong, Yisong Kuang, Kefei Liu, Zilin Wang, Shuo Feng, Guang Chen, Youming Yang, Xiuping Cui, Qiankun  Wang, Jian Cao, Song Jia, **Yun Liang**, Guangyu Sun, Xiaoxin Cui, Ru Huang, Yuan Wang. "PAICORE: A 1.9-Million-Neuron 5.181-TSOPS/W Digital Neuromorphic Processor With Unified SNN-ANN and On-Chip Learning Paradigm, " accepted by IEEE Journal of Solid-State Circuits (**JSSC**).  |
+| [J37] | Jiangfei Duan , Xiuhong Li , Ping Xu , Xingcheng Zhang , Shengen yan , **Yun Liang** , Dahua Lin.  "Proteus: Simulating the Performance of Distributed DNN Training, " accepted by IEEE Transactions on Parallel and Distributed Systems (**TPDS**). |
 | [J36] |	Liqiang Lu, Zizhang Luo, Size Zheng, Jieming Yin, Jason Cong, **Yun Liang**, Jianwei Yin. "Rubick: A Unified Infrastructure for Analyzing, Exploring, and Implementing Spatial Architectures via Dataflow Decomposition, " in the IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), Vol: 43, Issue: 4, April 2023, pp.1177-1190. |
 | [J35] | Liancheng Jia, Zizhang Luo, Liqiang Lu, **Yun Liang**. "Automatic Generation of Spatial Accelerator for Tensor Algebra, " in the IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), Vol: 42: Issue: 8, June 2023, pp.1898-1911. |
 
@@ -85,6 +87,12 @@ author_profile: true
 
 ### 2024
 
+| [C111] | Ruifan Xu, Jin Luo, Yawen Zhang, Yibo Lin, Runsheng Wang, Ru Huang, **Yun Liang**. "Hestia: An Efficient Cross-level Debugger for High-level Synthesis",  to appear in the proceeding of the 57th International Symposium on Microarchitecture (**MICRO**),  Nov. 2024. |
+| [C110] | Fan Cui, Chenyang Yin, Kexing Zhou, Youwei Xiao, Guangyu Sun, Qiang Xu, Qipeng Guo, Demin Song, Dahua Lin, Xingcheng Zhang, **Yun  Liang**. " OriGen: Enhancing RTL Code Generation with Code-to-Code Augmentation and Self-Reflection",  to appear in the proceeding of the International Conference on Computer Aided Design (**ICCAD**), Oct. 2024. |
+| [C109] | Yanchi Dong, Xueping Liu, Xiaochen Hao, **Yun Liang**, Ru Huang, Le Ye, Tianyu Jia. "Hierarchical Power Co-Optimization and Management for LLM Chiplet Designs",  to appear in the proceeding of the International Conference on Computer Aided Design (**ICCAD**), Oct. 2024. |
+| [C108] | Jiangrui Yu, Wenxuan Zeng, Tianshi Xu, Renze Chen, **Yun Liang**, Runsheng Wang, Ru Huang, Meng Li. "FlexHE: A flexible Kernel Generation Framework for Homomorphic Encryption-Based Private Inference",  to appear in the proceeding of the International Conference on Computer Aided Design (**ICCAD**), Oct. 2024. |
+| [C107] | Zebin Yang, Renze Chen, Taiqiang Wu, Meng Li, Ngai Wong, **Yun Liang**, Runsheng Wang and Ru Huang. " MCUBERT: Memory-Efficient BERT Inference on Commodity Microcontrollers", to appear in the proceeding of the International Conference on Computer Aided Design (**ICCAD**), Oct. 2024. |
+| [C105] | Chunyuan Zhao, Zizheng Guo, Rui Wang, Zaiwen Wen, **Yun Liang**, Yibo Lin. " HeLEM-GR: Heterogeneous Global Routing with Linearized Exponential Multiplier Method", to appear in the proceeding of the International Conference on Computer Aided Design (**ICCAD**), Oct. 2024. 
 | [C105] |	Renze Chen, Zijian Ding, Size Zheng, Meng Li, **Yun Liang**. "MoteNN: Memory Optimization via Fine-grained Scheduling for Deep Neural Networks on Tiny Devices", in the proceedings of Design Automation Conference (**DAC**) June, 2024. |
 | [C104] |	Jinming Ma, Xiuhong Li, Zihan Wang, Xingcheng Zhang1, Shengen Yan, Yuting Chen, Yueqian Zhang, Minxi Jin, Lijuan Jiang, **Yun Liang**, Chao Yang, Dahua Lin. "A Holistic Functionalization Approach to Optimizing Imperative Tensor Programs in Deep Learning", in the proceedings of Design Automation Conference (**DAC**) June, 2024. |
 | [C103] |	Size Zheng, Renze Chen, Meng Li,  Zihao Ye, Luis Cece, **Yun Liang**. "vMCU: Coordinated Memory Management and Kernel Optimization for DNN Inference on MCUs", in the proceedings of the Seventh Annual Conference on Machine Learning and Systems (**MLSys**) May, 2024. |
