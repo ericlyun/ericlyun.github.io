@@ -13,7 +13,7 @@ redirect_from:
 *Boya Distinguished Professor of Peking University*  
 *ACM Distinguished Scientist/Member*
 
-I am an Endowed Boya Distinguished Professor in the School of Integrated Circuit and School of EECS at Peking University. My research interest is at the hardware-software interface with work spanning electronic design automation (EDA), hardware and software co-design, and computer architecture. My recent publications investigate new algorithms, programming models, design automation tools and methodologies, and hardware for high-performance and energy-efficient computer systems. I have authored over 100 scientific publications in the leading international journals and conferences. My research has been recognized with three Best Paper Awards, six Best Paper Award Nominations, National Science Fund for Distinguished Young Scholars, CCF-IEEE CS Young Computer Scientist Award, Beijing Natural Science Fund for Distinguished Young Scholars, Beijing Academy of Artificial Intelligence (BAAI) Young Scientist Award, and National Youth Top-notch Talent Fund. I received the Excellence Teaching Award from Peking University in 2017. My research has been funded by NSFC, BNSF, etc. 
+I am an Endowed Boya Distinguished Professor in the School of Integrated Circuit and School of EECS at Peking University. My research interest is at the hardware-software interface with work spanning electronic design automation (EDA), hardware and software co-design, and computer architecture. My recent publications investigate new algorithms, programming models, design automation tools and methodologies, and hardware for high-performance and energy-efficient computer systems. I have authored over 100 scientific publications in the leading international journals and conferences. My research has been recognized with three Best Paper Awards, six Best Paper Award Nominations, National Science Fund for Distinguished Young Scholars, CCF-IEEE CS Young Computer Scientist Award, Beijing Natural Science Fund for Distinguished Young Scholars, Beijing Academy of Artificial Intelligence (BAAI) Young Scientist Award, and National Youth Top-notch Talent Fund. I am an ACM Distinguished Scientist/Member and received the Teaching Excellence Award Peking University in 2024. 
 
 I currently serve as Associate Editor of the ACM Transactions on Embedded Computing Systems (TECS) and ACM Transactions on Reconfigurable Technology and Systems (TRETS). I was the program chair of 30th Annual IEEE International Conference on Application-specific Systems, Architecture and Processors (ASAP) 2019 and the International Conference on Field Programmable Technology (FPT) 2022. I also serve in the program committees in the premier conferences including DAC, ICCAD, FPGA, FCCM, HPCA, MICRO, DATE, ASPDAC, ASPLOS, ISCA, PPoPP, PACT, CGO, ICS, CC, CASES, LCTES, ASAP, and ICCD. Prior to joining Peking University, I received my Ph.D in Computer Science from National University of Singapore in 2010. Upon graduation, I worked as a Research Scientist in UIUC.
 
@@ -24,6 +24,9 @@ I am looking for highly motivated graduate students, postdocs, and interns to wo
 
 ## News ([Full List](/news/))
 
+-	**July 2024:** 1 paper is accepted to MICRO’24.
+-	**June 2024:** Five papers are accepted to ICCAD’24. 
+-	**June 2024:** Size wins the excellent Ph.D thesis award of Peking University and the outstanding graduate award of Beijing. Kexing wins the top 10 bachelor thesis award of School of EECS. Congratulations!
 - **March 2024:** One paper is accepted to MLSys’24.
 -	**March 2024:** Two papers are accepted to DAC’24. 
 -	**March 2024:** Five papers are accepted to ASPLOS’24. 
@@ -32,8 +35,6 @@ I am looking for highly motivated graduate students, postdocs, and interns to wo
 - **Dec 2023:** Two papers are accepted to FPGA’23. Congratulations to Youwei, Zizhang, and Xiaochen. 
 - **Aug 2023:** Awarded the National Science Fund for Distinguished Young Scholars from National Natural Science Foundation of China.
 - **July 2023:** Liancheng Jia successfully defended his doctoral thesis. Liancheng will join Huawei as an engineer. Congratulations!
--	**July 2023.** Two papers are accepted to **MICRO’23**. Congratulations to Size, Siyuan, and Kexing. 
--	**July 2023.** Dr Liqiang Lu’s PhD thesis is awarded the best thesis in CCF architecture subcommittee. Congratulations to Dr Lu. 
 
 ## Selected Recent Publications ([Full List](/publications/))
 
