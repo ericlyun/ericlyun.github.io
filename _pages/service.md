@@ -27,19 +27,19 @@ author_profile: true
 ## Conference Program Committee Member
 - IEEE/ACM International Symposium on Microarchitecture (MICRO), 2020, 2021, 2022 (ERC)
 - Design Automation Conference (DAC), 2020,2021,2022
-- International Symposium on Field-Programmable Gate Arrays (FPGA), 2019, 2020, 2021, 2022, 2023
-- The Conference on Systems and Machine Learning (MLSys), 2023
-- International Symposium on High-Performance Computer Architecture (HPCA), 2018, 2020
+- International Symposium on Field-Programmable Gate Arrays (FPGA), 2019, 2020, 2021, 2022, 2023, 2024, 2025
+- International Symposium on High-Performance Computer Architecture (HPCA), 2018, 2020, 2024, 2025
 - International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2020 (ERC)
-- ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming (PPoPP), 2020 (ERC)
+- ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming (PPoPP), 2025
 - ACM SIGPLAN/SIGBED International Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES) 2020
 - International Symposium on Computer Architecture (ISCA), 2018 (ERC)
-- International Symposium on Field-Programmable Custom Computing Machines (FCCM), 2020, 2021, 2022
+- The Conference on Systems and Machine Learning (MLSys), 2023, 2025
+- International Symposium on Field-Programmable Custom Computing Machines (FCCM), 2020, 2021, 2022, 2023, 2024
 - International Conference on Compiler Construction (CC), 2018, 2021
 - International Conference on Supercomputing (ICS), 2018, 2019, 2021
 - International Conference on High Performance Computing, Data, and Analytics (HiPC) 2017
 - International Conference on Parallel Architectures and Compilation Techniques (PACT) 2015, 2016
-- International Conference on Computer Aided Design (ICCAD) 2016, 2017, 2018
+- International Conference on Computer Aided Design (ICCAD) 2016, 2017, 2018, 2023
 - International Symposium on Code Generation and Optimization (CGO) 2017
 - IEEE International Conference on Application-specific Systems, Architecture and Processors (ASAP), 2020
 - Asia South Pacific Design Automation Conference (ASP-DAC) 2012, 2013, 2014, 2016, 2017, 2018, 2020, 2021
