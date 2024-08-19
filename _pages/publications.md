@@ -6,10 +6,13 @@ author_profile: true
 
 ## Journal Publications  
 
-### 2023
+### 2024
 
 | [J38] | Yi Zhong, Yisong Kuang, Kefei Liu, Zilin Wang, Shuo Feng, Guang Chen, Youming Yang, Xiuping Cui, Qiankun  Wang, Jian Cao, Song Jia, **Yun Liang**, Guangyu Sun, Xiaoxin Cui, Ru Huang, Yuan Wang. "PAICORE: A 1.9-Million-Neuron 5.181-TSOPS/W Digital Neuromorphic Processor With Unified SNN-ANN and On-Chip Learning Paradigm, " accepted by IEEE Journal of Solid-State Circuits (**JSSC**).  |
 | [J37] | Jiangfei Duan , Xiuhong Li , Ping Xu , Xingcheng Zhang , Shengen yan , **Yun Liang** , Dahua Lin.  "Proteus: Simulating the Performance of Distributed DNN Training, " accepted by IEEE Transactions on Parallel and Distributed Systems (**TPDS**). |
+
+### 2023
+
 | [J36] |	Liqiang Lu, Zizhang Luo, Size Zheng, Jieming Yin, Jason Cong, **Yun Liang**, Jianwei Yin. "Rubick: A Unified Infrastructure for Analyzing, Exploring, and Implementing Spatial Architectures via Dataflow Decomposition, " in the IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), Vol: 43, Issue: 4, April 2023, pp.1177-1190. |
 | [J35] | Liancheng Jia, Zizhang Luo, Liqiang Lu, **Yun Liang**. "Automatic Generation of Spatial Accelerator for Tensor Algebra, " in the IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), Vol: 42: Issue: 8, June 2023, pp.1898-1911. |
 
