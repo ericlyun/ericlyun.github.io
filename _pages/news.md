@@ -7,7 +7,10 @@ author_profile: true
 ## ALL News
 
 ### 2024
--	**July 2024:** 1 paper is accepted to MICRO’24.
+-	**Sep 2024:** One paper is accepted to NeurIPS! Congratulations to Renze!
+-	**Sep 2024:** OpenPARF is awarded the best paper of ISEDA 2024. Congratulations to Mai Jing!
+-	**July 2024:** One paper is accepted to MICRO’24.Congratulations to Ruifan!
+-	**June 2024:** Prof Liang is awarded Teaching Excellence Award Peking University (北京大学教学卓越奖) 2024. 
 -	**June 2024:** Five papers are accepted to ICCAD’24. 
 -	**June 2024:** Size wins the excellent Ph.D thesis award of Peking University and the outstanding graduate award of Beijing. Kexing wins the top 10 bachelor thesis award of School of EECS. Congratulations!
 - **March 2024:** One paper is accepted to MLSys’24.
