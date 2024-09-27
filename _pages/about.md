@@ -27,7 +27,7 @@ I am looking for highly motivated graduate students, postdocs, and interns to wo
 -	**Sep 2024:** One paper is accepted to NeurIPS! Congratulations to Renze!
 -	**Sep 2024:** OpenPARF is awarded the best paper of ISEDA 2024. Congratulations to Mai Jing!
 -	**July 2024:** One paper is accepted to MICRO’24.Congratulations to Ruifan!
--	**June 2024:** Prof Liang is awarded Teaching Excellence Award Peking University (北京大学教学卓越奖) 2024. 
+-	**June 2024:** **Prof Liang is awarded Teaching Excellence Award Peking University (北京大学教学卓越奖) 2024.**
 -	**June 2024:** Five papers are accepted to ICCAD’24. 
 -	**June 2024:** Size wins the excellent Ph.D thesis award of Peking University and the outstanding graduate award of Beijing. Kexing wins the top 10 bachelor thesis award of School of EECS. Congratulations!
 - **March 2024:** One paper is accepted to MLSys’24.
@@ -56,7 +56,7 @@ I am looking for highly motivated graduate students, postdocs, and interns to wo
 ## Awards and Honors
 
 - <span style="color:red">**Best Paper Award**</span>. International Symposium of EDA 2024 (ISEDA 2024)
--	**Teaching Excellence Award Peking University (北京大学教学卓越奖) 2024. **
+-	**Teaching Excellence Award Peking University (北京大学教学卓越奖) 2024.**
 - <span style="color:red">**Best Paper Award**</span>. The third International Workshop on Efficient Artificial Intelligence For Edge Computing (**EAI**) in conjunction with ICDCS 2022
 - **Best Paper Award Nomination**, ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming (PPoPP), 2019. (4 nominations out of 152 submissions). 
 - <span style="color:red">**Best Paper Award**</span>, International Conference on Computer Aided Design (ICCAD), November, 2017. (2 out of 350 submissions). 
