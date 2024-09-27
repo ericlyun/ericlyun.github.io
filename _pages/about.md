@@ -55,9 +55,11 @@ I am looking for highly motivated graduate students, postdocs, and interns to wo
 
 ## Awards and Honors
 
+- <span style="color:red">**Best Paper Award**</span>. International Symposium of EDA 2024 (ISEDA 2024)
+-	**Teaching Excellence Award Peking University (北京大学教学卓越奖) 2024. **
 - <span style="color:red">**Best Paper Award**</span>. The third International Workshop on Efficient Artificial Intelligence For Edge Computing (**EAI**) in conjunction with ICDCS 2022
 - **Best Paper Award Nomination**, ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming (PPoPP), 2019. (4 nominations out of 152 submissions). 
-- <span style="color:red">**Best Paper Award**</span> International Conference on Computer Aided Design (ICCAD), November, 2017. (2 out of 350 submissions). 
+- <span style="color:red">**Best Paper Award**</span>, International Conference on Computer Aided Design (ICCAD), November, 2017. (2 out of 350 submissions). 
 - **Best Paper Award Nomination**, Design Automation Conference (DAC), June 2017. 
 - (14 nominations out of 676 submissions).
 - **Best Paper Award Nomination**, Asia and South Pacific Design Automation Conference (ASP-DAC), January, 2016. (11 nominations out of 350 submissions). 
