@@ -23,7 +23,7 @@ function updateNav() {
     breaks.push($vlinks.width());
 
     // Move item to the hidden list
-    $vlinks.children('*:not(.tutorial__menu-item)').last().prependTo($hlinks);
+    $vlinks.children('*:not(.masthead__menu-item--lg)').last().prependTo($hlinks);
 
     // Show the dropdown btn
     if($btn.hasClass('hidden')) {
