@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/6c9dba49-5a12-405e-9e9f-b2211918438f)![image](https://github.com/user-attachments/assets/4d198eaa-15c9-46bf-b165-96dd975b5e3c)![image](https://github.com/user-attachments/assets/562e223e-ba5a-422a-aea4-bc7c43bd2b01)---
 title: "Publications"
 permalink: /publications/
 author_profile: true
@@ -6,11 +6,15 @@ author_profile: true
 
 ## Journal Publications  
 
+### 2025
+
+| [J40] | Xiaochen Hao, Mingzhe Zhang, Ce Sun, Zhuofu Tao, Hongbo Rong, Yu Zhang, Hei He, Eric Petit, Wenguang Chen, **Yun Liang**. "Productively Generating a High-Performance Linear Algebra Library on FPGAs, " accepted by the ACM Transactions on Reconfigurable Technology Systems (**TRETS**). |
+
 ### 2024
 
-| [J39] | Tsung-Yi Ho, Sadaf Khan, Jinwei Liu, Yi Liu, Zhengyuan Shi, Ziyi Wang, Qiang Xu, Evangeline F.Y. Young, Bei Yu, Ziyang Zheng, Binwu Zhu, Keren Zhu, Yiqi Che, **Yun Liang**, Yibo Lin, Guojie Luo, Guangyu Sun, Runsheng Wang, Xinming Wei, Chenhao Xue, Haoyi Zhang, Zuodong Zhang, Yuxiang Zhao, Sunan Zou, Lei Chen, Yu Huang, Min Li, Dimitrios Tsaras, Mingxuan Yuan, Hui-Ling Zhen, Zhufei Chu, Wenji Fang, Xingquan Li and Zhiyao Xie. "Large Circuit Models: Opportunities and Challenges, "Accepted by Science China Information Sciences, Sep, 2024  |
-| [J38] | Yi Zhong, Yisong Kuang, Kefei Liu, Zilin Wang, Shuo Feng, Guang Chen, Youming Yang, Xiuping Cui, Qiankun  Wang, Jian Cao, Song Jia, **Yun Liang**, Guangyu Sun, Xiaoxin Cui, Ru Huang, Yuan Wang. "PAICORE: A 1.9-Million-Neuron 5.181-TSOPS/W Digital Neuromorphic Processor With Unified SNN-ANN and On-Chip Learning Paradigm, " accepted by IEEE Journal of Solid-State Circuits (**JSSC**).  |
-| [J37] | Jiangfei Duan , Xiuhong Li , Ping Xu , Xingcheng Zhang , Shengen yan , **Yun Liang** , Dahua Lin.  "Proteus: Simulating the Performance of Distributed DNN Training, " accepted by IEEE Transactions on Parallel and Distributed Systems (**TPDS**). |
+| [J39] | Lei Chen, et.al "Large Circuit Models: Opportunities and Challenges, " in Science China Information Sciences, Vol: 67, article number 200402, Sep, 2024. |
+| [J38] | Yi Zhong, Yisong Kuang, Kefei Liu, Zilin Wang, Shuo Feng, Guang Chen, Youming Yang, Xiuping Cui, Qiankun  Wang, Jian Cao, Song Jia, **Yun Liang**, Guangyu Sun, Xiaoxin Cui, Ru Huang, Yuan Wang. "PAICORE: A 1.9-Million-Neuron 5.181-TSOPS/W Digital Neuromorphic Processor With Unified SNN-ANN and On-Chip Learning Paradigm, " in IEEE Journal of Solid-State Circuits (**JSSC**), Vol: 60, Issue: 2, February 2025, pp. 651 – 671. |
+| [J37] | Jiangfei Duan , Xiuhong Li , Ping Xu , Xingcheng Zhang , Shengen yan , **Yun Liang** , Dahua Lin.  "Proteus: Simulating the Performance of Distributed DNN Training, " in the IEEE Transactions on Parallel and Distributed Systems (**TPDS**), Vol :35,  Oct. 2024, pp. 1867-1878. |
 
 ### 2023
 
@@ -89,9 +93,15 @@ author_profile: true
 
 ## Conference Papers
 
+### 2025
+
+| [C116] | Youwei Xiao, Fan Cui, Zizhang Luo, Weijie Peng, **Yun Liang**. "Cayman: Custom Accelerator Generation with Control Flow and Data Access Optimization ", to appear in the proceedings of Design Automation Conference (**DAC**) June, 2025. |
+| [C115] | Hao Luo, Qianchao Zhu, Xiaochen Zhu, Chunxi Lei, Chengdi Ma, Chenchen Zhang, **Yun Liang**, Chao Yang. "StructILU: Dependency-Preserving Incomplete LU with Hierarchical Parallelism for Structured Grid PDEs on GPUs", to appear in the proceedings of International Conference on Supercomputing (**ICS**), June 2025. |
+| [C114] | Ke Hong, Xiuhong Li, Lufang Chen, Qiuli Mao, Guohao Dai, Xuefei Ning, Shengen Yan, **Yun Liang**, Yu Wang. " SOLA: Optimizing SLO Attainment for Large Language Model Serving with State-Aware Scheduling ", to appear in the proceedings of Eighth Annual Conference on Machine Learning and Systems (**MLSys**) May, 2025. |
+
 ### 2024
 
-| [C113] | Renze Chen, Zhuofeng Wang, Beiquan Cao, Tong Wu, Size Zheng, Xiuhong Li, Xuechao Wei, Shengen Yan, Meng Li, **Yun Liang** . "ArkVale: Efficient Generative LLM Inference with Recallable Key-Value Eviction",  to appear in the proceedings of the 38th Annual Conference on Neural Information Processing Systems (**NeurIPs**) 2024. |
+| [C113] | Renze Chen, Zhuofeng Wang, Beiquan Cao, Tong Wu, Size Zheng, Xiuhong Li, Xuechao Wei, Shengen Yan, Meng Li, **Yun Liang** . "ArkVale: Efficient Generative LLM Inference with Recallable Key-Value Eviction",  in the proceedings of the 38th Annual Conference on Neural Information Processing Systems (**NeurIPs**) 2024. [Code]([ArkVale](https://github.com/pku-liang/ArkVale)). |
 | [C112] | Ruifan Xu, Jin Luo, Yawen Zhang, Yibo Lin, Runsheng Wang, Ru Huang, **Yun Liang**. "Hestia: An Efficient Cross-level Debugger for High-level Synthesis",  to appear in the proceeding of the 57th International Symposium on Microarchitecture (**MICRO**),  Nov. 2024. [Code](https://github.com/pku-liang/hestia) [Artifact Evaluation](https://github.com/pku-liang/hestia-artifact) |
 | [C111] | Fan Cui, Chenyang Yin, Kexing Zhou, Youwei Xiao, Guangyu Sun, Qiang Xu, Qipeng Guo, Demin Song, Dahua Lin, Xingcheng Zhang, Yun  Liang. " OriGen: Enhancing RTL Code Generation with Code-to-Code Augmentation and Self-Reflection",  to appear in the proceeding of the International Conference on Computer Aided Design (**ICCAD**), Oct. 2024. [Code](https://github.com/pku-liang/OriGen) |
 | [C110] | Yanchi Dong, Xueping Liu, Xiaochen Hao, **Yun Liang**, Ru Huang, Le Ye, Tianyu Jia. "Hierarchical Power Co-Optimization and Management for LLM Chiplet Designs",  to appear in the proceeding of the International Conference on Computer Aided Design (**ICCAD**), Oct. 2024. |
