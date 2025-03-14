@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/6c9dba49-5a12-405e-9e9f-b2211918438f)![image](https://github.com/user-attachments/assets/4d198eaa-15c9-46bf-b165-96dd975b5e3c)![image](https://github.com/user-attachments/assets/562e223e-ba5a-422a-aea4-bc7c43bd2b01)---
 title: "Publications"
 permalink: /publications/
 author_profile: true
