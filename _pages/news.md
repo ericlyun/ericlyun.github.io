@@ -6,7 +6,13 @@ author_profile: true
 
 ## ALL News
 
+### 2025
+- **March 2025**: One ICS paper is accepted. Congratulations to Luohao and Xiaochen.
+- **Feb 2025**: One DAC and one TRETS papers are accepted. Congratulations to Youwei and Xiaochen.
+- **Jan 2025**: We organized AHS tutorial at ASPDAC. Please check out the details at [https://ericlyun.me/tutorial-aspdac2025/].
+
 ### 2024
+- **Dec 2024**: Renze is awarded ByteDance Scholarship (only 10 students in China). Congratulations to Renze!
 -	**Sep 2024:** One paper is accepted to NeurIPS! Congratulations to Renze!
 -	**Sep 2024:** OpenPARF is awarded the best paper of ISEDA 2024. Congratulations to Mai Jing!
 -	**July 2024:** One paper is accepted to MICRO’24.Congratulations to Ruifan!
