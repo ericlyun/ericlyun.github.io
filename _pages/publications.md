@@ -95,6 +95,8 @@ author_profile: true
 
 ### 2025
 
+| [C118] | Xiaochen Hao, Hao Luo, Chu Wang, Chao Yang, Yun Liang. "Telos: A Dataflow Accelerator for Sparse Triangular Solver of Partial Differential Equations", to appear in the proceedings of International Symposium on Computer Architecture (ISCA), June 2025. |
+| [C117] |	Wuwei Tan, Liqiang Lu, Siwei Tan, Yun Liang, Tingting Li,  Kaiwen Zhou, Xinghui Jia, Jianwei Yin. "ARTERY: Fast Quantum Feedback using Branch Prediction", to appear in the proceedings of International Symposium on Computer Architecture (ISCA), June 2025. |
 | [C116] | Youwei Xiao, Fan Cui, Zizhang Luo, Weijie Peng, **Yun Liang**. "Cayman: Custom Accelerator Generation with Control Flow and Data Access Optimization ", to appear in the proceedings of Design Automation Conference (**DAC**) June, 2025. |
 | [C115] | Hao Luo, Qianchao Zhu, Xiaochen Zhu, Chunxi Lei, Chengdi Ma, Chenchen Zhang, **Yun Liang**, Chao Yang. "StructILU: Dependency-Preserving Incomplete LU with Hierarchical Parallelism for Structured Grid PDEs on GPUs", to appear in the proceedings of International Conference on Supercomputing (**ICS**), June 2025. |
 | [C114] | Ke Hong, Xiuhong Li, Lufang Chen, Qiuli Mao, Guohao Dai, Xuefei Ning, Shengen Yan, **Yun Liang**, Yu Wang. " SOLA: Optimizing SLO Attainment for Large Language Model Serving with State-Aware Scheduling ", to appear in the proceedings of Eighth Annual Conference on Machine Learning and Systems (**MLSys**) May, 2025. |
