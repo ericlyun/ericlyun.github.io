@@ -24,6 +24,7 @@ I am looking for highly motivated graduate students, postdocs, and interns to wo
 
 ## News ([Full List](/news/))
 
+-	**March 2025**: Two ISCA papers are accepted. Congratulations to Xiaochen，Wang chu, and Liqiang.
 - **March 2025**: One ICS paper is accepted. Congratulations to Luohao and Xiaochen.
 - **Feb 2025**: One DAC and one TRETS papers are accepted. Congratulations to Youwei and Xiaochen.
 - **Jan 2025**: We organized AHS tutorial at ASPDAC. Please check out the details at [https://ericlyun.me/tutorial-aspdac2025/](https://ericlyun.me/tutorial-aspdac2025/).
@@ -34,14 +35,6 @@ I am looking for highly motivated graduate students, postdocs, and interns to wo
 -	**June 2024:** **Prof Liang is awarded Teaching Excellence Award Peking University (北京大学教学卓越奖) 2024.**
 -	**June 2024:** Five papers are accepted to ICCAD’24. 
 -	**June 2024:** Size wins the excellent Ph.D thesis award of Peking University and the outstanding graduate award of Beijing. Kexing wins the top 10 bachelor thesis award of School of EECS. Congratulations!
-- **March 2024:** One paper is accepted to MLSys’24.
--	**March 2024:** Two papers are accepted to DAC’24. 
--	**March 2024:** Five papers are accepted to ASPLOS’24. 
--	**Feb 2024:** Prof Liang is promoted to full professor (Endowed Boya Distinguished Professor). I appreciated the support over the years from my students, collaborators, and sponsors.
--	**Jan 2024:** Prof Liang is elevated to ACM Distinguished Scientist/Member.
-- **Dec 2023:** Two papers are accepted to FPGA’23. Congratulations to Youwei, Zizhang, and Xiaochen. 
-- **Aug 2023:** Awarded the National Science Fund for Distinguished Young Scholars from National Natural Science Foundation of China.
-- **July 2023:** Liancheng Jia successfully defended his doctoral thesis. Liancheng will join Huawei as an engineer. Congratulations!
 
 ## Selected Recent Publications ([Full List](/publications/))
 
