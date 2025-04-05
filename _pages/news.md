@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/9d49edc4-5e40-452f-8286-83823c3003c8)---
 title: "News"
 permalink: /news/
 author_profile: true
@@ -7,6 +7,8 @@ author_profile: true
 ## ALL News
 
 ### 2025
+- **April 2025**: We organized AHS tutorial at DATE 2025. Please check out the details at [https://www.date-conference.com/embedded-tutorial/et01](https://www.date-conference.com/embedded-tutorial/et01)
+- **April 2025**: We organized AHS tutorial at ASPLOS 2025. Please check out the details at [https://ericlyun.me/tutorial-asplos2025/](https://ericlyun.me/tutorial-asplos2025/).
 -	**March 2025**: Two ISCA papers are accepted. Congratulations to Xiaochen，Wang chu, and Liqiang.
 - **March 2025**: One ICS paper is accepted. Congratulations to Luohao and Xiaochen.
 - **Feb 2025**: One DAC and one TRETS papers are accepted. Congratulations to Youwei and Xiaochen.
