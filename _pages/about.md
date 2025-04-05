@@ -24,6 +24,8 @@ I am looking for highly motivated graduate students, postdocs, and interns to wo
 
 ## News ([Full List](/news/))
 
+- **April 2025**: We organized AHS tutorial at DATE 2025. Please check out the details at [https://www.date-conference.com/embedded-tutorial/et01](https://www.date-conference.com/embedded-tutorial/et01)
+- **April 2025**: We organized AHS tutorial at ASPLOS 2025. Please check out the details at [https://ericlyun.me/tutorial-asplos2025/](https://ericlyun.me/tutorial-asplos2025/).
 -	**March 2025**: Two ISCA papers are accepted. Congratulations to Xiaochen，Wang chu, and Liqiang.
 - **March 2025**: One ICS paper is accepted. Congratulations to Luohao and Xiaochen.
 - **Feb 2025**: One DAC and one TRETS papers are accepted. Congratulations to Youwei and Xiaochen.
