@@ -19,3 +19,6 @@ CCF Chip 2024
 [DATE 2025](https://ericlyun.github.io/tutorial-date2025)
 
 [ASPLOS 2025](https://ericlyun.github.io/tutorial-asplos2025)
+
+[ISEDA 2025](https://ericlyun.github.io/tutorial-iseda2025)
+
