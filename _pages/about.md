@@ -24,19 +24,17 @@ I am looking for highly motivated graduate students, postdocs, and interns to wo
 
 ## News ([Full List](/news/))
 
+- **July 2025**: One paper is accepted by MICRO 2025 and one paper is accepted by ASPLOS 2026.
+- **July 2025**: Two papers are accepted to ICCAD 2025.
+- **June 2025**: I will organize the special session “Agile and Open Hardware Design and Verification” at ICCAD 2025 together with Prof. Wei Zhang. Please check details at [https://2025.iccad.com/](https://2025.iccad.com/).
+- **May 2025**: Invited Talk at Hongkong ACCESS center ([https://inno-access.hk/](https://inno-access.hk/)).
+- **May 2025**: We organized AHS tutorial at ISEDA 2025. Please check out the details at [https://ericlyun.me/tutorial-iseda2025/](https://ericlyun.me/tutorial-iseda2025/) and [https://www.eda2.com/iseda/tutorials.html](https://www.eda2.com/iseda/tutorials.html)
 - **April 2025**: We organized AHS tutorial at DATE 2025. Please check out the details at [https://www.date-conference.com/embedded-tutorial/et01](https://www.date-conference.com/embedded-tutorial/et01)
 - **April 2025**: We organized AHS tutorial at ASPLOS 2025. Please check out the details at [https://ericlyun.me/tutorial-asplos2025/](https://ericlyun.me/tutorial-asplos2025/).
 -	**March 2025**: Two ISCA papers are accepted. Congratulations to Xiaochen，Wang chu, and Liqiang.
 - **March 2025**: One ICS paper is accepted. Congratulations to Luohao and Xiaochen.
 - **Feb 2025**: One DAC and one TRETS papers are accepted. Congratulations to Youwei and Xiaochen.
 - **Jan 2025**: We organized AHS tutorial at ASPDAC. Please check out the details at [https://ericlyun.me/tutorial-aspdac2025/](https://ericlyun.me/tutorial-aspdac2025/).
-- **Dec 2024**: Renze is awarded ByteDance Scholarship (only 10 students in China). Congratulations to Renze!
--	**Sep 2024:** One paper is accepted to NeurIPS! Congratulations to Renze!
--	**Sep 2024:** OpenPARF is awarded the best paper of ISEDA 2024. Congratulations to Mai Jing!
--	**July 2024:** One paper is accepted to MICRO’24.Congratulations to Ruifan!
--	**June 2024:** **Prof Liang is awarded Teaching Excellence Award Peking University (北京大学教学卓越奖) 2024.**
--	**June 2024:** Five papers are accepted to ICCAD’24. 
--	**June 2024:** Size wins the excellent Ph.D thesis award of Peking University and the outstanding graduate award of Beijing. Kexing wins the top 10 bachelor thesis award of School of EECS. Congratulations!
 
 ## Selected Recent Publications ([Full List](/publications/))
 
