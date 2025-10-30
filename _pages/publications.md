@@ -115,6 +115,7 @@ author_profile: true
 | [C116] | Youwei Xiao, Fan Cui, Zizhang Luo, Weijie Peng, **Yun Liang**. "Cayman: Custom Accelerator Generation with Control Flow and Data Access Optimization ", in the proceedings of Design Automation Conference (**DAC**) June, 2025. |
 | [C115] | Hao Luo, Qianchao Zhu, Xiaochen Hao, Chunxi Lei, Chengdi Ma, Chenchen Zhang, **Yun Liang**, Chao Yang. "StructILU: Dependency-Preserving Incomplete LU with Hierarchical Parallelism for Structured Grid PDEs on GPUs", in the proceedings of International Conference on Supercomputing (**ICS**), June 2025. |
 | [C114] | Ke Hong, Xiuhong Li, Lufang Chen, Qiuli Mao, Guohao Dai, Xuefei Ning, Shengen Yan, **Yun Liang**, Yu Wang. " SOLA: Optimizing SLO Attainment for Large Language Model Serving with State-Aware Scheduling ", in the proceedings of Eighth Annual Conference on Machine Learning and Systems (**MLSys**) May, 2025. |
+
 ### 2024
 
 | [C113] | Renze Chen, Zhuofeng Wang, Beiquan Cao, Tong Wu, Size Zheng, Xiuhong Li, Xuechao Wei, Shengen Yan, Meng Li, **Yun Liang** . "ArkVale: Efficient Generative LLM Inference with Recallable Key-Value Eviction",  in the proceedings of the 38th Annual Conference on Neural Information Processing Systems (**NeurIPs**) 2024. [Code](https://github.com/pku-liang/ArkVale). |
