@@ -8,7 +8,11 @@ author_profile: true
 
 ### 2025
 
-| [J40] | Xiaochen Hao, Mingzhe Zhang, Ce Sun, Zhuofu Tao, Hongbo Rong, Yu Zhang, Hei He, Eric Petit, Wenguang Chen, **Yun Liang**. "Productively Generating a High-Performance Linear Algebra Library on FPGAs, " accepted by the ACM Transactions on Reconfigurable Technology Systems (**TRETS**). |
+| [J44] | Zihan Liu, Wentao Ni, Jingwen Leng, Yu Feng, Cong Guo, Quan Chen, Chao Li, Minyi Guo, Yufei Ma, Feng Zhang, **Yun Liang**. "JUNO++: Optimizing ANNS and Enabling Efficient Sparse Attention in LLM via Ray Tracing Core," accepted by the ACM Transactions on Architecture and Code Optimization (**TACO**). |
+| [J43] | Yangjie Zhou, Zhihui Zhang, Shuwen Lu, Cong Guo, Jingwen Leng, Feng Zhang, Yufei Ma, **Yun Liang**, Minyi Guo. "A Full-Stack Framework for GNN Acceleration via Partition-Compiler-Architecture Co-Design," accepted by the IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**). |
+| [J42] | Guohai Dai, Ke Hong, Qiuli Mao, Jiaming Xu, Haofeng Huang, Hongtu Xia, Xuefei Ning, Shengen Yan, **Yun Liang**, Yu Wang. "FlashDecoding++Next: High Throughtput LLM Inference with Latency and Memory Optimization, " accepted by the IEEE Transactions on Computers (**TC**). |
+| [J41] | Jingchen Zhu, Chenhao Xue, Yiqi Chen, Zhao Wang, Chen Zhang, Yu Shen, Yifan Chen, Zekang Cheng, Yu Jiang, Tianqi Wang, Yibo Lin, Wei Hu, Bin Cui, Runsheng Wang, **Yun Liang**, Guangyu Sun.  "Theseus: Exploring Efficient Wafer-Scale Chip Design for Large Language Model, " accepted by the IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**). |
+| [J40] | Xiaochen Hao, Mingzhe Zhang, Ce Sun, Zhuofu Tao, Hongbo Rong, Yu Zhang, Hei He, Eric Petit, Wenguang Chen, **Yun Liang**. "Productively Generating a High-Performance Linear Algebra Library on FPGAs, " in the ACM Transactions on Reconfigurable Technology Systems (**TRETS**), Vol :18, No:2, pp.1-32. |
 
 ### 2024
 
@@ -93,14 +97,24 @@ author_profile: true
 
 ## Conference Papers
 
+### 2026
+
+| [C126] | Yangjie Zhou, Wenting Sehn, Jingwen Leng, Shuwen Lu, Zihan Liu, Weihao Cui, Zhendong Zhang,  Wencong Xiao, Baole Ai, Yong Li, Wei Lin, Deze Zeng, **Yun Liang**, Quan Chen, Ning Liu, Minyi Guo. "Voyager : Input-Apaptive Algebraic Transformations for High-Performance Graph Neural Networks ", to appear in the proceedings of ACM International Conference on Architectural Support for Programming Languages and Operating Systems (**ASPLOS**), 2026. |
+| [C125] | Xizhe Shi, Zizheng Guo, Yibo Lin, Zuodong Zhang, **Yun Liang**, Runsheng Wang.     "HeteroLatch: A CPU-GPU Heterogeneous Latch-Aware Timing Analysis Engine", to appear in the proceedings of the Asia and South Pacific Design Automation Conference (**ASPDAC**), Jan. 2026. |
+| [C124] | Ruifan Xu, Yuyang Zou, **Yun Liang**. "FESTAL: Dataflow Accelerator Synthesis Framework with Graph-Based Fusion for FPGA", to appear in the proceedings of the Asia and South Pacific Design Automation Conference (**ASPDAC**), Jan. 2026. |
+
 ### 2025
 
-| [C118] | Xiaochen Hao, Hao Luo, Chu Wang, Chao Yang, Yun Liang. "Telos: A Dataflow Accelerator for Sparse Triangular Solver of Partial Differential Equations", to appear in the proceedings of International Symposium on Computer Architecture (ISCA), June 2025. |
-| [C117] |	Wuwei Tan, Liqiang Lu, Siwei Tan, Yun Liang, Tingting Li,  Kaiwen Zhou, Xinghui Jia, Jianwei Yin. "ARTERY: Fast Quantum Feedback using Branch Prediction", to appear in the proceedings of International Symposium on Computer Architecture (ISCA), June 2025. |
-| [C116] | Youwei Xiao, Fan Cui, Zizhang Luo, Weijie Peng, **Yun Liang**. "Cayman: Custom Accelerator Generation with Control Flow and Data Access Optimization ", to appear in the proceedings of Design Automation Conference (**DAC**) June, 2025. |
-| [C115] | Hao Luo, Qianchao Zhu, Xiaochen Zhu, Chunxi Lei, Chengdi Ma, Chenchen Zhang, **Yun Liang**, Chao Yang. "StructILU: Dependency-Preserving Incomplete LU with Hierarchical Parallelism for Structured Grid PDEs on GPUs", to appear in the proceedings of International Conference on Supercomputing (**ICS**), June 2025. |
-| [C114] | Ke Hong, Xiuhong Li, Lufang Chen, Qiuli Mao, Guohao Dai, Xuefei Ning, Shengen Yan, **Yun Liang**, Yu Wang. " SOLA: Optimizing SLO Attainment for Large Language Model Serving with State-Aware Scheduling ", to appear in the proceedings of Eighth Annual Conference on Machine Learning and Systems (**MLSys**) May, 2025. |
-
+| [C123] | Youwei Xiao, Yuyang Zou, Yansong Xu, Yuhao Luo, Yitian Sun, Chenyun Yin, Ruifan Xu, Renze Chen, **Yun Liang**. “APS: Open-Source Hardware-Software Co-Design Framework for Agile Processor Specialization " to appear in the proceeding of the International Conference on Computer Aided Design (**ICCAD), Oct. 2025. (Invited paper**) [Code] . |
+| [C122] | Weijie Peng, Youwei Xiao, Yuyang Zou, Zizhang Luo, **Yun Liang**. "Clay: High-level ASIP Framework for Flexible Microarchitecture-Aware Instruction Customization”, to appear in the proceeding of the International Conference on Computer Aided Design (**ICCAD**), Oct. 2025. [Code] . |
+| [C121] | Qifan Jiang, Liqiang Lu, Debin Xiang, Tianyao Chu, Tianze Zhu, Jingwen Leng, **Yun Liang**, Xiaoming Sun, Jianwei Yin. "Rasengan: A Transition Hamiltonian-based Approximation Algorithm for Solving Constrained Binary Optimization Problems" to appear in the proceeding of the 57th International Symposium on Microarchitecture (**MICRO**), Oct. 2025. |
+| [C120] | Zhengyuan Shi, Jiangwen Tao, Xindi Zhang, Jin Luo, **Yun Liang**, Zhufei Chu, Qiang Xu.  "DynamicSAT: Dynamic Configuration Tuning for SAT Solving", in the proceedings of Conference on Principles and Practice of Constraint Programming (**CP**),August 2025. |
+| [C119] | Xiaochen Hao, Ruifan Xu, **Yun Liang**. "A Unified Synthesis Framework for Dataflow Accelerators through Multi-level Software and Hardware Intermediate Representations", in the proceedings of Advanced Parallel Processing Technologies Conference (**APPT**), July 2025. |
+| [C118]Xiaochen Hao, Hao Luo, Chu Wang, Chao Yang, **Yun Liang**. "Telos: A Dataflow Accelerator for Sparse Triangular Solver of Partial Differential Equations", in the proceedings of International Symposium on Computer Architecture (**ISCA**), June 2025. [Code] . |
+| [C117] | Wuwei Tan, Liqiang Lu, Siwei Tan, **Yun Liang**, Tingting Li,  Kaiwen Zhou, Xinghui Jia, Jianwei Yin. "ARTERY: Fast Quantum Feedback using Branch Prediction", in the proceedings of International Symposium on Computer Architecture (**ISCA**), June 2025. |
+| [C116] | Youwei Xiao, Fan Cui, Zizhang Luo, Weijie Peng, **Yun Liang**. "Cayman: Custom Accelerator Generation with Control Flow and Data Access Optimization ", in the proceedings of Design Automation Conference (**DAC**) June, 2025. |
+| [C115] | Hao Luo, Qianchao Zhu, Xiaochen Hao, Chunxi Lei, Chengdi Ma, Chenchen Zhang, **Yun Liang**, Chao Yang. "StructILU: Dependency-Preserving Incomplete LU with Hierarchical Parallelism for Structured Grid PDEs on GPUs", in the proceedings of International Conference on Supercomputing (**ICS**), June 2025. |
+| [C114] | Ke Hong, Xiuhong Li, Lufang Chen, Qiuli Mao, Guohao Dai, Xuefei Ning, Shengen Yan, **Yun Liang**, Yu Wang. " SOLA: Optimizing SLO Attainment for Large Language Model Serving with State-Aware Scheduling ", in the proceedings of Eighth Annual Conference on Machine Learning and Systems (**MLSys**) May, 2025. |
 ### 2024
 
 | [C113] | Renze Chen, Zhuofeng Wang, Beiquan Cao, Tong Wu, Size Zheng, Xiuhong Li, Xuechao Wei, Shengen Yan, Meng Li, **Yun Liang** . "ArkVale: Efficient Generative LLM Inference with Recallable Key-Value Eviction",  in the proceedings of the 38th Annual Conference on Neural Information Processing Systems (**NeurIPs**) 2024. [Code](https://github.com/pku-liang/ArkVale). |
