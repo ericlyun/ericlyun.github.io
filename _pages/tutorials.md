@@ -24,3 +24,5 @@ CCF Chip 2024
 
 [ISEDA 2025](https://ericlyun.github.io/tutorial-iseda2025)
 
+[ASPDAC 2026](https://www.aspdac.com/aspdac2026/tutorial/)
+
