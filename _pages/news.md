@@ -6,6 +6,10 @@ author_profile: true
 
 ## ALL News
 
+### 2026
+- **Jan 2026**: **FESTAL** won ASPDAC 2026 Best Paper Award.  
+- **Jan 2026**: We organized APS tutorial at ASPDAC 2026. Please check out the details at [https://www.aspdac.com/aspdac2026/tutorial/#t5](https://www.aspdac.com/aspdac2026/tutorial/#t5) and [https://aps.ericlyun.me/tutorials/aspdac-2026/](https://aps.ericlyun.me/tutorials/aspdac-2026/). 
+
 ### 2025
 - **Nov 2025**: One paper is accepted by ASPLOS 2026 and three papers are accepted by DATE 2026.
 - **July 2025**: One paper is accepted by MICRO 2025.
