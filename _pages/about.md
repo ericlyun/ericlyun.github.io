@@ -53,6 +53,7 @@ I am looking for highly motivated graduate students, postdocs, and interns to wo
 
 ## Awards and Honors
 
+- <span style="color:red">**Best Paper Award**</span>. 31st Asia and South Pacific Design Automation Conference (ASPDAC) 2026. 
 - <span style="color:red">**Best Paper Award**</span>. International Symposium of EDA 2024 (ISEDA 2024)
 -	**Teaching Excellence Award Peking University (北京大学教学卓越奖) 2024.**
 - <span style="color:red">**Best Paper Award**</span>. The third International Workshop on Efficient Artificial Intelligence For Edge Computing (**EAI**) in conjunction with ICDCS 2022
