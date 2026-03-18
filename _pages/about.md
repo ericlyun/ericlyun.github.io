@@ -24,6 +24,7 @@ I am looking for highly motivated graduate students, postdocs, and interns to wo
 
 ## News ([Full List](/news/))
 
+- **Mar 2026**: Three DAC papers are accepted!
 - **Jan 2026**: **FESTAL** won ASPDAC 2026 Best Paper Award.  
 - **Jan 2026**: We organized APS tutorial at ASPDAC 2026. Please check out the details at [https://www.aspdac.com/aspdac2026/tutorial/#t5](https://www.aspdac.com/aspdac2026/tutorial/#t5) and [https://aps.ericlyun.me/tutorials/aspdac-2026/](https://aps.ericlyun.me/tutorials/aspdac-2026/). 
 - **Nov 2025**: One paper is accepted by ASPLOS 2026 and three papers are accepted by DATE 2026.
@@ -35,7 +36,7 @@ I am looking for highly motivated graduate students, postdocs, and interns to wo
 - **April 2025**: We organized AHS tutorial at DATE 2025. Please check out the details at [https://www.date-conference.com/embedded-tutorial/et01](https://www.date-conference.com/embedded-tutorial/et01)
 - **April 2025**: We organized AHS tutorial at ASPLOS 2025. Please check out the details at [https://ericlyun.me/tutorial-asplos2025/](https://ericlyun.me/tutorial-asplos2025/).
 -	**March 2025**: Two ISCA papers are accepted. Congratulations to Xiaochen，Wang chu, and Liqiang.
-- **March 2025**: One ICS paper is accepted. Congratulations to Luohao and Xiaochen.
+
 
 ## Selected Recent Publications ([Full List](/publications/))
 
