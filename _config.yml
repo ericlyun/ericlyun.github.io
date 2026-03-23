@@ -84,13 +84,13 @@ author:
   avatar           : "profile.png"
   bio              : ""
   location         :
-  location_long    : ['Room 551', 'School of Integrated Circuit']
+  location_long    : ['School of Integrated Circuit']
   employer         : "Peking University"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=Ltp8loUAAAAJ&hl=en"
   email            : "ericlyun-at-pku.edu.cn"
   dblp             : "https://dblp.uni-trier.de/pers/l/Liang_0001:Yun.html"
-  phone            : "+86 10 6276 0779"
+  phone            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
