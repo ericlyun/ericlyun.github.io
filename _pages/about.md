@@ -13,7 +13,7 @@ redirect_from:
 *Boya Distinguished Professor of Peking University*  
 *ACM Distinguished Scientist/Member*
 
-I am an Endowed Boya Distinguished Professor in the School of Integrated Circuit and School of EECS at Peking University. My research interest is at the hardware-software interface with work spanning electronic design automation (EDA), hardware and software co-design, and computer architecture. My recent publications investigate new algorithms, programming models, design automation tools and methodologies, and hardware for high-performance and energy-efficient computer systems. I have authored over 100 scientific publications in the leading international journals and conferences. My research has been recognized with five Best Paper Awards, six Best Paper Award Nominations, National Science Fund for Distinguished Young Scholars, CCF-IEEE CS Young Computer Scientist Award, Beijing Natural Science Fund for Distinguished Young Scholars, Beijing Academy of Artificial Intelligence (BAAI) Young Scientist Award, and National Youth Top-notch Talent Fund. I am an ACM Distinguished Scientist/Member and received the Teaching Excellence Award Peking University in 2024. 
+I am an Endowed Boya Distinguished Professor in the School of Integrated Circuit and School of EECS at Peking University. My research interest is at the hardware-software interface with work spanning electronic design automation (EDA), hardware and software co-design, and computer architecture. My recent publications investigate new algorithms, programming models, design automation tools and methodologies, and hardware for high-performance and energy-efficient computer systems. I have authored over 100 scientific publications in the leading international journals and conferences. My research has been recognized with six Best Paper Awards, six Best Paper Award Nominations, National Science Fund for Distinguished Young Scholars, CCF-IEEE CS Young Computer Scientist Award, Beijing Natural Science Fund for Distinguished Young Scholars, Beijing Academy of Artificial Intelligence (BAAI) Young Scientist Award, and National Youth Top-notch Talent Fund. I am an ACM Distinguished Scientist/Member and received the Teaching Excellence Award Peking University in 2024. 
 
 I currently serve as Associate Editor of the ACM Transactions on Embedded Computing Systems (TECS) and ACM Transactions on Reconfigurable Technology and Systems (TRETS). I was the program chair of 30th Annual IEEE International Conference on Application-specific Systems, Architecture and Processors (ASAP) 2019 and the International Conference on Field Programmable Technology (FPT) 2022. I also serve in the program committees in the premier conferences including DAC, ICCAD, FPGA, FCCM, HPCA, MICRO, DATE, ASPDAC, ASPLOS, ISCA, PPoPP, PACT, CGO, ICS, CC, CASES, LCTES, ASAP, and ICCD. Prior to joining Peking University, I received my Ph.D in Computer Science from National University of Singapore in 2010. Upon graduation, I worked as a Research Scientist in UIUC.
 
@@ -24,6 +24,7 @@ I am looking for highly motivated graduate students, postdocs, and interns to wo
 
 ## News ([Full List](/news/))
 
+- **Mar 2026**: ISAMORE wins ASPLOS 2026 Best Paper Award! 
 - **Mar 2026**: Three DAC papers are accepted!
 - **Jan 2026**: **FESTAL** won ASPDAC 2026 Best Paper Award.  
 - **Jan 2026**: We organized APS tutorial at ASPDAC 2026. Please check out the details at [https://www.aspdac.com/aspdac2026/tutorial/#t5](https://www.aspdac.com/aspdac2026/tutorial/#t5) and [https://aps.ericlyun.me/tutorials/aspdac-2026/](https://aps.ericlyun.me/tutorials/aspdac-2026/). 
@@ -35,7 +36,6 @@ I am looking for highly motivated graduate students, postdocs, and interns to wo
 - **May 2025**: We organized AHS tutorial at ISEDA 2025. Please check out the details at [https://ericlyun.me/tutorial-iseda2025/](https://ericlyun.me/tutorial-iseda2025/) and [https://www.eda2.com/iseda/tutorials.html](https://www.eda2.com/iseda/tutorials.html)
 - **April 2025**: We organized AHS tutorial at DATE 2025. Please check out the details at [https://www.date-conference.com/embedded-tutorial/et01](https://www.date-conference.com/embedded-tutorial/et01)
 - **April 2025**: We organized AHS tutorial at ASPLOS 2025. Please check out the details at [https://ericlyun.me/tutorial-asplos2025/](https://ericlyun.me/tutorial-asplos2025/).
--	**March 2025**: Two ISCA papers are accepted. Congratulations to Xiaochen，Wang chu, and Liqiang.
 
 
 ## Selected Recent Publications ([Full List](/publications/))
@@ -54,6 +54,7 @@ I am looking for highly motivated graduate students, postdocs, and interns to wo
 
 ## Awards and Honors
 
+- <span style="color:red">**Best Paper Award**</span>. ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2026.
 - <span style="color:red">**Best Paper Award**</span>. 31st Asia and South Pacific Design Automation Conference (ASPDAC) 2026. 
 - <span style="color:red">**Best Paper Award**</span>. International Symposium of EDA 2024 (ISEDA 2024)
 -	**Teaching Excellence Award Peking University (北京大学教学卓越奖) 2024.**

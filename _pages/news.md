@@ -7,6 +7,7 @@ author_profile: true
 ## ALL News
 
 ### 2026
+- **Mar 2026**: ISAMORE wins ASPLOS 2026 Best Paper Award! 
 - **Mar 2026**: Three DAC papers are accepted!
 - **Jan 2026**: **FESTAL** won ASPDAC 2026 Best Paper Award.  
 - **Jan 2026**: We organized APS tutorial at ASPDAC 2026. Please check out the details at [https://www.aspdac.com/aspdac2026/tutorial/#t5](https://www.aspdac.com/aspdac2026/tutorial/#t5) and [https://aps.ericlyun.me/tutorials/aspdac-2026/](https://aps.ericlyun.me/tutorials/aspdac-2026/). 
