@@ -7,6 +7,8 @@ author_profile: true
 ## ALL News
 
 ### 2026
+- **May 2026**: One ICML paper is accepted! 
+- **April 2026**: Two ISCA papers are accepted!
 - **Mar 2026**: ISAMORE wins ASPLOS 2026 Best Paper Award! 
 - **Mar 2026**: Three DAC papers are accepted!
 - **Jan 2026**: **FESTAL** won ASPDAC 2026 Best Paper Award.  

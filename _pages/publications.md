@@ -8,7 +8,7 @@ author_profile: true
 
 ### 2025
 
-| [J44] |	Yangjie Zhou, Zhihui Zhang, Shuwen Lu, Cong Guo, Jingwen Leng, Feng Zhang, Yufei Ma, **Yun Liang**, Minyi Guo. "A Full-Stack Framework for GNN Acceleration via Partition-Compiler-Architecture Co-Design," accepted by the IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**). |
+| [J44] |	Yangjie Zhou, Zhihui Zhang, Shuwen Lu, Cong Guo, Jingwen Leng, Feng Zhang, Yufei Ma, **Yun Liang**, Minyi Guo. "A Full-Stack Framework for GNN Acceleration via Partition-Compiler-Architecture Co-Design," in the IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), Vol: 45, Issue: 5, pp. 2348-2361, 2025. |
 | [J43] |	Guohai Dai, Ke Hong, Qiuli Mao, Jiaming Xu, Haofeng Huang, Hongtu Xia, Xuefei Ning, Shengen Yan, **Yun Liang**, Yu Wang. "FlashDecoding++Next: High Throughtput LLM Inference with Latency and Memory Optimization, " in the IEEE Transactions on Computers (**TC**), Vol: 74, Issue: 10, pp.3263-3276. |
 | [J42] |	Zihan Liu, Wentao Ni, Jingwen Leng, Yu Feng, Cong Guo, Quan Chen, Chao Li, Minyi Guo, Yufei Ma, Feng Zhang, **Yun Liang**. "JUNO++: Optimizing ANNS and Enabling Efficient Sparse Attention in LLM via Ray Tracing Core," in the ACM Transactions on Architecture and Code Optimization (**TACO**), Vol :22, Issue:4, pp.1-25. |
 | [J41] |	Jingchen Zhu, Chenhao Xue, Yiqi Chen, Zhao Wang, Chen Zhang, Yu Shen, Yifan Chen, Zekang Cheng, Yu Jiang, Tianqi Wang, Yibo Lin, Wei Hu, Bin Cui, Runsheng Wang, **Yun Liang**, Guangyu Sun.  "Theseus: Exploring Efficient Wafer-Scale Chip Design for Large Language Model, " in the IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), Vol:44, Issue:12, December 2025. pp.4793-4806. |
@@ -99,6 +99,9 @@ author_profile: true
 
 ### 2026
 
+| [C137] | Size Zheng, Xuegui Zheng, Hanshi Sun, Qi Hou, Wenlei Bao, Shiyu Li, Haojie Duanmu, Jin Fang, Chenli Xue, Chenhui Huang, Yuanqiang Liu, Renze Chen, Ningxin Zheng, Dongyang Wang, Li-Wen Chang, Liqiang Lu, **Yun Liang**, Jidong Zhai, Xin Liu. "DITRON: Distributed Multi-level Tiling Compiler for Parallel Tensor Programs", to appear in the proceedings of International Conference on Machine Learning (**ICML**), Jul. 2026. |
+| [C136] | Ruifan Xu, Yuze Luo, Yuhao Meng, Size Zheng, Meng Li, **Yun Liang**. "PipeComm: Maximizing Link Utilization through Pipeline-Aware Collective Communication Synthesis", to appear in the proceedings of International Symposium on Computer Architecture (**ISCA**), June 2026. |
+| [C135] | Feiyang Wu, Xuxiao Yang, Zhuohang Bian, Jing Wang, Ruifan Xu, Guangyu Sun, **Yun Liang**, Youwei Zhuo. "SwiftGraph: A Domain-Specific Lanauge for Easy and Efficient Graph Accelerator Design", to appear in the proceedings of International Symposium on Computer Architecture (**ISCA**), June 2026. |
 | [C134] | Kexing Zhou, Youwei Zhuo, Yibo Lin, Weikang Qian, Pengpeng Ren, **Yun Liang**. "Activity-Aware Partitioning for Effective Multi-Threaded Event-Driven RTL Simulation", to appear in the proceedings of Design Automation Conference (**DAC**), 2026. |
 | [C133] | Xiuping Cui, Chengrui Zhang, Zihao Zheng, Xiang Chen, **Yun Liang**. "CODA: A Computation-Data Decoupled Dataflow Paradigm for DNN Computing on NPUs", to appear in the proceedings of Design Automation Conference (**DAC**), 2026. |
 | [C132] | Shanghao Liu, Renze Chen, Size Zheng, Yuanqiang Liu, **Yun Liang**, Hailong Yang. "SPADE: An Input-Adaptive Sparse Attention Engine for Fast Video Diffusion Models Inference", to appear in the proceedings of Design Automation Conference (**DAC**), 2026. |
