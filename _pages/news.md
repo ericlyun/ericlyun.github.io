@@ -7,6 +7,8 @@ author_profile: true
 ## ALL News
 
 ### 2026
+- **July 2026**: One MICRO paper is accepted!
+- **June 2026**: Invited talk at EPFL on agile processor specialization. 
 - **May 2026**: One ICML paper is accepted! 
 - **April 2026**: Two ISCA papers are accepted!
 - **Mar 2026**: ISAMORE wins ASPLOS 2026 Best Paper Award! 
@@ -109,4 +111,3 @@ author_profile: true
 - **Jan 2020:** Our paper on “**FlexTensor: An Automatic Schedule Exploration and Optimization Framework for Tensor Computation on Heterogeneous System**” is accepted by International Conference on Architectural Support for Programming Languages and Operating Systems (**ASPLOS**) 2020! Congratulations to Size.
 - **Jan 2020:** **Xuechao joined Alibaba Damo Academy**. Congratulations.
 - **Jan 2020:** **Xuechao has successfully defended his PhD thesis.** Congratulations to Dr. Wei!
-

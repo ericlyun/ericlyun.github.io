@@ -99,6 +99,7 @@ author_profile: true
 
 ### 2026
 
+| [C138] | Junchi Wu, Xinfei Wan, Zhuoran Li, Guangyu Sun, **Yun Liang**, Diyu Zhou, Youwei Zhuo. "SLOTH: Lightweight Detection and Localization of On-Chip Fail-Slow Failures for DNN Accelerators", to appear in the proceeding of the 58th International Symposium on Microarchitecture (**MICRO**), Oct. 2026. |
 | [C137] | Size Zheng, Xuegui Zheng, Hanshi Sun, Qi Hou, Wenlei Bao, Shiyu Li, Haojie Duanmu, Jin Fang, Chenli Xue, Chenhui Huang, Yuanqiang Liu, Renze Chen, Ningxin Zheng, Dongyang Wang, Li-Wen Chang, Liqiang Lu, **Yun Liang**, Jidong Zhai, Xin Liu. "DITRON: Distributed Multi-level Tiling Compiler for Parallel Tensor Programs", to appear in the proceedings of International Conference on Machine Learning (**ICML**), Jul. 2026. |
 | [C136] | Ruifan Xu, Yuze Luo, Yuhao Meng, Size Zheng, Meng Li, **Yun Liang**. "PipeComm: Maximizing Link Utilization through Pipeline-Aware Collective Communication Synthesis", to appear in the proceedings of International Symposium on Computer Architecture (**ISCA**), June 2026. |
 | [C135] | Feiyang Wu, Xuxiao Yang, Zhuohang Bian, Jing Wang, Ruifan Xu, Guangyu Sun, **Yun Liang**, Youwei Zhuo. "SwiftGraph: A Domain-Specific Lanauge for Easy and Efficient Graph Accelerator Design", to appear in the proceedings of International Symposium on Computer Architecture (**ISCA**), June 2026. |
@@ -305,6 +306,8 @@ author_profile: true
 
 ## Other Workshop Papers and Poster Papers
 
+| [W13] |	Youwei Xiao, Chenyun Yin, **Yun Liang**. “Intelligent Equality Saturation: From Hierarchical Prospection to a Minimal Implementation”, Architecture 2.0 Workshop (**Arch 2.0 2026**) in conjunction with ISCA 2026. |
+| [W12] | Youwei Xiao, Chenyun Yin, **Yun Liang**. “EggMind: LLM-Driven Two-Dimensional Intelligence for Scalable Equality Saturation”, Architecture 2.0 Workshop (**Arch 2.0 2026**) in conjunction with ASPLOS 2026. |
 | [W11] | Youwei Xiao, Zizhang Luo, **Yun Liang**. “cmt2: Rule-Based Hardware Description in Rust with Temporal Semantics”, Workshop on Languages, Tools, and Techniques for Accelerator Design (**LATTE 2025**) in conjunction with ASPLOS 2025. |
 | [W10] | Fan Cui, Youwei Xiao, Kexing Zhou, **Yun Liang**. “An Empirical Comparision of LLM-based Hardware Design and High-level Synthesis”, in the proceedings of ACM/SIGDA International Symposium on Field-Programmable Gate Arrays (**FPGA**), March, 2025. (Poster) |
 | [W9] | Ruifan Xu, Jin Luo, **Yun Liang**. “Hermes: Enhancing Extensibility in High-Level Synthesis through  Multi-Level IRs”, in the proceedings of *ACM/SIGDA International Symposium on Field-Programmable Gate Arrays (**FPGA**)*, March, 2024. (**Poster**) |

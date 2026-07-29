@@ -24,6 +24,8 @@ I am looking for highly motivated graduate students, postdocs, and interns to wo
 
 ## News ([Full List](/news/))
 
+- **July 2026**: One MICRO paper is accepted!
+- **June 2026**: Invited talk at EPFL on agile processor specialization. 
 - **May 2026**: One ICML paper is accepted! 
 - **April 2026**: Two ISCA papers are accepted!
 - **Mar 2026**: ISAMORE wins ASPLOS 2026 Best Paper Award! 
@@ -34,8 +36,6 @@ I am looking for highly motivated graduate students, postdocs, and interns to wo
 - **July 2025**: One paper is accepted by MICRO 2025.
 - **July 2025**: Two papers are accepted to ICCAD 2025.
 - **June 2025**: I will organize the special session “Agile and Open Hardware Design and Verification” at ICCAD 2025 together with Prof. Wei Zhang. Please check details at [https://2025.iccad.com/](https://2025.iccad.com/).
-- **May 2025**: Invited Talk at Hongkong ACCESS center ([https://inno-access.hk/](https://inno-access.hk/)).
-- **May 2025**: We organized AHS tutorial at ISEDA 2025. Please check out the details at [https://ericlyun.me/tutorial-iseda2025/](https://ericlyun.me/tutorial-iseda2025/) and [https://www.eda2.com/iseda/tutorials.html](https://www.eda2.com/iseda/tutorials.html).
 
 
 ## Selected Recent Publications ([Full List](/publications/))
@@ -76,5 +76,3 @@ I am looking for highly motivated graduate students, postdocs, and interns to wo
 - High-level Chip Design (Spring’22, Autumn’22)
 - Compiler Techniques (Spring’16, ’17, ’18, ‘19, ’20, ’21, ’22)
 - C++ Programming and Problem Solving (Spring’13, ’14, ’15, ’16, ’17, ’18, ’19, ’20, ’21)
-
-
