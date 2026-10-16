@@ -24,6 +24,9 @@ I am looking for highly motivated graduate students, postdocs, and interns to wo
 
 ## News ([Full List](/news/))
 
+- **Oct 2026**: Inducted into the MICRO Hall of Fame.
+- **Sep 2026**: One ASPLOS paper is accepted!
+- **July 2026**: Four ICCAD papers are accepted!
 - **July 2026**: One MICRO paper is accepted!
 - **June 2026**: Invited talk at EPFL on agile processor specialization. 
 - **May 2026**: One ICML paper is accepted! 
@@ -33,10 +36,6 @@ I am looking for highly motivated graduate students, postdocs, and interns to wo
 - **Jan 2026**: **FESTAL** won ASPDAC 2026 Best Paper Award.  
 - **Jan 2026**: We organized APS tutorial at ASPDAC 2026. Please check out the details at [https://www.aspdac.com/aspdac2026/tutorial/#t5](https://www.aspdac.com/aspdac2026/tutorial/#t5) and [https://aps.ericlyun.me/tutorials/aspdac-2026/](https://aps.ericlyun.me/tutorials/aspdac-2026/). 
 - **Nov 2025**: One paper is accepted by ASPLOS 2026 and three papers are accepted by DATE 2026.
-- **July 2025**: One paper is accepted by MICRO 2025.
-- **July 2025**: Two papers are accepted to ICCAD 2025.
-- **June 2025**: I will organize the special session “Agile and Open Hardware Design and Verification” at ICCAD 2025 together with Prof. Wei Zhang. Please check details at [https://2025.iccad.com/](https://2025.iccad.com/).
-
 
 ## Selected Recent Publications ([Full List](/publications/))
 

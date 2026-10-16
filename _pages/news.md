@@ -7,6 +7,9 @@ author_profile: true
 ## ALL News
 
 ### 2026
+- **Oct 2026**: Inducted into the MICRO Hall of Fame.
+- **Sep 2026**: One ASPLOS paper is accepted!
+- **July 2026**: Four ICCAD papers are accepted!
 - **July 2026**: One MICRO paper is accepted!
 - **June 2026**: Invited talk at EPFL on agile processor specialization. 
 - **May 2026**: One ICML paper is accepted! 
