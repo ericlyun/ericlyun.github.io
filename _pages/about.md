@@ -13,7 +13,7 @@ redirect_from:
 *Boya Distinguished Professor of Peking University*  
 *ACM Distinguished Scientist/Member*
 
-I am an Endowed Boya Distinguished Professor in the School of Integrated Circuit and School of EECS at Peking University. My research interest is at the hardware-software interface with work spanning electronic design automation (EDA), hardware and software co-design, and computer architecture. My recent publications investigate new algorithms, programming models, design automation tools and methodologies, and hardware for high-performance and energy-efficient computer systems. I have authored over 100 scientific publications in the leading international journals and conferences. My research has been recognized with six Best Paper Awards, six Best Paper Award Nominations, National Science Fund for Distinguished Young Scholars, CCF-IEEE CS Young Computer Scientist Award, Beijing Natural Science Fund for Distinguished Young Scholars, Beijing Academy of Artificial Intelligence (BAAI) Young Scientist Award, and National Youth Top-notch Talent Fund. I am an ACM Distinguished Scientist/Member and received the Teaching Excellence Award Peking University in 2024. 
+I am an Endowed Boya Distinguished Professor in the School of Integrated Circuit and School of EECS at Peking University. My research interest is at the hardware-software interface with work spanning electronic design automation (EDA), hardware and software co-design, and computer architecture. My recent publications investigate new algorithms, programming models, design automation tools and methodologies, and hardware for high-performance and energy-efficient computer systems. I have authored over 200 scientific publications in the leading international journals and conferences. My research has been recognized with six Best Paper Awards, six Best Paper Award Nominations, National Science Fund for Distinguished Young Scholars, CCF-IEEE CS Young Computer Scientist Award, Beijing Natural Science Fund for Distinguished Young Scholars, Beijing Academy of Artificial Intelligence (BAAI) Young Scientist Award, and National Youth Top-notch Talent Fund. I am an ACM Distinguished Scientist/Member and received the Teaching Excellence Award Peking University in 2024.
 
 I currently serve as Associate Editor of the ACM Transactions on Embedded Computing Systems (TECS) and ACM Transactions on Reconfigurable Technology and Systems (TRETS). I was the program chair of 30th Annual IEEE International Conference on Application-specific Systems, Architecture and Processors (ASAP) 2019 and the International Conference on Field Programmable Technology (FPT) 2022. I also serve in the program committees in the premier conferences including DAC, ICCAD, FPGA, FCCM, HPCA, MICRO, DATE, ASPDAC, ASPLOS, ISCA, PPoPP, PACT, CGO, ICS, CC, CASES, LCTES, ASAP, and ICCD. Prior to joining Peking University, I received my Ph.D in Computer Science from National University of Singapore in 2010. Upon graduation, I worked as a Research Scientist in UIUC.
 
@@ -24,39 +24,41 @@ I am looking for highly motivated graduate students, postdocs, and interns to wo
 
 ## News ([Full List](/news/))
 
+- **Nov 2026**: Two HPCA papers are accepted.
+- **Nov 2026**: GUALO is nominated for BPA of ICCAD.
 - **Oct 2026**: Inducted into the MICRO Hall of Fame.
 - **Sep 2026**: One ASPLOS paper is accepted!
 - **July 2026**: Four ICCAD papers are accepted!
 - **July 2026**: One MICRO paper is accepted!
-- **June 2026**: Invited talk at EPFL on agile processor specialization. 
+- **June 2026**: Invited talk at EPFL on agile processor specialization.
+- **June 2026**: Honored to serve as a dissertation committee at EPFL. Congratulations to Canberk!
 - **May 2026**: One ICML paper is accepted! 
 - **April 2026**: Two ISCA papers are accepted!
 - **Mar 2026**: ISAMORE wins ASPLOS 2026 Best Paper Award! 
 - **Mar 2026**: Three DAC papers are accepted!
-- **Jan 2026**: **FESTAL** won ASPDAC 2026 Best Paper Award.  
-- **Jan 2026**: We organized APS tutorial at ASPDAC 2026. Please check out the details at [https://www.aspdac.com/aspdac2026/tutorial/#t5](https://www.aspdac.com/aspdac2026/tutorial/#t5) and [https://aps.ericlyun.me/tutorials/aspdac-2026/](https://aps.ericlyun.me/tutorials/aspdac-2026/). 
-- **Nov 2025**: One paper is accepted by ASPLOS 2026 and three papers are accepted by DATE 2026.
 
 ## Selected Recent Publications ([Full List](/publications/))
 
--	Khronos: Fusing Memory Access for Improved Hardware RTL Simulation (**MICRO**), 2023.
--	TileFlow: A Framework for Modeling Fusion Dataflow via Tree-based Analysis (**MICRO**) 2023.
-- Chimera: An Analytical Optimizing Framework for Effective Compute-intensive Operators Fusion (**HPCA**),2023.
+- Finding Reusable Instructions via E-graph Anti-Unification (**ASPLOS**) 2026.
+- APS: Open-Source Hardware-Software Co-Design Framework for Agile Processor Specialization (**ICCAD**) 2025.
+- TileFlow: A Framework for Modeling Fusion Dataflow via Tree-based Analysis (**MICRO**) 2023.
 - Hector: A Multi-level Intermediate Representation for Hardware Synthesis Methodologies (**ICCAD**) 2022.
 - AMOS: Enabling Automatic Mapping for Tensor Computations on Spatial Accelerators with Hardware Abstraction (**ISCA**) 2022.
 - Sanger: A Co-Design Framework for Enabling Sparse Attention using Reconfigurable Architecture (**MICRO**) 2022.
 - TENET: A Framework for Modeling Tensor Dataflow based on Relation-centric Notation (**ISCA**) 2021.
 - HASCO: Towards Agile Hardware and Software Co-design for Tensor Computation (**ISCA**) 2021.
 - TensorLib: A Spatial Accelerator Generation Framework for Tensor Algebra (**DAC**) 2021.
-- FCNNLib: An Efficient and Flexible Convolution Algorithm Library on FPGAs (**DAC**) 2020.
 - FlexTensor: An Automatic Schedule Exploration and Optimization Framework for Tensor Computation on Heterogeneous System (**ASPLOS**) 2020.
 
 ## Awards and Honors
 
+- **ACM SIGMICRO Hall of Fame.**
+- **Best Paper Award Nomination**. International Conference on Computer Aided Design (ICCAD), November, 2026.
 - <span style="color:red">**Best Paper Award**</span>. ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2026.
 - <span style="color:red">**Best Paper Award**</span>. 31st Asia and South Pacific Design Automation Conference (ASPDAC) 2026. 
 - <span style="color:red">**Best Paper Award**</span>. International Symposium of EDA 2024 (ISEDA 2024)
 -	**Teaching Excellence Award Peking University (北京大学教学卓越奖) 2024.**
+- **ACM Distinguished Scientist/Member**
 - <span style="color:red">**Best Paper Award**</span>. The third International Workshop on Efficient Artificial Intelligence For Edge Computing (**EAI**) in conjunction with ICDCS 2022
 - **Best Paper Award Nomination**, ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming (PPoPP), 2019. (4 nominations out of 152 submissions). 
 - <span style="color:red">**Best Paper Award**</span>, International Conference on Computer Aided Design (ICCAD), November, 2017. (2 out of 350 submissions). 
@@ -72,6 +74,6 @@ I am looking for highly motivated graduate students, postdocs, and interns to wo
 ## Teaching 
 - Modeling, Analysis, and Optimization for Computing System (Spring’23, '24, '25, '26')
 - Introduction to Design Automation and Computing System (Autumn’22)
-- High-level Chip Design (Spring’22, Autumn’22)
+- High-level Chip Design (Spring’22, Autumn’22, ’23, ’24, ’25)
 - Compiler Techniques (Spring’16, ’17, ’18, ‘19, ’20, ’21, ’22)
 - C++ Programming and Problem Solving (Spring’13, ’14, ’15, ’16, ’17, ’18, ’19, ’20, ’21)

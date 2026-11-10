@@ -7,11 +7,14 @@ author_profile: true
 ## ALL News
 
 ### 2026
+- **Nov 2026**: Two HPCA papers are accepted.
+- **Nov 2026**: GUALO is nominated for BPA of ICCAD.
 - **Oct 2026**: Inducted into the MICRO Hall of Fame.
 - **Sep 2026**: One ASPLOS paper is accepted!
 - **July 2026**: Four ICCAD papers are accepted!
 - **July 2026**: One MICRO paper is accepted!
-- **June 2026**: Invited talk at EPFL on agile processor specialization. 
+- **June 2026**: Invited talk at EPFL on agile processor specialization.
+- **June 2026**: Honored to serve as a dissertation committee at EPFL. Congratulations to Canberk!
 - **May 2026**: One ICML paper is accepted! 
 - **April 2026**: Two ISCA papers are accepted!
 - **Mar 2026**: ISAMORE wins ASPLOS 2026 Best Paper Award! 
